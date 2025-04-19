@@ -1,0 +1,177 @@
+{
+  "recipes": [
+    {
+      "id": "keto-chicken-salad",
+      "title": "Creamy Keto Chicken Salad",
+      "image": "/images/chicken-salad.jpg",
+      "tags": ["keto", "low-carb", "lunch", "high-protein"],
+      "nutrition": {
+        "calories": 450,
+        "protein": 35,
+        "carbs": 5,
+        "fat": 30
+      },
+      "prepTime": "15 mins",
+      "cookTime": "0 mins",
+      "servings": 2
+    },
+    {
+      "id": "vegan-avocado-toast",
+      "title": "Simple Vegan Avocado Toast",
+      "image": "/images/avocado-toast.jpg",
+      "tags": ["vegan", "breakfast", "quick", "plant-based"],
+      "nutrition": {
+        "calories": 250,
+        "protein": 6,
+        "carbs": 25,
+        "fat": 15
+      },
+      "prepTime": "5 mins",
+      "cookTime": "5 mins",
+      "servings": 1
+    },
+    {
+      "id": "greek-yogurt-parfait",
+      "title": "Greek Yogurt Parfait with Berries",
+      "image": "/images/yogurt-parfait.jpg",
+      "tags": ["breakfast", "high-protein", "quick", "vegetarian"],
+      "nutrition": {
+        "calories": 280,
+        "protein": 20,
+        "carbs": 30,
+        "fat": 8
+      },
+      "prepTime": "10 mins",
+      "cookTime": "0 mins",
+      "servings": 1
+    },
+    {
+      "id": "quinoa-vegetable-bowl",
+      "title": "Mediterranean Quinoa Vegetable Bowl",
+      "image": "/images/quinoa-bowl.jpg",
+      "tags": ["lunch", "vegetarian", "mediterranean", "meal-prep"],
+      "nutrition": {
+        "calories": 350,
+        "protein": 12,
+        "carbs": 45,
+        "fat": 14
+      },
+      "prepTime": "15 mins",
+      "cookTime": "20 mins",
+      "servings": 2
+    },
+    {
+      "id": "baked-salmon",
+      "title": "Lemon Herb Baked Salmon",
+      "image": "/images/baked-salmon.jpg",
+      "tags": ["dinner", "high-protein", "omega-3", "gluten-free"],
+      "nutrition": {
+        "calories": 320,
+        "protein": 34,
+        "carbs": 3,
+        "fat": 18
+      },
+      "prepTime": "10 mins",
+      "cookTime": "15 mins",
+      "servings": 2
+    },
+    {
+      "id": "overnight-oats",
+      "title": "Apple Cinnamon Overnight Oats",
+      "image": "/images/overnight-oats.jpg",
+      "tags": ["breakfast", "vegetarian", "meal-prep", "fiber-rich"],
+      "nutrition": {
+        "calories": 310,
+        "protein": 14,
+        "carbs": 42,
+        "fat": 10
+      },
+      "prepTime": "10 mins",
+      "cookTime": "0 mins",
+      "servings": 1
+    },
+    {
+      "id": "black-bean-soup",
+      "title": "Hearty Black Bean Soup",
+      "image": "/images/black-bean-soup.jpg",
+      "tags": ["lunch", "dinner", "vegetarian", "vegan", "high-fiber"],
+      "nutrition": {
+        "calories": 280,
+        "protein": 15,
+        "carbs": 46,
+        "fat": 7
+      },
+      "prepTime": "15 mins",
+      "cookTime": "30 mins",
+      "servings": 6
+    },
+    {
+      "id": "chicken-stir-fry",
+      "title": "Quick Veggie-Packed Chicken Stir Fry",
+      "image": "/images/chicken-stir-fry.jpg",
+      "tags": ["dinner", "high-protein", "quick", "low-fat"],
+      "nutrition": {
+        "calories": 320,
+        "protein": 28,
+        "carbs": 18,
+        "fat": 12
+      },
+      "prepTime": "15 mins",
+      "cookTime": "15 mins",
+      "servings": 4
+    },
+    {
+      "id": "veggie-frittata",
+      "title": "Mediterranean Vegetable Frittata",
+      "image": "/images/veggie-frittata.jpg",
+      "tags": ["breakfast", "high-protein", "vegetarian", "mediterranean"],
+      "nutrition": {
+        "calories": 290,
+        "protein": 18,
+        "carbs": 10,
+        "fat": 20
+      },
+      "prepTime": "15 mins",
+      "cookTime": "25 mins",
+      "servings": 4
+    }
+  ],
+  "education": [
+    {
+      "id": "understanding-keto",
+      "title": "Understanding the Keto Diet",
+      "category": "Diet Education",
+      "tags": ["keto", "nutrition", "diet"]
+    },
+    {
+      "id": "protein-importance",
+      "title": "The Importance of Protein in a Healthy Diet",
+      "category": "Nutrition Fundamentals",
+      "tags": ["protein", "nutrition", "macronutrients", "diet"]
+    },
+    {
+      "id": "hydration-tips",
+      "title": "Staying Hydrated: Why Water Is Essential for Health",
+      "category": "Wellness",
+      "tags": ["hydration", "water", "health", "wellness"]
+    },
+    {
+      "id": "fiber-benefits",
+      "title": "Fiber: The Unsung Hero of Digestive Health",
+      "category": "Nutrition Fundamentals",
+      "tags": ["fiber", "digestive health", "nutrition", "whole foods"]
+    },
+    {
+      "id": "meal-prep-basics",
+      "title": "Meal Prep Basics: Save Time and Eat Better",
+      "category": "Practical Nutrition",
+      "tags": ["meal prep", "organization", "time-saving", "planning"]
+    },
+    {
+      "id": "reading-food-labels",
+      "title": "Decoding Food Labels: A Guide to Making Informed Choices",
+      "category": "Nutrition Fundamentals",
+      "tags": ["shopping", "nutrition", "food labels", "health literacy"]
+    }
+  ]
+} 
