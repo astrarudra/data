@@ -1,0 +1,2572 @@
+[
+  {
+    "type": "Beverages",
+    "name": "Full-Fat Milk",
+    "cal": 61,
+    "carbs": 4.8,
+    "protien": 3.3,
+    "fat": 3.3,
+    "fiber": 4.8,
+    "id": 3
+  },
+  {
+    "type": "Beverages",
+    "name": "Coconut Water",
+    "cal": 19,
+    "carbs": 3.7,
+    "protien": 0.7,
+    "fat": 0.2,
+    "fiber": 2.6,
+    "id": 4
+  },
+  {
+    "type": "Beverages",
+    "name": "Orange Juice",
+    "cal": 45,
+    "carbs": 10.4,
+    "protien": 0.7,
+    "fat": 0.2,
+    "fiber": 8.4,
+    "id": 5
+  },
+  {
+    "type": "Beverages",
+    "name": "Black Coffee",
+    "cal": 2,
+    "carbs": 0,
+    "protien": 0.3,
+    "fat": 0,
+    "fiber": 0,
+    "id": 7
+  },
+  {
+    "type": "Beverages",
+    "name": "Apple Juice",
+    "cal": 46,
+    "carbs": 11.3,
+    "protien": 0.1,
+    "fat": 0.1,
+    "fiber": 9.6,
+    "id": 8
+  },
+  {
+    "type": "Beverages",
+    "name": "Water",
+    "cal": 0,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 0,
+    "id": 9
+  },
+  {
+    "type": "Beverages",
+    "name": "Herbal Tea",
+    "cal": 2,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 0,
+    "id": 11
+  },
+  {
+    "type": "Beverages",
+    "name": "Diet Soda",
+    "cal": 1,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 0,
+    "id": 12
+  },
+  {
+    "type": "Beverages",
+    "name": "Energy Drinks (sugar-free)",
+    "cal": 5,
+    "carbs": 1,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 0,
+    "id": 14
+  },
+  {
+    "type": "Beverages",
+    "name": "Fresh Lime Water (without sugar)",
+    "cal": 7,
+    "carbs": 2,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 0.5,
+    "id": 15
+  },
+  {
+    "type": "Beverages",
+    "name": "Soft Drinks (regular)",
+    "cal": 39,
+    "carbs": 10.3,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 10.3,
+    "id": 16
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Mozzarella Cheese",
+    "cal": 280,
+    "carbs": 1.7,
+    "protien": 28,
+    "fat": 17,
+    "fiber": 0,
+    "id": 17
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Cheddar Cheese",
+    "cal": 402,
+    "carbs": 1.3,
+    "protien": 25,
+    "fat": 33,
+    "fiber": 0,
+    "id": 18
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Cottage Cheese",
+    "cal": 98,
+    "carbs": 3.4,
+    "protien": 11,
+    "fat": 4.3,
+    "fiber": 2.7,
+    "id": 19
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Ricotta Cheese",
+    "cal": 174,
+    "carbs": 3.9,
+    "protien": 11,
+    "fat": 13.1,
+    "fiber": 1.3,
+    "id": 20
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Greek Yogurt (Plain, Whole Milk)",
+    "cal": 59,
+    "carbs": 3.6,
+    "protien": 10,
+    "fat": 0.4,
+    "fiber": 3.6,
+    "id": 21
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Condensed Milk",
+    "cal": 321,
+    "carbs": 55,
+    "protien": 8.7,
+    "fat": 9.5,
+    "fiber": 55,
+    "id": 22
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Cream Cheese",
+    "cal": 342,
+    "carbs": 4.1,
+    "protien": 6.4,
+    "fat": 34.5,
+    "fiber": 3.6,
+    "id": 23
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Yogurt (Plain, Whole Milk)",
+    "cal": 61,
+    "carbs": 4.7,
+    "protien": 3.5,
+    "fat": 3.3,
+    "fiber": 4.7,
+    "id": 24
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Evaporated Milk",
+    "cal": 61,
+    "carbs": 4.7,
+    "protien": 3.5,
+    "fat": 3.3,
+    "fiber": 4.7,
+    "id": 25
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Low-fat Milk",
+    "cal": 50,
+    "carbs": 4.9,
+    "protien": 3.4,
+    "fat": 1.5,
+    "fiber": 4.9,
+    "id": 26
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Skim Milk",
+    "cal": 35,
+    "carbs": 4.9,
+    "protien": 3.4,
+    "fat": 0.2,
+    "fiber": 4.9,
+    "id": 27
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Whole Milk",
+    "cal": 61,
+    "carbs": 4.8,
+    "protien": 3.3,
+    "fat": 3.3,
+    "fiber": 4.8,
+    "id": 28
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Sour Cream",
+    "cal": 198,
+    "carbs": 2.7,
+    "protien": 2.1,
+    "fat": 20,
+    "fiber": 0.5,
+    "id": 29
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Heavy Cream",
+    "cal": 345,
+    "carbs": 2.8,
+    "protien": 2.1,
+    "fat": 35.3,
+    "fiber": 2.8,
+    "id": 30
+  },
+  {
+    "type": "Dairy Products",
+    "name": "Ghee",
+    "cal": 900,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 31
+  },
+  {
+    "type": "Fruits",
+    "name": "Coconut (meat)",
+    "cal": 354,
+    "carbs": 6.2,
+    "protien": 3.3,
+    "fat": 33.5,
+    "fiber": 9,
+    "id": 32
+  },
+  {
+    "type": "Fruits",
+    "name": "Guava",
+    "cal": 68,
+    "carbs": 8.9,
+    "protien": 2.6,
+    "fat": 1,
+    "fiber": 5.4,
+    "id": 33
+  },
+  {
+    "type": "Fruits",
+    "name": "Avocado",
+    "cal": 160,
+    "carbs": 1.8,
+    "protien": 2,
+    "fat": 15,
+    "fiber": 6.7,
+    "id": 34
+  },
+  {
+    "type": "Fruits",
+    "name": "Pomegranate",
+    "cal": 83,
+    "carbs": 14.7,
+    "protien": 1.7,
+    "fat": 1.2,
+    "fiber": 4,
+    "id": 35
+  },
+  {
+    "type": "Fruits",
+    "name": "Blackberry",
+    "cal": 43,
+    "carbs": 4.3,
+    "protien": 1.4,
+    "fat": 0.5,
+    "fiber": 5.3,
+    "id": 36
+  },
+  {
+    "type": "Fruits",
+    "name": "Raspberry",
+    "cal": 52,
+    "carbs": 5.4,
+    "protien": 1.2,
+    "fat": 0.7,
+    "fiber": 6.5,
+    "id": 37
+  },
+  {
+    "type": "Fruits",
+    "name": "Lemon",
+    "cal": 29,
+    "carbs": 6.5,
+    "protien": 1.1,
+    "fat": 0.3,
+    "fiber": 2.8,
+    "id": 38
+  },
+  {
+    "type": "Fruits",
+    "name": "Kiwi",
+    "cal": 61,
+    "carbs": 11.7,
+    "protien": 1.1,
+    "fat": 0.5,
+    "fiber": 3,
+    "id": 39
+  },
+  {
+    "type": "Fruits",
+    "name": "Banana",
+    "cal": 89,
+    "carbs": 20.2,
+    "protien": 1.1,
+    "fat": 0.3,
+    "fiber": 2.6,
+    "id": 40
+  },
+  {
+    "type": "Fruits",
+    "name": "Tomato*",
+    "cal": 18,
+    "carbs": 2.7,
+    "protien": 0.9,
+    "fat": 0.2,
+    "fiber": 1.2,
+    "id": 41
+  },
+  {
+    "type": "Fruits",
+    "name": "Orange",
+    "cal": 47,
+    "carbs": 9.4,
+    "protien": 0.9,
+    "fat": 0.1,
+    "fiber": 2.4,
+    "id": 42
+  },
+  {
+    "type": "Fruits",
+    "name": "Mango",
+    "cal": 60,
+    "carbs": 13.4,
+    "protien": 0.8,
+    "fat": 0.4,
+    "fiber": 1.6,
+    "id": 43
+  },
+  {
+    "type": "Fruits",
+    "name": "Lychee",
+    "cal": 66,
+    "carbs": 15.2,
+    "protien": 0.8,
+    "fat": 0.4,
+    "fiber": 1.3,
+    "id": 44
+  },
+  {
+    "type": "Fruits",
+    "name": "Strawberry",
+    "cal": 32,
+    "carbs": 5.7,
+    "protien": 0.7,
+    "fat": 0.3,
+    "fiber": 2,
+    "id": 45
+  },
+  {
+    "type": "Fruits",
+    "name": "Lime",
+    "cal": 30,
+    "carbs": 7.7,
+    "protien": 0.7,
+    "fat": 0.2,
+    "fiber": 2.8,
+    "id": 46
+  },
+  {
+    "type": "Fruits",
+    "name": "Blueberry",
+    "cal": 57,
+    "carbs": 12.1,
+    "protien": 0.7,
+    "fat": 0.3,
+    "fiber": 2.4,
+    "id": 47
+  },
+  {
+    "type": "Fruits",
+    "name": "Grapes",
+    "cal": 69,
+    "carbs": 16.3,
+    "protien": 0.7,
+    "fat": 0.2,
+    "fiber": 0.9,
+    "id": 48
+  },
+  {
+    "type": "Fruits",
+    "name": "Watermelon",
+    "cal": 30,
+    "carbs": 7.2,
+    "protien": 0.6,
+    "fat": 0.2,
+    "fiber": 0.4,
+    "id": 49
+  },
+  {
+    "type": "Fruits",
+    "name": "Pineapple",
+    "cal": 50,
+    "carbs": 11.7,
+    "protien": 0.5,
+    "fat": 0.1,
+    "fiber": 1.4,
+    "id": 50
+  },
+  {
+    "type": "Fruits",
+    "name": "Pear",
+    "cal": 57,
+    "carbs": 12.1,
+    "protien": 0.4,
+    "fat": 0.1,
+    "fiber": 3.1,
+    "id": 51
+  },
+  {
+    "type": "Fruits",
+    "name": "Chikoo",
+    "cal": 83,
+    "carbs": 14.6,
+    "protien": 0.4,
+    "fat": 1.1,
+    "fiber": 5.3,
+    "id": 52
+  },
+  {
+    "type": "Fruits",
+    "name": "Apple",
+    "cal": 52,
+    "carbs": 11.4,
+    "protien": 0.3,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "id": 53
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Oats (Rolled)",
+    "cal": 389,
+    "carbs": 56,
+    "protien": 17,
+    "fat": 7,
+    "fiber": 0,
+    "id": 54
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Spelt",
+    "cal": 338,
+    "carbs": 60,
+    "protien": 15,
+    "fat": 2.5,
+    "fiber": 0,
+    "id": 55
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Farro",
+    "cal": 329,
+    "carbs": 63,
+    "protien": 14,
+    "fat": 1.6,
+    "fiber": 0,
+    "id": 56
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Amaranth",
+    "cal": 371,
+    "carbs": 66,
+    "protien": 13.5,
+    "fat": 5.7,
+    "fiber": 1.6,
+    "id": 57
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Wheat (Whole)",
+    "cal": 340,
+    "carbs": 57,
+    "protien": 13,
+    "fat": 2.5,
+    "fiber": 0,
+    "id": 58
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Teff",
+    "cal": 367,
+    "carbs": 64,
+    "protien": 13,
+    "fat": 2.4,
+    "fiber": 0,
+    "id": 59
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Buckwheat",
+    "cal": 343,
+    "carbs": 71,
+    "protien": 13,
+    "fat": 3.4,
+    "fiber": 0.4,
+    "id": 60
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Barley",
+    "cal": 354,
+    "carbs": 61,
+    "protien": 12,
+    "fat": 2.3,
+    "fiber": 0.8,
+    "id": 61
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Millet",
+    "cal": 378,
+    "carbs": 72,
+    "protien": 11,
+    "fat": 4,
+    "fiber": 0.4,
+    "id": 62
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Sorghum",
+    "cal": 329,
+    "carbs": 72,
+    "protien": 11,
+    "fat": 3.3,
+    "fiber": 0.7,
+    "id": 63
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Rye",
+    "cal": 338,
+    "carbs": 56,
+    "protien": 10,
+    "fat": 1.2,
+    "fiber": 0.2,
+    "id": 64
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Quinoa",
+    "cal": 120,
+    "carbs": 64,
+    "protien": 4,
+    "fat": 2,
+    "fiber": 0,
+    "id": 65
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Corn (Maize)",
+    "cal": 86,
+    "carbs": 71,
+    "protien": 3.4,
+    "fat": 1.4,
+    "fiber": 6.3,
+    "id": 66
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Bulgur (Cracked Wheat)",
+    "cal": 83,
+    "carbs": 55,
+    "protien": 3.1,
+    "fat": 0.2,
+    "fiber": 0.1,
+    "id": 67
+  },
+  {
+    "type": "Grains and Cereals:",
+    "name": "Brown Rice",
+    "cal": 111,
+    "carbs": 72,
+    "protien": 2.6,
+    "fat": 0.9,
+    "fiber": 0.4,
+    "id": 68
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Fenugreek Seeds (Methi)",
+    "cal": 323,
+    "carbs": 0,
+    "protien": 23,
+    "fat": 6.4,
+    "fiber": 0,
+    "id": 69
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Curry Leaves (Kadi Patta)",
+    "cal": 64,
+    "carbs": 3,
+    "protien": 6.4,
+    "fat": 0.9,
+    "fiber": 0,
+    "id": 70
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Fenugreek Leaves (Methi)",
+    "cal": 49,
+    "carbs": 4,
+    "protien": 4.4,
+    "fat": 0.9,
+    "fiber": 0,
+    "id": 71
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Mint (Pudina)",
+    "cal": 70,
+    "carbs": 6,
+    "protien": 3.8,
+    "fat": 0.9,
+    "fiber": 0,
+    "id": 72
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Dill (Suva)",
+    "cal": 43,
+    "carbs": 7,
+    "protien": 3.5,
+    "fat": 1.1,
+    "fiber": 0.2,
+    "id": 73
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Mustard Greens (Sarson)",
+    "cal": 27,
+    "carbs": 1,
+    "protien": 2.9,
+    "fat": 0.5,
+    "fiber": 0.3,
+    "id": 74
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Spinach (Palak)",
+    "cal": 23,
+    "carbs": 1,
+    "protien": 2.9,
+    "fat": 0.4,
+    "fiber": 0.4,
+    "id": 75
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Amaranth Leaves (Chaulai)",
+    "cal": 23,
+    "carbs": 3,
+    "protien": 2.5,
+    "fat": 0.3,
+    "fiber": 0.1,
+    "id": 76
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Coriander (Dhaniya)",
+    "cal": 23,
+    "carbs": 3,
+    "protien": 2.1,
+    "fat": 0.5,
+    "fiber": 0.9,
+    "id": 77
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Cilantro (Hara Dhaniya)",
+    "cal": 23,
+    "carbs": 3,
+    "protien": 2.1,
+    "fat": 0.5,
+    "fiber": 0.9,
+    "id": 78
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Green Chillies (Hari Mirch)",
+    "cal": 40,
+    "carbs": 4,
+    "protien": 2,
+    "fat": 0.7,
+    "fiber": 0,
+    "id": 79
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Bottle Gourd Leaves (Lauki ke Patte)",
+    "cal": 14,
+    "carbs": 2,
+    "protien": 1.9,
+    "fat": 0.2,
+    "fiber": 0.1,
+    "id": 80
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Radish Leaves (Mooli ke Patte)",
+    "cal": 16,
+    "carbs": 2,
+    "protien": 1.6,
+    "fat": 0.2,
+    "fiber": 0.2,
+    "id": 81
+  },
+  {
+    "type": "Herbs and Greens",
+    "name": "Radish (Mooli) Leaves",
+    "cal": 16,
+    "carbs": 3,
+    "protien": 1.6,
+    "fat": 0.2,
+    "fiber": 0.2,
+    "id": 82
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Bacon",
+    "cal": 541,
+    "carbs": 0.1,
+    "protien": 37,
+    "fat": 42,
+    "fiber": 0,
+    "id": 83
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Chicken Breast (Skinless, cooked)",
+    "cal": 165,
+    "carbs": 0,
+    "protien": 31,
+    "fat": 3.6,
+    "fiber": 0,
+    "id": 84
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Turkey Breast (Skinless, cooked)",
+    "cal": 135,
+    "carbs": 0,
+    "protien": 29,
+    "fat": 1.5,
+    "fiber": 0,
+    "id": 85
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Veal",
+    "cal": 238,
+    "carbs": 0,
+    "protien": 28,
+    "fat": 13,
+    "fiber": 0,
+    "id": 86
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Chicken Thigh (Skinless, cooked)",
+    "cal": 209,
+    "carbs": 0,
+    "protien": 28,
+    "fat": 10,
+    "fiber": 0,
+    "id": 87
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Chicken Drumstick (Skinless, cooked)",
+    "cal": 172,
+    "carbs": 0,
+    "protien": 28,
+    "fat": 6.3,
+    "fiber": 0,
+    "id": 88
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Turkey Thigh (Skinless, cooked)",
+    "cal": 156,
+    "carbs": 0,
+    "protien": 28,
+    "fat": 4.8,
+    "fiber": 0,
+    "id": 89
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Pork (Lean, cooked)",
+    "cal": 242,
+    "carbs": 0,
+    "protien": 27,
+    "fat": 14,
+    "fiber": 0,
+    "id": 90
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Ground Pork (Cooked)",
+    "cal": 297,
+    "carbs": 0,
+    "protien": 26,
+    "fat": 21,
+    "fiber": 0,
+    "id": 91
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Lamb (Lean, cooked)",
+    "cal": 258,
+    "carbs": 0,
+    "protien": 25,
+    "fat": 17,
+    "fiber": 0,
+    "id": 92
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Lamb Chops",
+    "cal": 258,
+    "carbs": 0,
+    "protien": 25,
+    "fat": 17,
+    "fiber": 0,
+    "id": 93
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Beef (Lean, cooked)",
+    "cal": 250,
+    "carbs": 0,
+    "protien": 25,
+    "fat": 16,
+    "fiber": 0,
+    "id": 94
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Ground Beef (Lean, cooked)",
+    "cal": 250,
+    "carbs": 0,
+    "protien": 25,
+    "fat": 16,
+    "fiber": 0,
+    "id": 95
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Ground Turkey (Cooked)",
+    "cal": 189,
+    "carbs": 0,
+    "protien": 22,
+    "fat": 11,
+    "fiber": 0,
+    "id": 96
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Duck Breast (Skinless, cooked)",
+    "cal": 337,
+    "carbs": 0,
+    "protien": 19,
+    "fat": 28.4,
+    "fiber": 0,
+    "id": 97
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Ham",
+    "cal": 145,
+    "carbs": 4.7,
+    "protien": 18,
+    "fat": 7.9,
+    "fiber": 0,
+    "id": 98
+  },
+  {
+    "type": "Meat and Poultry",
+    "name": "Sausages",
+    "cal": 301,
+    "carbs": 2.5,
+    "protien": 13,
+    "fat": 26,
+    "fiber": 0,
+    "id": 99
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Sattu",
+    "cal": 374,
+    "carbs": 57,
+    "protien": 20,
+    "fat": 4.4,
+    "fiber": 6.6,
+    "id": 100
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Mahua",
+    "cal": 280,
+    "carbs": 64,
+    "protien": 18.8,
+    "fat": 11.6,
+    "fiber": 1.3,
+    "id": 101
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Paneer",
+    "cal": 265,
+    "carbs": 2,
+    "protien": 18.3,
+    "fat": 20.8,
+    "fiber": 1.2,
+    "id": 102
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Yogurt (Dahi)",
+    "cal": 61,
+    "carbs": 3,
+    "protien": 3.5,
+    "fat": 3.3,
+    "fiber": 3.2,
+    "id": 103
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Chutney (Mint)",
+    "cal": 60,
+    "carbs": 7,
+    "protien": 3.2,
+    "fat": 0.5,
+    "fiber": 11.6,
+    "id": 104
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Buttermilk (Chaas)",
+    "cal": 40,
+    "carbs": 3,
+    "protien": 3,
+    "fat": 0.8,
+    "fiber": 3.6,
+    "id": 105
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Tamarind (Imli)",
+    "cal": 239,
+    "carbs": 68,
+    "protien": 2.8,
+    "fat": 0.6,
+    "fiber": 57.4,
+    "id": 106
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Chutney (Coriander)",
+    "cal": 48,
+    "carbs": 14,
+    "protien": 2.4,
+    "fat": 1,
+    "fiber": 3.7,
+    "id": 107
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Bael Fruit (Wood Apple)",
+    "cal": 137,
+    "carbs": 9,
+    "protien": 2.3,
+    "fat": 0.6,
+    "fiber": 23.2,
+    "id": 108
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Lotus Stem (Kamal Kakdi)",
+    "cal": 74,
+    "carbs": 4,
+    "protien": 2,
+    "fat": 0.1,
+    "fiber": 0,
+    "id": 109
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Drumstick (Moringa)",
+    "cal": 37,
+    "carbs": 8,
+    "protien": 2,
+    "fat": 0.2,
+    "fiber": 3.5,
+    "id": 110
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Bitter Gourd (Karela)",
+    "cal": 17,
+    "carbs": 4,
+    "protien": 1,
+    "fat": 0.2,
+    "fiber": 0,
+    "id": 111
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Kokum",
+    "cal": 60,
+    "carbs": 12,
+    "protien": 0.6,
+    "fat": 0.3,
+    "fiber": 0,
+    "id": 112
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Pickles",
+    "cal": 20,
+    "carbs": 10,
+    "protien": 0.5,
+    "fat": 0,
+    "fiber": 4,
+    "id": 113
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Amla (Indian Gooseberry)",
+    "cal": 44,
+    "carbs": 14,
+    "protien": 0.5,
+    "fat": 0.6,
+    "fiber": 4.6,
+    "id": 114
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Ash Gourd (Petha)",
+    "cal": 13,
+    "carbs": 2,
+    "protien": 0.4,
+    "fat": 0.1,
+    "fiber": 0.4,
+    "id": 115
+  },
+  {
+    "type": "Miscellaneous",
+    "name": "Sago (Sabudana)",
+    "cal": 332,
+    "carbs": 94,
+    "protien": 0.3,
+    "fat": 0.1,
+    "fiber": 0.3,
+    "id": 116
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Peanuts (Mungfali)",
+    "cal": 567,
+    "carbs": 16,
+    "protien": 25.8,
+    "fat": 49.2,
+    "fiber": 4.7,
+    "id": 117
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Almonds (Badam)",
+    "cal": 579,
+    "carbs": 22,
+    "protien": 21.2,
+    "fat": 49.9,
+    "fiber": 4.2,
+    "id": 118
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Sunflower Seeds (Surajmukhi ke Beej)",
+    "cal": 584,
+    "carbs": 11,
+    "protien": 20.8,
+    "fat": 51.5,
+    "fiber": 2,
+    "id": 119
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Pistachios (Pista)",
+    "cal": 562,
+    "carbs": 28,
+    "protien": 20.6,
+    "fat": 45.4,
+    "fiber": 7.7,
+    "id": 120
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Pumpkin Seeds (Kaddu ke Beej)",
+    "cal": 446,
+    "carbs": 10,
+    "protien": 19.8,
+    "fat": 19.4,
+    "fiber": 1.4,
+    "id": 121
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Flaxseeds (Alsi ke Beej)",
+    "cal": 534,
+    "carbs": 1,
+    "protien": 18.3,
+    "fat": 42.2,
+    "fiber": 1.6,
+    "id": 122
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Cashews (Kaju)",
+    "cal": 553,
+    "carbs": 30,
+    "protien": 18.2,
+    "fat": 43.9,
+    "fiber": 5.9,
+    "id": 123
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Sesame Seeds (Til)",
+    "cal": 573,
+    "carbs": 12,
+    "protien": 17.7,
+    "fat": 49.7,
+    "fiber": 0.3,
+    "id": 124
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Chia Seeds",
+    "cal": 486,
+    "carbs": 7,
+    "protien": 16.5,
+    "fat": 30.7,
+    "fiber": 0,
+    "id": 125
+  },
+  {
+    "type": "Nut/Seed",
+    "name": "Walnuts (Akhrot)",
+    "cal": 654,
+    "carbs": 7,
+    "protien": 15.2,
+    "fat": 65.2,
+    "fiber": 2.6,
+    "id": 126
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Butter",
+    "cal": 717,
+    "carbs": 0.1,
+    "protien": 0.9,
+    "fat": 81.1,
+    "fiber": 0.1,
+    "id": 127
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Duck Fat",
+    "cal": 900,
+    "carbs": 0,
+    "protien": 0.5,
+    "fat": 100,
+    "fiber": 0,
+    "id": 128
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Chicken Fat",
+    "cal": 900,
+    "carbs": 0,
+    "protien": 0.5,
+    "fat": 100,
+    "fiber": 0,
+    "id": 129
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Lard",
+    "cal": 902,
+    "carbs": 0,
+    "protien": 0.1,
+    "fat": 100,
+    "fiber": 0,
+    "id": 130
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Olive Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 131
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Coconut Oil",
+    "cal": 862,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 132
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Avocado Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 133
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "MCT Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 134
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Ghee",
+    "cal": 900,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 135
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Beef Tallow",
+    "cal": 900,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 136
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Fish Oil",
+    "cal": 902,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 137
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Walnut Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 138
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Flaxseed Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 139
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Sunflower Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 140
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Safflower Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 141
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Canola Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 142
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Peanut Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 143
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Sesame Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 144
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Corn Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 145
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Cottonseed Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 146
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Grapeseed Oil",
+    "cal": 884,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 100,
+    "fiber": 0,
+    "id": 147
+  },
+  {
+    "type": "Oil & Fat",
+    "name": "Hemp Seed Oil",
+    "cal": 828,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 92,
+    "fiber": 0,
+    "id": 148
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Soy Flour",
+    "cal": 441,
+    "carbs": 10,
+    "protien": 39,
+    "fat": 20,
+    "fiber": 5.1,
+    "id": 149
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Red Lentil Flour",
+    "cal": 358,
+    "carbs": 60,
+    "protien": 26,
+    "fat": 1.5,
+    "fiber": 2.8,
+    "id": 150
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Chickpea Flour (Besan)",
+    "cal": 387,
+    "carbs": 58,
+    "protien": 22,
+    "fat": 6,
+    "fiber": 10,
+    "id": 151
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Green Pea Flour",
+    "cal": 341,
+    "carbs": 63,
+    "protien": 22,
+    "fat": 1.4,
+    "fiber": 5.7,
+    "id": 152
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Soybeans (Cooked)",
+    "cal": 173,
+    "carbs": 9,
+    "protien": 16.6,
+    "fat": 9,
+    "fiber": 3.3,
+    "id": 153
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Pinto Beans (Cooked)",
+    "cal": 143,
+    "carbs": 17,
+    "protien": 9,
+    "fat": 0.9,
+    "fiber": 0.7,
+    "id": 154
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Lentils (Cooked)",
+    "cal": 116,
+    "carbs": 18,
+    "protien": 9,
+    "fat": 0.4,
+    "fiber": 1,
+    "id": 155
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Black Beans (Cooked)",
+    "cal": 132,
+    "carbs": 22,
+    "protien": 8.9,
+    "fat": 0.5,
+    "fiber": 0.3,
+    "id": 156
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Kidney Beans (Cooked)",
+    "cal": 127,
+    "carbs": 18,
+    "protien": 8.7,
+    "fat": 0.5,
+    "fiber": 0.3,
+    "id": 157
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Black-eyed Peas (Cooked)",
+    "cal": 120,
+    "carbs": 20,
+    "protien": 8.7,
+    "fat": 0.5,
+    "fiber": 2.5,
+    "id": 158
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Navy Beans (Cooked)",
+    "cal": 127,
+    "carbs": 18,
+    "protien": 8,
+    "fat": 0.8,
+    "fiber": 0.6,
+    "id": 159
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Chickpeas (Garbanzo Beans)",
+    "cal": 164,
+    "carbs": 61,
+    "protien": 8,
+    "fat": 2.6,
+    "fiber": 4.8,
+    "id": 160
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Adzuki Beans (Cooked)",
+    "cal": 128,
+    "carbs": 20,
+    "protien": 7.5,
+    "fat": 0.5,
+    "fiber": 0.1,
+    "id": 161
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Fava Beans (Cooked)",
+    "cal": 88,
+    "carbs": 8,
+    "protien": 7,
+    "fat": 0.4,
+    "fiber": 1.4,
+    "id": 162
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Mung Beans (Cooked)",
+    "cal": 105,
+    "carbs": 19,
+    "protien": 7,
+    "fat": 0.4,
+    "fiber": 0.4,
+    "id": 163
+  },
+  {
+    "type": "Pulse/Legume",
+    "name": "Green Peas (Cooked)",
+    "cal": 81,
+    "carbs": 9,
+    "protien": 5,
+    "fat": 0.4,
+    "fiber": 5.7,
+    "id": 164
+  },
+  {
+    "type": "Seafood",
+    "name": "Anchovies (Canned in oil)",
+    "cal": 210,
+    "carbs": 0,
+    "protien": 29,
+    "fat": 10,
+    "fiber": 0,
+    "id": 165
+  },
+  {
+    "type": "Seafood",
+    "name": "Tuna (Canned in water, drained)",
+    "cal": 116,
+    "carbs": 0,
+    "protien": 26,
+    "fat": 0.8,
+    "fiber": 0,
+    "id": 166
+  },
+  {
+    "type": "Seafood",
+    "name": "Salmon (Wild-caught, cooked)",
+    "cal": 206,
+    "carbs": 0,
+    "protien": 25,
+    "fat": 10.5,
+    "fiber": 0,
+    "id": 167
+  },
+  {
+    "type": "Seafood",
+    "name": "Sardines (Canned in oil)",
+    "cal": 208,
+    "carbs": 0,
+    "protien": 24,
+    "fat": 11,
+    "fiber": 0,
+    "id": 168
+  },
+  {
+    "type": "Seafood",
+    "name": "Shrimp (Cooked)",
+    "cal": 99,
+    "carbs": 0,
+    "protien": 24,
+    "fat": 0.3,
+    "fiber": 0,
+    "id": 169
+  },
+  {
+    "type": "Seafood",
+    "name": "Clams (Cooked)",
+    "cal": 142,
+    "carbs": 5,
+    "protien": 24,
+    "fat": 2.1,
+    "fiber": 0,
+    "id": 170
+  },
+  {
+    "type": "Seafood",
+    "name": "Mussels (Cooked)",
+    "cal": 172,
+    "carbs": 7,
+    "protien": 24,
+    "fat": 4.4,
+    "fiber": 0,
+    "id": 171
+  },
+  {
+    "type": "Seafood",
+    "name": "Swordfish (Cooked)",
+    "cal": 165,
+    "carbs": 0,
+    "protien": 22,
+    "fat": 8.1,
+    "fiber": 0,
+    "id": 172
+  },
+  {
+    "type": "Seafood",
+    "name": "Trout (Rainbow, Cooked)",
+    "cal": 162,
+    "carbs": 0,
+    "protien": 21,
+    "fat": 8.4,
+    "fiber": 0,
+    "id": 173
+  },
+  {
+    "type": "Seafood",
+    "name": "Tilapia (Cooked)",
+    "cal": 96,
+    "carbs": 0,
+    "protien": 21,
+    "fat": 1.7,
+    "fiber": 0,
+    "id": 174
+  },
+  {
+    "type": "Seafood",
+    "name": "Halibut (Cooked)",
+    "cal": 115,
+    "carbs": 0,
+    "protien": 18,
+    "fat": 4.5,
+    "fiber": 0,
+    "id": 175
+  },
+  {
+    "type": "Seafood",
+    "name": "Mahi Mahi (Cooked)",
+    "cal": 85,
+    "carbs": 0,
+    "protien": 18,
+    "fat": 1.5,
+    "fiber": 0,
+    "id": 176
+  },
+  {
+    "type": "Seafood",
+    "name": "Crab (Cooked)",
+    "cal": 83,
+    "carbs": 0,
+    "protien": 18,
+    "fat": 1.2,
+    "fiber": 0,
+    "id": 177
+  },
+  {
+    "type": "Seafood",
+    "name": "Cod (Cooked)",
+    "cal": 82,
+    "carbs": 0,
+    "protien": 18,
+    "fat": 0.7,
+    "fiber": 0,
+    "id": 178
+  },
+  {
+    "type": "Seafood",
+    "name": "Lobster (Cooked)",
+    "cal": 89,
+    "carbs": 1,
+    "protien": 18,
+    "fat": 0.9,
+    "fiber": 0,
+    "id": 179
+  },
+  {
+    "type": "Seafood",
+    "name": "Haddock (Cooked)",
+    "cal": 74,
+    "carbs": 0,
+    "protien": 17,
+    "fat": 0.9,
+    "fiber": 0,
+    "id": 180
+  },
+  {
+    "type": "Seafood",
+    "name": "Octopus (Cooked)",
+    "cal": 82,
+    "carbs": 4,
+    "protien": 15,
+    "fat": 0.9,
+    "fiber": 0,
+    "id": 181
+  },
+  {
+    "type": "Seafood",
+    "name": "Oysters (Cooked)",
+    "cal": 68,
+    "carbs": 4,
+    "protien": 7,
+    "fat": 2,
+    "fiber": 0,
+    "id": 182
+  },
+  {
+    "type": "Snacks",
+    "name": "Papad",
+    "cal": 371,
+    "carbs": 65.7,
+    "protien": 14.7,
+    "fat": 1.1,
+    "fiber": 0,
+    "id": 183
+  },
+  {
+    "type": "Snacks",
+    "name": "Chakli",
+    "cal": 565,
+    "carbs": 52.6,
+    "protien": 13.6,
+    "fat": 32.9,
+    "fiber": 0.5,
+    "id": 184
+  },
+  {
+    "type": "Snacks",
+    "name": "Murukku",
+    "cal": 550,
+    "carbs": 51.3,
+    "protien": 13.5,
+    "fat": 33.9,
+    "fiber": 0.6,
+    "id": 185
+  },
+  {
+    "type": "Snacks",
+    "name": "Bhujia",
+    "cal": 542,
+    "carbs": 44.3,
+    "protien": 10.6,
+    "fat": 36.1,
+    "fiber": 0,
+    "id": 186
+  },
+  {
+    "type": "Snacks",
+    "name": "Mathri",
+    "cal": 491,
+    "carbs": 52.6,
+    "protien": 10.5,
+    "fat": 26.9,
+    "fiber": 0.7,
+    "id": 187
+  },
+  {
+    "type": "Snacks",
+    "name": "Chivda",
+    "cal": 494,
+    "carbs": 61.6,
+    "protien": 9.8,
+    "fat": 23.9,
+    "fiber": 2.6,
+    "id": 188
+  },
+  {
+    "type": "Snacks",
+    "name": "Kachori",
+    "cal": 343,
+    "carbs": 28.1,
+    "protien": 8.6,
+    "fat": 23.5,
+    "fiber": 0,
+    "id": 189
+  },
+  {
+    "type": "Snacks",
+    "name": "Dhokla",
+    "cal": 155,
+    "carbs": 21.9,
+    "protien": 8.1,
+    "fat": 3.8,
+    "fiber": 0,
+    "id": 190
+  },
+  {
+    "type": "Snacks",
+    "name": "Pakora",
+    "cal": 332,
+    "carbs": 20.9,
+    "protien": 7.7,
+    "fat": 24.9,
+    "fiber": 1.8,
+    "id": 191
+  },
+  {
+    "type": "Snacks",
+    "name": "Vada",
+    "cal": 327,
+    "carbs": 26.3,
+    "protien": 5.4,
+    "fat": 22.7,
+    "fiber": 0.3,
+    "id": 192
+  },
+  {
+    "type": "Snacks",
+    "name": "Samosa",
+    "cal": 252,
+    "carbs": 25.4,
+    "protien": 5.3,
+    "fat": 14.7,
+    "fiber": 0.9,
+    "id": 193
+  },
+  {
+    "type": "Snacks",
+    "name": "Dosa",
+    "cal": 133,
+    "carbs": 26.8,
+    "protien": 4.4,
+    "fat": 1.3,
+    "fiber": 0.1,
+    "id": 194
+  },
+  {
+    "type": "Snacks",
+    "name": "Upma",
+    "cal": 135,
+    "carbs": 20.3,
+    "protien": 3.3,
+    "fat": 4,
+    "fiber": 1,
+    "id": 195
+  },
+  {
+    "type": "Snacks",
+    "name": "Poha",
+    "cal": 120,
+    "carbs": 20.4,
+    "protien": 2.6,
+    "fat": 3.4,
+    "fiber": 0.1,
+    "id": 196
+  },
+  {
+    "type": "Snacks",
+    "name": "Sambar",
+    "cal": 69,
+    "carbs": 10.9,
+    "protien": 2.2,
+    "fat": 2.1,
+    "fiber": 1.3,
+    "id": 197
+  },
+  {
+    "type": "Snacks",
+    "name": "Idli",
+    "cal": 26,
+    "carbs": 4.8,
+    "protien": 1.8,
+    "fat": 0.3,
+    "fiber": 0.2,
+    "id": 198
+  },
+  {
+    "type": "Snacks",
+    "name": "Jalebi",
+    "cal": 459,
+    "carbs": 71.6,
+    "protien": 1.3,
+    "fat": 18.1,
+    "fiber": 51.5,
+    "id": 199
+  },
+  {
+    "type": "Snacks",
+    "name": "Rasam",
+    "cal": 11,
+    "carbs": 1.9,
+    "protien": 0.7,
+    "fat": 0.2,
+    "fiber": 0.1,
+    "id": 200
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Mustard Powder",
+    "cal": 508,
+    "carbs": 29,
+    "protien": 26.9,
+    "fat": 36.2,
+    "fiber": 6.7,
+    "id": 201
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Parsley",
+    "cal": 271,
+    "carbs": 66,
+    "protien": 26.6,
+    "fat": 5.5,
+    "fiber": 0,
+    "id": 202
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Basil",
+    "cal": 233,
+    "carbs": 61,
+    "protien": 23.7,
+    "fat": 4.1,
+    "fiber": 1,
+    "id": 203
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Dill",
+    "cal": 305,
+    "carbs": 55,
+    "protien": 21.2,
+    "fat": 14.2,
+    "fiber": 0,
+    "id": 204
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Cumin",
+    "cal": 375,
+    "carbs": 18,
+    "protien": 17.8,
+    "fat": 22.3,
+    "fiber": 2.3,
+    "id": 205
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Garlic Powder",
+    "cal": 331,
+    "carbs": 63,
+    "protien": 16.6,
+    "fat": 0.7,
+    "fiber": 2.4,
+    "id": 206
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Chili Powder",
+    "cal": 282,
+    "carbs": 42,
+    "protien": 14.3,
+    "fat": 3.8,
+    "fiber": 17.8,
+    "id": 207
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Curry Powder",
+    "cal": 325,
+    "carbs": 53,
+    "protien": 14.3,
+    "fat": 14.3,
+    "fiber": 0,
+    "id": 208
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Paprika",
+    "cal": 282,
+    "carbs": 22,
+    "protien": 14.1,
+    "fat": 12.9,
+    "fiber": 10,
+    "id": 209
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Coriander (Ground)",
+    "cal": 279,
+    "carbs": 54,
+    "protien": 12.4,
+    "fat": 17.8,
+    "fiber": 0,
+    "id": 210
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Cardamom",
+    "cal": 311,
+    "carbs": 68,
+    "protien": 10.8,
+    "fat": 6.7,
+    "fiber": 0,
+    "id": 211
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Pepper (Black)",
+    "cal": 251,
+    "carbs": 39,
+    "protien": 10.4,
+    "fat": 3.3,
+    "fiber": 0,
+    "id": 212
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Onion Powder",
+    "cal": 349,
+    "carbs": 73,
+    "protien": 10.4,
+    "fat": 1.2,
+    "fiber": 14.6,
+    "id": 213
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Tamari",
+    "cal": 66,
+    "carbs": 4,
+    "protien": 10.3,
+    "fat": 0.4,
+    "fiber": 0.3,
+    "id": 214
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Soy Sauce",
+    "cal": 61,
+    "carbs": 4,
+    "protien": 9.9,
+    "fat": 0.1,
+    "fiber": 2,
+    "id": 215
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Turmeric",
+    "cal": 312,
+    "carbs": 67,
+    "protien": 9.7,
+    "fat": 3.3,
+    "fiber": 0,
+    "id": 216
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Oregano",
+    "cal": 265,
+    "carbs": 69,
+    "protien": 9,
+    "fat": 4.3,
+    "fiber": 0,
+    "id": 217
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Thyme",
+    "cal": 276,
+    "carbs": 75,
+    "protien": 9,
+    "fat": 3.7,
+    "fiber": 0,
+    "id": 218
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Ginger Powder",
+    "cal": 335,
+    "carbs": 57,
+    "protien": 8.9,
+    "fat": 4,
+    "fiber": 3.4,
+    "id": 219
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Bay Leaf",
+    "cal": 313,
+    "carbs": 61,
+    "protien": 7.6,
+    "fat": 8.4,
+    "fiber": 0,
+    "id": 220
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Nutmeg",
+    "cal": 525,
+    "carbs": 49,
+    "protien": 6,
+    "fat": 36.3,
+    "fiber": 0,
+    "id": 221
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Cloves",
+    "cal": 323,
+    "carbs": 35,
+    "protien": 5.9,
+    "fat": 13,
+    "fiber": 0,
+    "id": 222
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Rosemary",
+    "cal": 331,
+    "carbs": 65,
+    "protien": 4.9,
+    "fat": 15.2,
+    "fiber": 0,
+    "id": 223
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Mustard",
+    "cal": 66,
+    "carbs": 5,
+    "protien": 4.7,
+    "fat": 3.1,
+    "fiber": 4,
+    "id": 224
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Cinnamon",
+    "cal": 247,
+    "carbs": 56,
+    "protien": 3.9,
+    "fat": 1.2,
+    "fiber": 2.2,
+    "id": 225
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Ketchup",
+    "cal": 101,
+    "carbs": 24,
+    "protien": 1.4,
+    "fat": 0,
+    "fiber": 20.1,
+    "id": 226
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Lime Juice",
+    "cal": 30,
+    "carbs": 2,
+    "protien": 0.7,
+    "fat": 0.2,
+    "fiber": 0.4,
+    "id": 227
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Hot Sauce",
+    "cal": 29,
+    "carbs": 6,
+    "protien": 0.7,
+    "fat": 0,
+    "fiber": 6.7,
+    "id": 228
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Balsamic Vinegar",
+    "cal": 88,
+    "carbs": 17,
+    "protien": 0.5,
+    "fat": 0,
+    "fiber": 16.3,
+    "id": 229
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Mayonnaise",
+    "cal": 684,
+    "carbs": 0,
+    "protien": 0.4,
+    "fat": 75,
+    "fiber": 1.4,
+    "id": 230
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Lemon Juice",
+    "cal": 22,
+    "carbs": 2,
+    "protien": 0.4,
+    "fat": 0,
+    "fiber": 0.8,
+    "id": 231
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Worcestershire Sauce",
+    "cal": 78,
+    "carbs": 17,
+    "protien": 0.3,
+    "fat": 0.1,
+    "fiber": 11,
+    "id": 232
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Red Wine Vinegar",
+    "cal": 20,
+    "carbs": 0,
+    "protien": 0.1,
+    "fat": 0,
+    "fiber": 0.1,
+    "id": 233
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "White Wine Vinegar",
+    "cal": 18,
+    "carbs": 0,
+    "protien": 0.1,
+    "fat": 0,
+    "fiber": 0.2,
+    "id": 234
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Vanilla Extract",
+    "cal": 288,
+    "carbs": 20,
+    "protien": 0.1,
+    "fat": 0,
+    "fiber": 14,
+    "id": 235
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Salt",
+    "cal": 0,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 0,
+    "id": 236
+  },
+  {
+    "type": "Spice/Condiment",
+    "name": "Apple Cider Vinegar",
+    "cal": 22,
+    "carbs": 0,
+    "protien": 0,
+    "fat": 0,
+    "fiber": 0.4,
+    "id": 237
+  },
+  {
+    "type": "Sweet/Dessert",
+    "name": "Almond Flour Brownies",
+    "cal": 432,
+    "carbs": 23,
+    "protien": 8.5,
+    "fat": 36.7,
+    "fiber": 12,
+    "id": 239
+  },
+  {
+    "type": "Sweet/Dessert",
+    "name": "Milk Chocolate",
+    "cal": 535,
+    "carbs": 59.4,
+    "protien": 7.9,
+    "fat": 30.9,
+    "fiber": 56.3,
+    "id": 241
+  },
+  {
+    "type": "Sweet/Dessert",
+    "name": "Dark Chocolate (70-85% Cocoa)",
+    "cal": 604,
+    "carbs": 24,
+    "protien": 7,
+    "fat": 49,
+    "fiber": 13,
+    "id": 243
+  },
+  {
+    "type": "Sweet/Dessert",
+    "name": "Sugar-Free Chocolate",
+    "cal": 479,
+    "carbs": 50,
+    "protien": 5.5,
+    "fat": 32.3,
+    "fiber": 0,
+    "id": 248
+  },
+  {
+    "type": "Sweet/Dessert",
+    "name": "White Chocolate",
+    "cal": 540,
+    "carbs": 59.1,
+    "protien": 5.4,
+    "fat": 30.2,
+    "fiber": 59.1,
+    "id": 249
+  },
+  {
+    "type": "Vegetables",
+    "name": "Peas",
+    "cal": 81,
+    "carbs": 14,
+    "protien": 5.4,
+    "fat": 0.4,
+    "fiber": 5.1,
+    "id": 255
+  },
+  {
+    "type": "Vegetables",
+    "name": "Corn",
+    "cal": 86,
+    "carbs": 19,
+    "protien": 3.2,
+    "fat": 1.2,
+    "fiber": 2.7,
+    "id": 256
+  },
+  {
+    "type": "Vegetables",
+    "name": "Mushrooms",
+    "cal": 22,
+    "carbs": 2,
+    "protien": 3.1,
+    "fat": 0.3,
+    "fiber": 1,
+    "id": 257
+  },
+  {
+    "type": "Vegetables",
+    "name": "Spinach",
+    "cal": 23,
+    "carbs": 1,
+    "protien": 2.9,
+    "fat": 0.4,
+    "fiber": 2.2,
+    "id": 258
+  },
+  {
+    "type": "Vegetables",
+    "name": "Kale",
+    "cal": 35,
+    "carbs": 4,
+    "protien": 2.9,
+    "fat": 1.5,
+    "fiber": 4.1,
+    "id": 259
+  },
+  {
+    "type": "Vegetables",
+    "name": "Broccoli",
+    "cal": 34,
+    "carbs": 4,
+    "protien": 2.8,
+    "fat": 0.4,
+    "fiber": 2.6,
+    "id": 260
+  },
+  {
+    "type": "Vegetables",
+    "name": "Asparagus",
+    "cal": 20,
+    "carbs": 2,
+    "protien": 2.2,
+    "fat": 0.2,
+    "fiber": 2.1,
+    "id": 261
+  },
+  {
+    "type": "Vegetables",
+    "name": "Potatoes",
+    "cal": "",
+    "carbs": 17,
+    "protien": 2,
+    "fat": 0.1,
+    "fiber": 2.2,
+    "id": 262
+  },
+  {
+    "type": "Vegetables",
+    "name": "Cauliflower",
+    "cal": 25,
+    "carbs": 3,
+    "protien": 1.9,
+    "fat": 0.3,
+    "fiber": 2,
+    "id": 263
+  },
+  {
+    "type": "Vegetables",
+    "name": "Okra",
+    "cal": 33,
+    "carbs": 7,
+    "protien": 1.9,
+    "fat": 0.2,
+    "fiber": 3.2,
+    "id": 264
+  },
+  {
+    "type": "Vegetables",
+    "name": "Green Beans",
+    "cal": 31,
+    "carbs": 4,
+    "protien": 1.8,
+    "fat": 0.2,
+    "fiber": 2.7,
+    "id": 265
+  },
+  {
+    "type": "Vegetables",
+    "name": "Sweet Potatoes",
+    "cal": 86,
+    "carbs": 17,
+    "protien": 1.6,
+    "fat": 0.1,
+    "fiber": 3,
+    "id": 266
+  },
+  {
+    "type": "Vegetables",
+    "name": "Lettuce",
+    "cal": 15,
+    "carbs": 2,
+    "protien": 1.4,
+    "fat": 0.2,
+    "fiber": 1.3,
+    "id": 267
+  },
+  {
+    "type": "Vegetables",
+    "name": "Zucchini",
+    "cal": 17,
+    "carbs": 2,
+    "protien": 1.2,
+    "fat": 0.3,
+    "fiber": 1,
+    "id": 268
+  },
+  {
+    "type": "Vegetables",
+    "name": "Bell Peppers",
+    "cal": 31,
+    "carbs": 6,
+    "protien": 1,
+    "fat": 0.3,
+    "fiber": 2.1,
+    "id": 269
+  },
+  {
+    "type": "Vegetables",
+    "name": "Eggplant",
+    "cal": 25,
+    "carbs": 6,
+    "protien": 1,
+    "fat": 0.2,
+    "fiber": 3,
+    "id": 270
+  },
+  {
+    "type": "Vegetables",
+    "name": "onion",
+    "cal": 40,
+    "carbs": 7.6,
+    "protien": 1,
+    "fat": 0.1,
+    "fiber": 1.1,
+    "id": 271
+  },
+  {
+    "type": "Vegetables",
+    "name": "Tomatoes",
+    "cal": 18,
+    "carbs": 3,
+    "protien": 0.9,
+    "fat": 0.2,
+    "fiber": 1.2,
+    "id": 272
+  },
+  {
+    "type": "Vegetables",
+    "name": "Carrots",
+    "cal": 41,
+    "carbs": 7,
+    "protien": 0.9,
+    "fat": 0.2,
+    "fiber": 2.8,
+    "id": 273
+  },
+  {
+    "type": "Vegetables",
+    "name": "Cucumber",
+    "cal": 16,
+    "carbs": 2,
+    "protien": 0.7,
+    "fat": 0.1,
+    "fiber": 0.5,
+    "id": 274
+  }
+]

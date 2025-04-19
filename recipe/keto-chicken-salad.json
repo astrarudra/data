@@ -1,0 +1,93 @@
+{
+  "id": "keto-chicken-salad",
+  "title": "Creamy Keto Chicken Salad",
+  "description": "A satisfying and low-carb lunch option.",
+  "ingredients": [
+    {
+      "foodId": 87,
+      "name": "cooked, shredded chicken",
+      "quantity": 2,
+      "unit": "cups"
+    },
+    {
+      "foodId": 230,
+      "name": "mayonnaise",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "check for no added sugar"
+    },
+    {
+      "foodId": 265,
+      "name": "celery",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 271,
+      "name": "red onion",
+      "quantity": 2,
+      "unit": "tbsp",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 224,
+      "name": "Dijon mustard",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 212,
+      "name": "black pepper",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 267,
+      "name": "lettuce wraps",
+      "quantity": 0,
+      "unit": "as needed",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a medium bowl, combine the shredded chicken, mayonnaise, celery, red onion, and Dijon mustard."
+    },
+    {
+      "step": 2,
+      "description": "Stir well until everything is evenly coated."
+    },
+    {
+      "step": 3,
+      "description": "Season with salt and black pepper to your liking."
+    },
+    {
+      "step": 4,
+      "description": "Chill for at least 10 minutes before serving to allow flavors to meld."
+    },
+    {
+      "step": 5,
+      "description": "Serve in lettuce wraps, on keto bread, or enjoy straight from the bowl."
+    }
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "prepTime": 15,
+  "cookTime": 0,
+  "servings": 2,
+  "rating": 8,
+  "dietType": "non-veg",
+  "mealType": "lunch"
+} 

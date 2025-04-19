@@ -1,0 +1,173 @@
+{
+  "id": "chicken-stir-fry",
+  "title": "Quick Veggie-Packed Chicken Stir Fry",
+  "description": "A nutrient-dense dinner that's ready in less than 30 minutes.",
+  "ingredients": [
+    {
+      "foodId": 84,
+      "name": "boneless, skinless chicken breast",
+      "quantity": 1,
+      "unit": "lb",
+      "preparation": "cut into thin strips"
+    },
+    {
+      "foodId": 215,
+      "name": "low-sodium soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "divided"
+    },
+    {
+      "foodId": 0,
+      "name": "cornstarch",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 144,
+      "name": "sesame oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "divided"
+    },
+    {
+      "foodId": 206,
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "preparation": "minced"
+    },
+    {
+      "foodId": 219,
+      "name": "fresh ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "grated"
+    },
+    {
+      "foodId": 269,
+      "name": "red bell pepper",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "sliced"
+    },
+    {
+      "foodId": 269,
+      "name": "yellow bell pepper",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "sliced"
+    },
+    {
+      "foodId": 260,
+      "name": "broccoli florets",
+      "quantity": 2,
+      "unit": "cups"
+    },
+    {
+      "foodId": 265,
+      "name": "snap peas",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "foodId": 273,
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "large",
+      "preparation": "julienned"
+    },
+    {
+      "foodId": 0,
+      "name": "low-sodium chicken broth",
+      "quantity": 0.25,
+      "unit": "cup"
+    },
+    {
+      "foodId": 0,
+      "name": "honey",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 233,
+      "name": "rice vinegar",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 207,
+      "name": "red pepper flakes",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "optional": true
+    },
+    {
+      "foodId": 0,
+      "name": "green onions",
+      "quantity": 2,
+      "unit": "whole",
+      "preparation": "sliced"
+    },
+    {
+      "foodId": 124,
+      "name": "sesame seeds",
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a medium bowl, toss chicken strips with 1 tablespoon soy sauce and cornstarch. Let marinate for 10 minutes."
+    },
+    {
+      "step": 2,
+      "description": "Heat 1 tablespoon sesame oil in a large wok or skillet over medium-high heat."
+    },
+    {
+      "step": 3,
+      "description": "Add chicken and cook until no longer pink, about 5-6 minutes. Remove from wok and set aside."
+    },
+    {
+      "step": 4,
+      "description": "Add remaining tablespoon of sesame oil to the wok. Add garlic and ginger and cook for 30 seconds until fragrant."
+    },
+    {
+      "step": 5,
+      "description": "Add bell peppers, broccoli, snap peas, and carrots. Stir-fry for 3-4 minutes until vegetables begin to soften but remain crisp."
+    },
+    {
+      "step": 6,
+      "description": "In a small bowl, whisk together chicken broth, remaining tablespoon of soy sauce, honey, rice vinegar, and red pepper flakes if using."
+    },
+    {
+      "step": 7,
+      "description": "Return chicken to the wok and pour sauce over the chicken and vegetables."
+    },
+    {
+      "step": 8,
+      "description": "Cook for another 2-3 minutes until sauce thickens slightly and everything is well coated."
+    },
+    {
+      "step": 9,
+      "description": "Garnish with green onions and sesame seeds before serving."
+    },
+    {
+      "step": 10,
+      "description": "Serve over brown rice or cauliflower rice for a complete meal."
+    }
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 18,
+    "fat": 12
+  },
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 4,
+  "rating": 8,
+  "dietType": "non-veg",
+  "mealType": "dinner"
+} 

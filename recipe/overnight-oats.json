@@ -1,0 +1,113 @@
+{
+  "id": "overnight-oats",
+  "title": "Apple Cinnamon Overnight Oats",
+  "description": "A make-ahead breakfast that's nutritious, delicious, and ready to grab when you're on the go.",
+  "ingredients": [
+    {
+      "foodId": 54,
+      "name": "rolled oats",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "foodId": 3,
+      "name": "unsweetened almond milk",
+      "quantity": 0.67,
+      "unit": "cup",
+      "notes": "or milk of choice"
+    },
+    {
+      "foodId": 21,
+      "name": "plain Greek yogurt",
+      "quantity": 0.25,
+      "unit": "cup"
+    },
+    {
+      "foodId": 125,
+      "name": "chia seeds",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 0,
+      "name": "maple syrup or honey",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 235,
+      "name": "vanilla extract",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 225,
+      "name": "ground cinnamon",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 221,
+      "name": "ground nutmeg",
+      "quantity": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 53,
+      "name": "apple",
+      "quantity": 1,
+      "unit": "small",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 126,
+      "name": "chopped walnuts",
+      "quantity": 1,
+      "unit": "tbsp",
+      "optional": true,
+      "notes": "or pecans"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a 16 oz mason jar or container with lid, add oats, almond milk, Greek yogurt, chia seeds, maple syrup, vanilla extract, cinnamon, and nutmeg."
+    },
+    {
+      "step": 2,
+      "description": "Stir well until all ingredients are thoroughly combined."
+    },
+    {
+      "step": 3,
+      "description": "Add half of the diced apple and stir gently."
+    },
+    {
+      "step": 4,
+      "description": "Cover with lid and refrigerate overnight or for at least 4 hours."
+    },
+    {
+      "step": 5,
+      "description": "Before serving, top with remaining diced apple and nuts if using."
+    },
+    {
+      "step": 6,
+      "description": "Enjoy cold or warm up slightly in the microwave if preferred."
+    },
+    {
+      "step": 7,
+      "description": "Keeps in refrigerator for up to 3 days."
+    }
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 14,
+    "carbs": 42,
+    "fat": 10
+  },
+  "prepTime": 10,
+  "cookTime": 0,
+  "servings": 1,
+  "rating": 8,
+  "dietType": "vegetarian",
+  "mealType": "breakfast"
+} 

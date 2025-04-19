@@ -1,0 +1,195 @@
+{
+  "id": "black-bean-soup",
+  "title": "Hearty Black Bean Soup",
+  "description": "A protein and fiber-rich soup that's both satisfying and nutritious.",
+  "ingredients": [
+    {
+      "foodId": 131,
+      "name": "olive oil",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 1,
+      "unit": "medium",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 206,
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "preparation": "minced"
+    },
+    {
+      "foodId": 269,
+      "name": "red bell pepper",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 79,
+      "name": "jalapeño",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "seeded and finely diced",
+      "optional": true
+    },
+    {
+      "foodId": 205,
+      "name": "ground cumin",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 217,
+      "name": "dried oregano",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 209,
+      "name": "smoked paprika",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 156,
+      "name": "black beans",
+      "quantity": 3,
+      "unit": "cans",
+      "preparation": "drained and rinsed",
+      "notes": "15 oz each"
+    },
+    {
+      "foodId": 0,
+      "name": "vegetable broth",
+      "quantity": 4,
+      "unit": "cups"
+    },
+    {
+      "foodId": 272,
+      "name": "diced tomatoes",
+      "quantity": 1,
+      "unit": "can",
+      "notes": "14.5 oz"
+    },
+    {
+      "foodId": 227,
+      "name": "lime juice",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 78,
+      "name": "fresh cilantro",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 212,
+      "name": "black pepper",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 34,
+      "name": "avocado",
+      "quantity": 0,
+      "unit": "to taste",
+      "preparation": "diced",
+      "optional": true,
+      "isTopping": true
+    },
+    {
+      "foodId": 21,
+      "name": "plain Greek yogurt",
+      "quantity": 0,
+      "unit": "to taste",
+      "optional": true,
+      "isTopping": true,
+      "notes": "or sour cream"
+    },
+    {
+      "foodId": 0,
+      "name": "green onions",
+      "quantity": 0,
+      "unit": "to taste",
+      "preparation": "sliced",
+      "optional": true,
+      "isTopping": true
+    },
+    {
+      "foodId": 78,
+      "name": "additional cilantro",
+      "quantity": 0,
+      "unit": "to taste",
+      "optional": true,
+      "isTopping": true
+    },
+    {
+      "foodId": 46,
+      "name": "lime wedges",
+      "quantity": 0,
+      "unit": "to taste",
+      "optional": true,
+      "isTopping": true
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Heat olive oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes."
+    },
+    {
+      "step": 2,
+      "description": "Add garlic, bell pepper, and jalapeño (if using) and cook for another 2-3 minutes until fragrant."
+    },
+    {
+      "step": 3,
+      "description": "Stir in cumin, oregano, and smoked paprika and cook for 1 minute."
+    },
+    {
+      "step": 4,
+      "description": "Add two cans of black beans, vegetable broth, and diced tomatoes. Bring to a boil, then reduce heat and simmer for 20 minutes."
+    },
+    {
+      "step": 5,
+      "description": "Using an immersion blender, partially blend the soup, leaving some chunks for texture. Alternatively, transfer about half the soup to a blender, blend until smooth, and return to the pot."
+    },
+    {
+      "step": 6,
+      "description": "Add the remaining can of black beans and simmer for another 5 minutes."
+    },
+    {
+      "step": 7,
+      "description": "Stir in lime juice and cilantro. Season with salt and black pepper to taste."
+    },
+    {
+      "step": 8,
+      "description": "Serve hot with your choice of toppings."
+    }
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 46,
+    "fat": 7
+  },
+  "prepTime": 15,
+  "cookTime": 30,
+  "servings": 6,
+  "rating": 9,
+  "dietType": "vegan",
+  "mealType": "dinner"
+} 

@@ -1,0 +1,101 @@
+{
+  "id": "greek-yogurt-parfait",
+  "title": "Greek Yogurt Parfait with Berries",
+  "description": "A protein-rich breakfast option that combines creamy Greek yogurt with fresh berries and crunchy granola.",
+  "ingredients": [
+    {
+      "foodId": 21,
+      "name": "plain Greek yogurt",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "foodId": 45,
+      "name": "strawberries",
+      "quantity": 0.17,
+      "unit": "cup",
+      "preparation": "fresh"
+    },
+    {
+      "foodId": 47,
+      "name": "blueberries",
+      "quantity": 0.17,
+      "unit": "cup",
+      "preparation": "fresh"
+    },
+    {
+      "foodId": 37,
+      "name": "raspberries",
+      "quantity": 0.16,
+      "unit": "cup",
+      "preparation": "fresh"
+    },
+    {
+      "foodId": 54,
+      "name": "low-sugar granola",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 0,
+      "name": "honey or maple syrup",
+      "quantity": 1,
+      "unit": "tsp",
+      "optional": true
+    },
+    {
+      "foodId": 235,
+      "name": "vanilla extract",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 125,
+      "name": "chia seeds",
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a small bowl, mix the Greek yogurt with vanilla extract."
+    },
+    {
+      "step": 2,
+      "description": "Layer half of the yogurt mixture in a glass or bowl."
+    },
+    {
+      "step": 3,
+      "description": "Add half of the berries on top of the yogurt."
+    },
+    {
+      "step": 4,
+      "description": "Add another layer of yogurt, followed by the remaining berries."
+    },
+    {
+      "step": 5,
+      "description": "Sprinkle granola and chia seeds on top."
+    },
+    {
+      "step": 6,
+      "description": "Drizzle with honey or maple syrup if desired."
+    },
+    {
+      "step": 7,
+      "description": "Serve immediately or refrigerate for up to 2 hours."
+    }
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 8
+  },
+  "prepTime": 10,
+  "cookTime": 0,
+  "servings": 1,
+  "rating": 8,
+  "dietType": "vegetarian",
+  "mealType": "breakfast"
+} 

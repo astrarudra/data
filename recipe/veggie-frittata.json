@@ -1,0 +1,181 @@
+{
+  "id": "veggie-frittata",
+  "title": "Mediterranean Vegetable Frittata",
+  "description": "A protein-rich, vegetable-packed egg dish that's perfect for breakfast, brunch, or dinner.",
+  "ingredients": [
+    {
+      "foodId": 0,
+      "name": "eggs",
+      "quantity": 8,
+      "unit": "large"
+    },
+    {
+      "foodId": 3,
+      "name": "milk",
+      "quantity": 0.25,
+      "unit": "cup",
+      "notes": "dairy or unsweetened plant-based"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 212,
+      "name": "black pepper",
+      "quantity": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 131,
+      "name": "olive oil",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 1,
+      "unit": "small",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 269,
+      "name": "red bell pepper",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 258,
+      "name": "baby spinach",
+      "quantity": 1,
+      "unit": "cup",
+      "preparation": "roughly chopped"
+    },
+    {
+      "foodId": 268,
+      "name": "zucchini",
+      "quantity": 1,
+      "unit": "small",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 206,
+      "name": "garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "preparation": "minced"
+    },
+    {
+      "foodId": 272,
+      "name": "cherry tomatoes",
+      "quantity": 0.5,
+      "unit": "cup",
+      "preparation": "halved"
+    },
+    {
+      "foodId": 18,
+      "name": "crumbled feta cheese",
+      "quantity": 0.25,
+      "unit": "cup",
+      "optional": true
+    },
+    {
+      "foodId": 203,
+      "name": "fresh basil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 202,
+      "name": "fresh parsley",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 217,
+      "name": "dried oregano",
+      "quantity": 0.25,
+      "unit": "tsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Preheat oven to 375°F (190°C)."
+    },
+    {
+      "step": 2,
+      "description": "In a large bowl, whisk together eggs, milk, salt, and pepper until well combined. Set aside."
+    },
+    {
+      "step": 3,
+      "description": "Heat olive oil in a 10-inch oven-safe skillet over medium heat."
+    },
+    {
+      "step": 4,
+      "description": "Add onion and cook until translucent, about 3 minutes."
+    },
+    {
+      "step": 5,
+      "description": "Add bell pepper and zucchini, and cook for another 3-4 minutes until vegetables begin to soften."
+    },
+    {
+      "step": 6,
+      "description": "Add garlic and cook for 30 seconds until fragrant."
+    },
+    {
+      "step": 7,
+      "description": "Stir in spinach and cook until just wilted, about 1 minute."
+    },
+    {
+      "step": 8,
+      "description": "Arrange the cherry tomatoes over the vegetables."
+    },
+    {
+      "step": 9,
+      "description": "Pour the egg mixture evenly over the vegetables."
+    },
+    {
+      "step": 10,
+      "description": "Sprinkle with feta cheese (if using), and dried oregano."
+    },
+    {
+      "step": 11,
+      "description": "Cook on the stovetop for 3-4 minutes until the edges begin to set."
+    },
+    {
+      "step": 12,
+      "description": "Transfer the skillet to the preheated oven and bake for 15-18 minutes, until the frittata is puffed and the center is set."
+    },
+    {
+      "step": 13,
+      "description": "Remove from oven and let cool for 5 minutes."
+    },
+    {
+      "step": 14,
+      "description": "Sprinkle with fresh basil and parsley before serving."
+    },
+    {
+      "step": 15,
+      "description": "Slice into wedges and serve warm or at room temperature."
+    }
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 20
+  },
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 4,
+  "rating": 9,
+  "dietType": "vegetarian",
+  "mealType": "breakfast"
+} 

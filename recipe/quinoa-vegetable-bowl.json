@@ -1,0 +1,134 @@
+{
+  "id": "quinoa-vegetable-bowl",
+  "title": "Mediterranean Quinoa Vegetable Bowl",
+  "description": "A nutrient-packed, plant-based meal that's perfect for lunch or dinner.",
+  "ingredients": [
+    {
+      "foodId": 65,
+      "name": "quinoa",
+      "quantity": 1,
+      "unit": "cup",
+      "preparation": "cooked"
+    },
+    {
+      "foodId": 269,
+      "name": "bell peppers",
+      "quantity": 0.33,
+      "unit": "cup",
+      "preparation": "roasted"
+    },
+    {
+      "foodId": 268,
+      "name": "zucchini",
+      "quantity": 0.33,
+      "unit": "cup",
+      "preparation": "roasted"
+    },
+    {
+      "foodId": 272,
+      "name": "cherry tomatoes",
+      "quantity": 0.34,
+      "unit": "cup",
+      "preparation": "roasted"
+    },
+    {
+      "foodId": 274,
+      "name": "cucumber",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 271,
+      "name": "red onion",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "diced"
+    },
+    {
+      "foodId": 131,
+      "name": "olive oil",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 231,
+      "name": "lemon juice",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 18,
+      "name": "feta cheese",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "crumbled",
+      "optional": true,
+      "notes": "omit for vegan"
+    },
+    {
+      "foodId": 202,
+      "name": "fresh parsley",
+      "quantity": 2,
+      "unit": "tbsp",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 212,
+      "name": "pepper",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 160,
+      "name": "chickpeas",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "rinsed and drained"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cook quinoa according to package instructions and let cool slightly."
+    },
+    {
+      "step": 2,
+      "description": "In a large bowl, combine the cooked quinoa, roasted vegetables, cucumber, red onion, and chickpeas."
+    },
+    {
+      "step": 3,
+      "description": "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper."
+    },
+    {
+      "step": 4,
+      "description": "Pour the dressing over the quinoa mixture and toss gently to combine."
+    },
+    {
+      "step": 5,
+      "description": "Top with crumbled feta cheese (if using) and chopped parsley."
+    },
+    {
+      "step": 6,
+      "description": "Serve at room temperature or chilled."
+    }
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 2,
+  "rating": 9,
+  "dietType": "vegetarian",
+  "mealType": "lunch"
+} 

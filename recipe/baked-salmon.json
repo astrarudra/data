@@ -1,0 +1,119 @@
+{
+  "id": "baked-salmon",
+  "title": "Lemon Herb Baked Salmon",
+  "description": "A simple, nutritious omega-3 rich dinner option that's quick to prepare.",
+  "ingredients": [
+    {
+      "foodId": 167,
+      "name": "salmon fillets",
+      "quantity": 2,
+      "unit": "fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "foodId": 131,
+      "name": "olive oil",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 38,
+      "name": "lemon",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "sliced"
+    },
+    {
+      "foodId": 206,
+      "name": "garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "preparation": "minced"
+    },
+    {
+      "foodId": 204,
+      "name": "fresh dill",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 202,
+      "name": "fresh parsley",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "chopped"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 212,
+      "name": "pepper",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 209,
+      "name": "paprika",
+      "quantity": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "capers",
+      "quantity": 1,
+      "unit": "tbsp",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Preheat oven to 375°F (190°C)."
+    },
+    {
+      "step": 2,
+      "description": "Line a baking sheet with parchment paper or aluminum foil."
+    },
+    {
+      "step": 3,
+      "description": "Place salmon fillets on the baking sheet, skin side down."
+    },
+    {
+      "step": 4,
+      "description": "In a small bowl, mix olive oil, minced garlic, dill, parsley, salt, pepper, and paprika."
+    },
+    {
+      "step": 5,
+      "description": "Brush the mixture over the salmon fillets."
+    },
+    {
+      "step": 6,
+      "description": "Place lemon slices on top and around the salmon. Sprinkle with capers if using."
+    },
+    {
+      "step": 7,
+      "description": "Bake for 12-15 minutes, until salmon flakes easily with a fork."
+    },
+    {
+      "step": 8,
+      "description": "Garnish with additional fresh herbs if desired and serve immediately."
+    }
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 3,
+    "fat": 18
+  },
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 2,
+  "rating": 9,
+  "dietType": "non-veg",
+  "mealType": "dinner"
+} 

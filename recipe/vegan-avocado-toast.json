@@ -1,0 +1,80 @@
+{
+  "id": "vegan-avocado-toast",
+  "title": "Simple Vegan Avocado Toast",
+  "description": "A quick and delicious breakfast or snack!",
+  "ingredients": [
+    {
+      "foodId": 58,
+      "name": "whole-wheat bread",
+      "quantity": 1,
+      "unit": "slice"
+    },
+    {
+      "foodId": 34,
+      "name": "avocado",
+      "quantity": 0.5,
+      "unit": "whole",
+      "preparation": "ripe"
+    },
+    {
+      "foodId": 231,
+      "name": "lemon juice",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 207,
+      "name": "red pepper flakes",
+      "quantity": 0,
+      "unit": "to taste",
+      "optional": true
+    },
+    {
+      "foodId": 0,
+      "name": "everything bagel seasoning",
+      "quantity": 0,
+      "unit": "to taste",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Toast the slice of bread until golden brown."
+    },
+    {
+      "step": 2,
+      "description": "While the bread is toasting, mash the avocado in a small bowl with the lemon juice and salt."
+    },
+    {
+      "step": 3,
+      "description": "Spread the mashed avocado evenly over the toasted bread."
+    },
+    {
+      "step": 4,
+      "description": "Sprinkle with red pepper flakes and/or everything bagel seasoning, if desired."
+    },
+    {
+      "step": 5,
+      "description": "Enjoy immediately!"
+    }
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 15
+  },
+  "prepTime": 5,
+  "cookTime": 5,
+  "servings": 1,
+  "rating": 7,
+  "dietType": "vegan",
+  "mealType": "breakfast"
+} 
