@@ -1,0 +1,169 @@
+{
+  "id": "lighter-dal-makhani",
+  "title": "Lighter Dal Makhani",
+  "description": "A healthier version of the creamy, rich black lentil dal, using less butter and cream.",
+  "ingredients": [
+    {
+      "foodId": 0,
+      "name": "whole black lentils (urad dal)",
+      "quantity": 0.75,
+      "unit": "cup",
+      "preparation": "rinsed and soaked overnight"
+    },
+    {
+      "foodId": 157,
+      "name": "kidney beans (rajma)",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "rinsed and soaked overnight"
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 1,
+      "unit": "medium",
+      "preparation": "finely chopped"
+    },
+    {
+      "foodId": 272,
+      "name": "tomatoes",
+      "quantity": 2,
+      "unit": "medium",
+      "preparation": "pureed"
+    },
+    {
+      "foodId": 219,
+      "name": "ginger-garlic paste",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 79,
+      "name": "green chili",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "slit",
+      "optional": true
+    },
+    {
+      "foodId": 131,
+      "name": "oil or reduced butter",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 205,
+      "name": "cumin seeds",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 216,
+      "name": "turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 207,
+      "name": "red chili powder",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "garam masala",
+      "quantity": 0.75,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "kasuri methi (dried fenugreek leaves)",
+      "quantity": 1,
+      "unit": "tsp",
+      "preparation": "crushed",
+      "optional": true
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 9,
+      "name": "water",
+      "quantity": 4,
+      "unit": "cups",
+      "notes": "for cooking lentils + adjusting consistency"
+    },
+    {
+      "foodId": 24,
+      "name": "low-fat milk or yogurt",
+      "quantity": 0.25,
+      "unit": "cup",
+      "notes": "instead of heavy cream"
+    },
+    {
+      "foodId": 78,
+      "name": "fresh cilantro",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Drain the soaked lentils and kidney beans. Pressure cook them with 3 cups of water and a little salt until very soft and mushy (about 20-25 minutes after the first whistle on medium heat). Mash some lentils against the side of the cooker to thicken."
+    },
+    {
+      "step": 2,
+      "description": "Heat oil/butter in a separate pan. Add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown."
+    },
+    {
+      "step": 3,
+      "description": "Add ginger-garlic paste and green chili. Sauté for 1 minute."
+    },
+    {
+      "step": 4,
+      "description": "Add tomato puree, turmeric powder, red chili powder, and salt. Cook until the oil starts to separate."
+    },
+    {
+      "step": 5,
+      "description": "Pour this onion-tomato masala into the cooked lentils. Add garam masala and kasuri methi (if using). Mix well."
+    },
+    {
+      "step": 6,
+      "description": "Add 1 cup of water (or more, depending on desired consistency) and bring the dal to a simmer."
+    },
+    {
+      "step": 7,
+      "description": "Simmer on low heat for at least 15-20 minutes, stirring occasionally, allowing the flavors to deepen. The longer it simmers, the better the taste."
+    },
+    {
+      "step": 8,
+      "description": "Stir in the low-fat milk or yogurt. Cook for another 2-3 minutes. Do not boil vigorously after adding milk/yogurt."
+    },
+    {
+      "step": 9,
+      "description": "Check salt and adjust consistency."
+    },
+    {
+      "step": 10,
+      "description": "Garnish with fresh cilantro and serve hot."
+    }
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 9
+  },
+  "prepTime": 15,
+  "cookTime": 60,
+  "servings": 4,
+  "rating": 9,
+  "dietType": "vegetarian",
+  "mealType": "dinner"
+} 

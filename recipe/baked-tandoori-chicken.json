@@ -1,0 +1,143 @@
+{
+  "id": "baked-tandoori-chicken",
+  "title": "Baked Tandoori Chicken Tikka",
+  "description": "Smoky and flavorful chicken tikka pieces, baked instead of grilled for a healthier take.",
+  "ingredients": [
+    {
+      "foodId": 84,
+      "name": "boneless, skinless chicken breast or thighs",
+      "quantity": 500,
+      "unit": "grams",
+      "preparation": "cut into 1.5-inch cubes"
+    },
+    {
+      "foodId": 21,
+      "name": "Greek yogurt",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "plain, thick"
+    },
+    {
+      "foodId": 219,
+      "name": "ginger-garlic paste",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 231,
+      "name": "lemon juice",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 0,
+      "name": "tandoori masala powder",
+      "quantity": 1.5,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 209,
+      "name": "paprika or Kashmiri red chili powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for color"
+    },
+    {
+      "foodId": 216,
+      "name": "turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 205,
+      "name": "ground cumin",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 210,
+      "name": "ground coriander",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "garam masala",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 131,
+      "name": "oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "for greasing/brushing"
+    },
+    {
+      "foodId": 271,
+      "name": "onion wedges",
+      "quantity": 0,
+      "unit": "for serving",
+      "optional": true
+    },
+    {
+      "foodId": 38,
+      "name": "lemon wedges",
+      "quantity": 0,
+      "unit": "for serving",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a bowl, combine yogurt, ginger-garlic paste, lemon juice, tandoori masala, paprika/Kashmiri chili powder, turmeric, cumin, coriander, garam masala, and salt. Mix well to form the marinade."
+    },
+    {
+      "step": 2,
+      "description": "Add the chicken cubes to the marinade and coat them thoroughly. Cover and refrigerate for at least 1 hour, or preferably 4-6 hours (or overnight)."
+    },
+    {
+      "step": 3,
+      "description": "Preheat oven to 400°F (200°C). Line a baking sheet with foil or parchment paper and lightly grease it."
+    },
+    {
+      "step": 4,
+      "description": "Thread the marinated chicken pieces onto skewers (if using, soak wooden skewers first) or arrange them in a single layer on the prepared baking sheet."
+    },
+    {
+      "step": 5,
+      "description": "Bake for 15-20 minutes, turning halfway through. Chicken should be cooked through and slightly charred at the edges."
+    },
+    {
+      "step": 6,
+      "description": "Optional: For a smokier flavor, you can broil for the last 2-3 minutes, watching carefully to prevent burning."
+    },
+    {
+      "step": 7,
+      "description": "Brush lightly with oil after removing from the oven."
+    },
+    {
+      "step": 8,
+      "description": "Serve hot with onion and lemon wedges, and mint chutney."
+    }
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 9
+  },
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 3,
+  "rating": 9,
+  "dietType": "non-veg",
+  "mealType": "dinner"
+} 

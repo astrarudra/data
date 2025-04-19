@@ -1,0 +1,155 @@
+{
+  "id": "palak-paneer",
+  "title": "Healthy Palak Paneer",
+  "description": "A classic Indian spinach and cottage cheese curry, made healthier with minimal oil and cream.",
+  "ingredients": [
+    {
+      "foodId": 102,
+      "name": "paneer",
+      "quantity": 200,
+      "unit": "grams",
+      "preparation": "cubed"
+    },
+    {
+      "foodId": 75,
+      "name": "spinach",
+      "quantity": 250,
+      "unit": "grams",
+      "preparation": "fresh or frozen"
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 1,
+      "unit": "medium",
+      "preparation": "finely chopped"
+    },
+    {
+      "foodId": 272,
+      "name": "tomatoes",
+      "quantity": 2,
+      "unit": "medium",
+      "preparation": "pureed or finely chopped"
+    },
+    {
+      "foodId": 219,
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "inch piece",
+      "preparation": "grated or paste"
+    },
+    {
+      "foodId": 206,
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "preparation": "minced or paste"
+    },
+    {
+      "foodId": 79,
+      "name": "green chili",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "chopped",
+      "optional": true
+    },
+    {
+      "foodId": 131,
+      "name": "oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "like olive or avocado oil"
+    },
+    {
+      "foodId": 205,
+      "name": "cumin seeds",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 216,
+      "name": "turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 210,
+      "name": "coriander powder",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "garam masala",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 24,
+      "name": "low-fat yogurt or cream",
+      "quantity": 2,
+      "unit": "tbsp",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Blanch spinach in boiling water for 2 minutes, then immediately plunge into cold water. Drain and blend into a smooth puree."
+    },
+    {
+      "step": 2,
+      "description": "Heat half the oil in a non-stick pan. Lightly sauté paneer cubes until golden brown. Set aside."
+    },
+    {
+      "step": 3,
+      "description": "In the same pan, heat the remaining oil. Add cumin seeds and let them splutter."
+    },
+    {
+      "step": 4,
+      "description": "Add chopped onion and sauté until golden brown."
+    },
+    {
+      "step": 5,
+      "description": "Add ginger-garlic paste and green chili. Sauté for a minute until fragrant."
+    },
+    {
+      "step": 6,
+      "description": "Add tomato puree/chopped tomatoes, turmeric powder, coriander powder, and salt. Cook until oil starts to separate from the masala."
+    },
+    {
+      "step": 7,
+      "description": "Add the spinach puree and cook for 5-7 minutes, stirring occasionally."
+    },
+    {
+      "step": 8,
+      "description": "Add sautéed paneer cubes and garam masala. Mix gently."
+    },
+    {
+      "step": 9,
+      "description": "Stir in low-fat yogurt or cream (if using). Simmer for 2 more minutes."
+    },
+    {
+      "step": 10,
+      "description": "Serve hot with roti or brown rice."
+    }
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 18
+  },
+  "prepTime": 20,
+  "cookTime": 25,
+  "servings": 2,
+  "rating": 9,
+  "dietType": "vegetarian",
+  "mealType": "dinner"
+} 

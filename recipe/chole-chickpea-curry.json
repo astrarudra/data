@@ -1,0 +1,162 @@
+{
+  "id": "chole-chickpea-curry",
+  "title": "Healthy Chole (Chickpea Curry)",
+  "description": "A popular and flavorful North Indian chickpea curry, packed with protein and fiber.",
+  "ingredients": [
+    {
+      "foodId": 160,
+      "name": "chickpeas",
+      "quantity": 1,
+      "unit": "cup",
+      "preparation": "dried, soaked overnight, or 2 cans (15 oz each), drained and rinsed"
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 1,
+      "unit": "large",
+      "preparation": "finely chopped"
+    },
+    {
+      "foodId": 272,
+      "name": "tomatoes",
+      "quantity": 2,
+      "unit": "medium",
+      "preparation": "pureed"
+    },
+    {
+      "foodId": 219,
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "inch piece",
+      "preparation": "grated or paste"
+    },
+    {
+      "foodId": 206,
+      "name": "garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "preparation": "minced or paste"
+    },
+    {
+      "foodId": 79,
+      "name": "green chili",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "slit or chopped",
+      "optional": true
+    },
+    {
+      "foodId": 131,
+      "name": "oil",
+      "quantity": 1.5,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 205,
+      "name": "cumin seeds",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 216,
+      "name": "turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 210,
+      "name": "coriander powder",
+      "quantity": 1.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 207,
+      "name": "red chili powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "or to taste"
+    },
+    {
+      "foodId": 0,
+      "name": "chole masala",
+      "quantity": 1.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 9,
+      "name": "water",
+      "quantity": 1.5,
+      "unit": "cups",
+      "notes": "adjust as needed"
+    },
+    {
+      "foodId": 78,
+      "name": "fresh cilantro",
+      "quantity": 2,
+      "unit": "tbsp",
+      "preparation": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "If using dried chickpeas, pressure cook soaked chickpeas with salt and enough water until tender (about 15-20 mins after first whistle). Retain the cooking water. If using canned, rinse well."
+    },
+    {
+      "step": 2,
+      "description": "Heat oil in a pan. Add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown."
+    },
+    {
+      "step": 3,
+      "description": "Add ginger-garlic paste and green chili. Sauté for 1 minute."
+    },
+    {
+      "step": 4,
+      "description": "Add tomato puree, turmeric powder, coriander powder, red chili powder, and salt. Cook until oil separates from the masala."
+    },
+    {
+      "step": 5,
+      "description": "Add chole masala and mix well. Cook for another minute."
+    },
+    {
+      "step": 6,
+      "description": "Add the cooked chickpeas along with some of their cooking water (or add fresh water if using canned). Aim for a thick gravy consistency."
+    },
+    {
+      "step": 7,
+      "description": "Bring to a boil, then cover and simmer on low heat for 10-15 minutes, allowing flavors to meld. Mash some chickpeas against the side of the pot to thicken the gravy if desired."
+    },
+    {
+      "step": 8,
+      "description": "Check salt and adjust consistency with more water if needed."
+    },
+    {
+      "step": 9,
+      "description": "Garnish with fresh cilantro."
+    },
+    {
+      "step": 10,
+      "description": "Serve hot with bhature, roti, naan, or rice."
+    }
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "prepTime": 15,
+  "cookTime": 40,
+  "servings": 4,
+  "rating": 9,
+  "dietType": "vegan",
+  "mealType": "dinner"
+} 

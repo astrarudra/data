@@ -1,0 +1,152 @@
+{
+  "id": "lemon-rice",
+  "title": "Lemon Rice (Chitranna)",
+  "description": "A tangy and flavorful South Indian rice dish tempered with spices and lemon juice.",
+  "ingredients": [
+    {
+      "foodId": 68,
+      "name": "cooked rice",
+      "quantity": 2,
+      "unit": "cups",
+      "preparation": "preferably leftover, cooled. Brown or white rice works."
+    },
+    {
+      "foodId": 131,
+      "name": "oil",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": "sesame or peanut oil recommended"
+    },
+    {
+      "foodId": 224,
+      "name": "mustard seeds",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "urad dal",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "chana dal",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 117,
+      "name": "peanuts or cashews",
+      "quantity": 2,
+      "unit": "tbsp",
+      "optional": true
+    },
+    {
+      "foodId": 70,
+      "name": "curry leaves",
+      "quantity": 1,
+      "unit": "sprig"
+    },
+    {
+      "foodId": 0,
+      "name": "dried red chilies",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "broken",
+      "optional": true
+    },
+    {
+      "foodId": 0,
+      "name": "asafoetida (hing)",
+      "quantity": 1,
+      "unit": "pinch"
+    },
+    {
+      "foodId": 216,
+      "name": "turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 231,
+      "name": "lemon juice",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "foodId": 78,
+      "name": "fresh cilantro",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "chopped",
+      "notes": "for garnish",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Fluff the cooked rice with a fork to separate the grains and let it cool completely."
+    },
+    {
+      "step": 2,
+      "description": "Heat oil in a pan or kadai over medium heat."
+    },
+    {
+      "step": 3,
+      "description": "Add mustard seeds. Once they start popping, add urad dal and chana dal. Sauté until the dals turn light golden brown."
+    },
+    {
+      "step": 4,
+      "description": "Add peanuts/cashews (if using) and sauté for a minute until lightly roasted."
+    },
+    {
+      "step": 5,
+      "description": "Add curry leaves, broken dried red chilies (if using), and asafoetida. Sauté for a few seconds."
+    },
+    {
+      "step": 6,
+      "description": "Turn off the heat. Add turmeric powder and salt to the pan. Mix well."
+    },
+    {
+      "step": 7,
+      "description": "Pour this tempering mixture over the cooled cooked rice."
+    },
+    {
+      "step": 8,
+      "description": "Add lemon juice over the rice."
+    },
+    {
+      "step": 9,
+      "description": "Gently mix everything together until the rice is evenly coated with the spices and turns yellow. Be careful not to mash the rice grains."
+    },
+    {
+      "step": 10,
+      "description": "Garnish with fresh cilantro (if using)."
+    },
+    {
+      "step": 11,
+      "description": "Serve at room temperature or slightly warm."
+    }
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 8
+  },
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 2,
+  "rating": 8,
+  "dietType": "vegan",
+  "mealType": "lunch"
+} 

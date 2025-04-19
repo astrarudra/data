@@ -1,0 +1,126 @@
+{
+  "id": "ragi-roti",
+  "title": "Ragi Roti (Finger Millet Flatbread)",
+  "description": "Nutritious and gluten-free flatbread made from finger millet flour, often served with vegetables or chutney.",
+  "ingredients": [
+    {
+      "foodId": 0,
+      "name": "ragi flour (finger millet flour)",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "finely chopped",
+      "optional": true
+    },
+    {
+      "foodId": 78,
+      "name": "cilantro",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "finely chopped",
+      "optional": true
+    },
+    {
+      "foodId": 79,
+      "name": "green chili",
+      "quantity": 1,
+      "unit": "whole",
+      "preparation": "finely chopped",
+      "optional": true
+    },
+    {
+      "foodId": 205,
+      "name": "cumin seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "optional": true
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 9,
+      "name": "hot water",
+      "quantity": 0.75,
+      "unit": "cup",
+      "notes": "approximately, adjust as needed"
+    },
+    {
+      "foodId": 131,
+      "name": "oil or ghee",
+      "quantity": 0,
+      "unit": "as needed",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a bowl, combine ragi flour, salt, and optional ingredients (onion, cilantro, green chili, cumin seeds). Mix well."
+    },
+    {
+      "step": 2,
+      "description": "Gradually add hot water to the flour mixture, mixing with a spoon initially (as it will be hot)."
+    },
+    {
+      "step": 3,
+      "description": "Once cool enough to handle, knead the mixture into a soft, smooth, non-sticky dough. Add a little more hot water if the dough feels too dry, or a little more ragi flour if it's too sticky."
+    },
+    {
+      "step": 4,
+      "description": "Divide the dough into equal-sized balls."
+    },
+    {
+      "step": 5,
+      "description": "Take one dough ball. Place it on a piece of parchment paper, banana leaf, or a lightly floured surface. You can also use a plastic sheet."
+    },
+    {
+      "step": 6,
+      "description": "Wet your fingers slightly and gently pat the dough ball outwards into a thin, even circle (roti). Alternatively, place another sheet of parchment/plastic on top and roll gently with a rolling pin."
+    },
+    {
+      "step": 7,
+      "description": "Heat a tawa or flat skillet over medium heat."
+    },
+    {
+      "step": 8,
+      "description": "Carefully lift the roti (along with the parchment/plastic if used) and place it dough-side down onto the hot tawa. Peel off the parchment/plastic if used."
+    },
+    {
+      "step": 9,
+      "description": "Cook for about a minute until small bubbles appear. Drizzle a little oil or ghee around the edges if desired."
+    },
+    {
+      "step": 10,
+      "description": "Flip the roti and cook the other side for 1-2 minutes until cooked through and has light brown spots."
+    },
+    {
+      "step": 11,
+      "description": "Press gently with a spatula while cooking."
+    },
+    {
+      "step": 12,
+      "description": "Serve hot with yogurt, chutney, or your favorite vegetable side dish (sabzi)."
+    }
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 1
+  },
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 4,
+  "rating": 7,
+  "dietType": "vegetarian",
+  "mealType": "lunch"
+} 

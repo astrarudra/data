@@ -1,0 +1,134 @@
+{
+  "id": "moong-dal-cheela",
+  "title": "Moong Dal Cheela (Savory Lentil Crepes)",
+  "description": "Healthy, protein-packed savory crepes made from yellow lentils, perfect for breakfast or a light meal.",
+  "ingredients": [
+    {
+      "foodId": 163,
+      "name": "yellow moong dal",
+      "quantity": 1,
+      "unit": "cup",
+      "preparation": "rinsed and soaked for 3-4 hours"
+    },
+    {
+      "foodId": 219,
+      "name": "ginger",
+      "quantity": 0.5,
+      "unit": "inch piece"
+    },
+    {
+      "foodId": 79,
+      "name": "green chili",
+      "quantity": 1,
+      "unit": "whole",
+      "optional": true
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "finely chopped",
+      "optional": true
+    },
+    {
+      "foodId": 78,
+      "name": "cilantro",
+      "quantity": 2,
+      "unit": "tbsp",
+      "preparation": "finely chopped",
+      "optional": true
+    },
+    {
+      "foodId": 216,
+      "name": "turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "asafoetida (hing)",
+      "quantity": 1,
+      "unit": "pinch",
+      "optional": true
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 9,
+      "name": "water",
+      "quantity": 0,
+      "unit": "as needed",
+      "notes": "for grinding and adjusting batter consistency"
+    },
+    {
+      "foodId": 131,
+      "name": "oil",
+      "quantity": 0,
+      "unit": "as needed",
+      "notes": "for cooking the crepes"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Drain the soaked moong dal completely."
+    },
+    {
+      "step": 2,
+      "description": "In a blender, combine the drained dal, ginger, and green chili. Add a little water (start with 1/4 cup) and blend to a smooth, thick batter (like dosa batter consistency). Add more water only if needed."
+    },
+    {
+      "step": 3,
+      "description": "Transfer the batter to a bowl. Add turmeric powder, asafoetida (if using), salt, chopped onion, and cilantro (if using). Mix well."
+    },
+    {
+      "step": 4,
+      "description": "Check consistency. It should be pourable but not too thin. Add a tablespoon or two of water if it's too thick."
+    },
+    {
+      "step": 5,
+      "description": "Heat a non-stick tawa or skillet over medium heat. Grease lightly with oil."
+    },
+    {
+      "step": 6,
+      "description": "Once hot, pour a ladleful of batter onto the center and quickly spread it outwards in a circular motion to form a thin crepe (cheela)."
+    },
+    {
+      "step": 7,
+      "description": "Drizzle a few drops of oil around the edges."
+    },
+    {
+      "step": 8,
+      "description": "Cook on medium-low heat for 2-3 minutes until the edges start to lift and the bottom is golden brown and crisp."
+    },
+    {
+      "step": 9,
+      "description": "Flip the cheela and cook the other side for 1-2 minutes."
+    },
+    {
+      "step": 10,
+      "description": "Fold the cheela in half and serve hot with green chutney or yogurt."
+    },
+    {
+      "step": 11,
+      "description": "Repeat with the remaining batter, greasing the tawa lightly as needed."
+    }
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 3
+  },
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "rating": 8,
+  "dietType": "vegetarian",
+  "mealType": "breakfast"
+} 

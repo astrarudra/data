@@ -1,0 +1,185 @@
+{
+  "id": "lighter-vegetable-korma",
+  "title": "Lighter Vegetable Korma",
+  "description": "A creamy and mildly spiced mixed vegetable curry, made lighter using yogurt or less cashew paste.",
+  "ingredients": [
+    {
+      "foodId": 0,
+      "name": "mixed vegetables",
+      "quantity": 2,
+      "unit": "cups",
+      "preparation": "chopped (e.g., carrots, beans, peas, potatoes, cauliflower)",
+      "foodIds": [273, 265, 255, 262, 263]
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 1,
+      "unit": "large",
+      "preparation": "finely chopped or paste"
+    },
+    {
+      "foodId": 272,
+      "name": "tomatoes",
+      "quantity": 1,
+      "unit": "medium",
+      "preparation": "pureed"
+    },
+    {
+      "foodId": 219,
+      "name": "ginger-garlic paste",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 123,
+      "name": "cashews",
+      "quantity": 8,
+      "unit": "whole",
+      "preparation": "soaked and ground to a paste (optional, use less for lighter version)"
+    },
+    {
+      "foodId": 24,
+      "name": "plain yogurt",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": "whisked (alternative to cashews/cream)"
+    },
+    {
+      "foodId": 131,
+      "name": "oil",
+      "quantity": 1.5,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 220,
+      "name": "bay leaf",
+      "quantity": 1,
+      "unit": "whole"
+    },
+    {
+      "foodId": 225,
+      "name": "cinnamon stick",
+      "quantity": 1,
+      "unit": "inch piece"
+    },
+    {
+      "foodId": 211,
+      "name": "green cardamom pods",
+      "quantity": 2,
+      "unit": "pods"
+    },
+    {
+      "foodId": 222,
+      "name": "cloves",
+      "quantity": 2,
+      "unit": "whole"
+    },
+    {
+      "foodId": 210,
+      "name": "coriander powder",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 205,
+      "name": "cumin powder",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 216,
+      "name": "turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 0,
+      "name": "garam masala",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "foodId": 207,
+      "name": "red chili powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "optional": true
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    },
+    {
+      "foodId": 9,
+      "name": "water",
+      "quantity": 1,
+      "unit": "cup",
+      "notes": "adjust as needed"
+    },
+    {
+      "foodId": 78,
+      "name": "fresh cilantro",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Steam or boil the mixed vegetables until just tender. Drain and set aside."
+    },
+    {
+      "step": 2,
+      "description": "Heat oil in a pan. Add bay leaf, cinnamon stick, cardamom pods, and cloves. Sauté for 30 seconds until fragrant."
+    },
+    {
+      "step": 3,
+      "description": "Add onion paste/chopped onion and sauté until light golden brown."
+    },
+    {
+      "step": 4,
+      "description": "Add ginger-garlic paste and sauté for another minute."
+    },
+    {
+      "step": 5,
+      "description": "Stir in tomato puree, coriander powder, cumin powder, turmeric powder, red chili powder (if using), and salt. Cook until oil starts to separate."
+    },
+    {
+      "step": 6,
+      "description": "If using cashew paste, add it now and cook for 2 minutes. If using yogurt, reduce heat, whisk it in slowly to prevent curdling, and cook for 2 minutes."
+    },
+    {
+      "step": 7,
+      "description": "Add the cooked vegetables and water. Mix well."
+    },
+    {
+      "step": 8,
+      "description": "Bring to a simmer, then cover and cook on low heat for 5-7 minutes until the gravy thickens slightly."
+    },
+    {
+      "step": 9,
+      "description": "Stir in garam masala."
+    },
+    {
+      "step": 10,
+      "description": "Garnish with fresh cilantro and serve hot with roti, naan, or rice."
+    }
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 15
+  },
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 4,
+  "rating": 8,
+  "dietType": "vegetarian",
+  "mealType": "dinner"
+} 

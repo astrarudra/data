@@ -152,6 +152,176 @@
       "rating": 9,
       "dietType": "vegetarian",
       "mealType": "breakfast"
+    },
+    {
+      "id": "palak-paneer",
+      "title": "Healthy Palak Paneer",
+      "tags": ["indian", "vegetarian", "dinner", "healthy", "spinach", "paneer"],
+      "nutrition": {
+        "calories": 280,
+        "protein": 18,
+        "carbs": 10,
+        "fat": 18
+      },
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 2,
+      "rating": 9,
+      "dietType": "vegetarian",
+      "mealType": "dinner"
+    },
+    {
+      "id": "chole-chickpea-curry",
+      "title": "Healthy Chole (Chickpea Curry)",
+      "tags": ["indian", "vegan", "vegetarian", "dinner", "healthy", "chickpeas", "protein"],
+      "nutrition": {
+        "calories": 320,
+        "protein": 12,
+        "carbs": 45,
+        "fat": 10
+      },
+      "prepTime": 15,
+      "cookTime": 40,
+      "servings": 4,
+      "rating": 9,
+      "dietType": "vegan",
+      "mealType": "dinner"
+    },
+    {
+      "id": "baked-tandoori-chicken",
+      "title": "Baked Tandoori Chicken Tikka",
+      "tags": ["indian", "non-veg", "dinner", "healthy", "chicken", "baked", "high-protein"],
+      "nutrition": {
+        "calories": 220,
+        "protein": 30,
+        "carbs": 5,
+        "fat": 9
+      },
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 3,
+      "rating": 9,
+      "dietType": "non-veg",
+      "mealType": "dinner"
+    },
+    {
+      "id": "masala-oats-upma",
+      "title": "Masala Oats Upma",
+      "tags": ["indian", "vegetarian", "breakfast", "healthy", "oats", "quick"],
+      "nutrition": {
+        "calories": 250,
+        "protein": 8,
+        "carbs": 40,
+        "fat": 7
+      },
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "rating": 8,
+      "dietType": "vegetarian",
+      "mealType": "breakfast"
+    },
+    {
+      "id": "moong-dal-cheela",
+      "title": "Moong Dal Cheela (Savory Lentil Crepes)",
+      "tags": ["indian", "vegetarian", "breakfast", "healthy", "lentils", "protein", "gluten-free"],
+      "nutrition": {
+        "calories": 150,
+        "protein": 10,
+        "carbs": 20,
+        "fat": 3
+      },
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "rating": 8,
+      "dietType": "vegetarian",
+      "mealType": "breakfast"
+    },
+    {
+      "id": "lighter-vegetable-korma",
+      "title": "Lighter Vegetable Korma",
+      "tags": ["indian", "vegetarian", "dinner", "healthy", "vegetables", "creamy"],
+      "nutrition": {
+        "calories": 260,
+        "protein": 6,
+        "carbs": 25,
+        "fat": 15
+      },
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "rating": 8,
+      "dietType": "vegetarian",
+      "mealType": "dinner"
+    },
+    {
+      "id": "lighter-dal-makhani",
+      "title": "Lighter Dal Makhani",
+      "tags": ["indian", "vegetarian", "dinner", "healthy", "lentils", "comfort food"],
+      "nutrition": {
+        "calories": 300,
+        "protein": 14,
+        "carbs": 40,
+        "fat": 9
+      },
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 4,
+      "rating": 9,
+      "dietType": "vegetarian",
+      "mealType": "dinner"
+    },
+    {
+      "id": "ragi-roti",
+      "title": "Ragi Roti (Finger Millet Flatbread)",
+      "tags": ["indian", "vegetarian", "lunch", "healthy", "gluten-free", "millet"],
+      "nutrition": {
+        "calories": 120,
+        "protein": 3,
+        "carbs": 25,
+        "fat": 1
+      },
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "rating": 7,
+      "dietType": "vegetarian",
+      "mealType": "lunch"
+    },
+    {
+      "id": "vegetable-ishtu",
+      "title": "Vegetable Ishtu (South Indian Stew)",
+      "tags": ["indian", "vegan", "vegetarian", "dinner", "healthy", "south indian", "coconut"],
+      "nutrition": {
+        "calories": 220,
+        "protein": 4,
+        "carbs": 15,
+        "fat": 18
+      },
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 3,
+      "rating": 8,
+      "dietType": "vegan",
+      "mealType": "dinner"
+    },
+    {
+      "id": "lemon-rice",
+      "title": "Lemon Rice (Chitranna)",
+      "tags": ["indian", "vegan", "vegetarian", "lunch", "healthy", "south indian", "rice"],
+      "nutrition": {
+        "calories": 280,
+        "protein": 5,
+        "carbs": 45,
+        "fat": 8
+      },
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "rating": 8,
+      "dietType": "vegan",
+      "mealType": "lunch"
     }
   ],
   "education": [
@@ -159,37 +329,183 @@
       "id": "understanding-keto",
       "title": "Understanding the Keto Diet",
       "category": "Diet Education",
-      "tags": ["keto", "nutrition", "diet"]
+      "tags": ["keto", "nutrition", "diet"],
+      "description": "An overview of the ketogenic diet, explaining how it works, potential benefits, key principles, and important considerations."
     },
     {
       "id": "protein-importance",
       "title": "The Importance of Protein in a Healthy Diet",
       "category": "Nutrition Fundamentals",
-      "tags": ["protein", "nutrition", "macronutrients", "diet"]
+      "tags": ["protein", "nutrition", "macronutrients", "diet"],
+      "description": "Explains the role of protein, daily requirements, benefits of adequate intake, quality sources, timing, and potential concerns."
     },
     {
       "id": "hydration-tips",
       "title": "Staying Hydrated: Why Water Is Essential for Health",
       "category": "Wellness",
-      "tags": ["hydration", "water", "health", "wellness"]
+      "tags": ["hydration", "water", "health", "wellness"],
+      "description": "Highlights the importance of hydration, daily water needs, signs of dehydration, practical tips, and other sources of hydration."
     },
     {
       "id": "fiber-benefits",
       "title": "Fiber: The Unsung Hero of Digestive Health",
       "category": "Nutrition Fundamentals",
-      "tags": ["fiber", "digestive health", "nutrition", "whole foods"]
+      "tags": ["fiber", "digestive health", "nutrition", "whole foods"],
+      "description": "Details the types of fiber, recommended intake, key health benefits (digestive, heart, blood sugar, weight), top food sources, and tips for increasing intake."
     },
     {
       "id": "meal-prep-basics",
       "title": "Meal Prep Basics: Save Time and Eat Better",
-      "category": "Practical Nutrition",
-      "tags": ["meal prep", "organization", "time-saving", "planning"]
+      "category": "Meal Planning",
+      "tags": ["meal prep", "organization", "time-saving", "planning"],
+      "description": "Covers the benefits of meal prepping, essential equipment, step-by-step process, prep-friendly foods, scheduling, storage guidelines, and common mistakes."
     },
     {
       "id": "reading-food-labels",
       "title": "Decoding Food Labels: A Guide to Making Informed Choices",
       "category": "Nutrition Fundamentals",
-      "tags": ["shopping", "nutrition", "food labels", "health literacy"]
+      "tags": ["shopping", "nutrition", "food labels", "health literacy"],
+      "description": "A comprehensive guide on reading nutrition facts panels, ingredient lists, understanding common claims, allergen info, and practical tips for making informed choices."
+    },
+    {
+      "id": "time-saving-meal-prep",
+      "title": "Time-Saving Meal Prep Hacks",
+      "category": "Meal Planning",
+      "tags": ["meal prep", "time-saving", "efficiency", "hacks"],
+      "description": "Streamline your meal prep with tips on multitasking, using appliances, one-pan meals, prepping ingredients vs. full meals, and more."
+    },
+    {
+      "id": "meal-prep-diet-specific",
+      "title": "Meal Prepping for Different Diets",
+      "category": "Meal Planning",
+      "tags": ["meal prep", "keto", "vegan", "gluten-free", "planning"],
+      "description": "Tailor your meal prep strategy for specific dietary needs like keto, vegan, gluten-free, high-protein, or low-carb."
+    },
+    {
+      "id": "budget-meal-planning",
+      "title": "Budget-Friendly Meal Planning",
+      "category": "Meal Planning",
+      "tags": ["meal planning", "budget", "frugal", "cost-saving", "shopping"],
+      "description": "Plan nutritious meals without overspending using tips like planning around sales, buying in bulk, using cheaper proteins, and minimizing waste."
+    },
+    {
+      "id": "meal-planning-busy",
+      "title": "Meal Planning for Busy Professionals",
+      "category": "Meal Planning",
+      "tags": ["meal planning", "time management", "busy schedule", "quick meals"],
+      "description": "Fit healthy meal planning into a demanding schedule with simple recipes, theme nights, batch cooking, and smart shortcuts."
+    },
+    {
+      "id": "meal-prep-burnout",
+      "title": "Overcoming Meal Prep Burnout",
+      "category": "Meal Planning",
+      "tags": ["meal prep", "motivation", "variety", "burnout"],
+      "description": "Stay motivated and avoid meal prep fatigue by trying new recipes, varying components, experimenting with flavors, and simplifying when needed."
+    },
+    {
+      "id": "intro-mediterranean-diet",
+      "title": "Introduction to the Mediterranean Diet",
+      "category": "Diet Education",
+      "tags": ["mediterranean diet", "heart health", "healthy eating", "diet"],
+      "description": "Explore the principles, key components (fruits, veggies, olive oil, fish), and numerous health benefits of the Mediterranean eating pattern."
+    },
+    {
+      "id": "plant-based-diets",
+      "title": "Plant-Based Diets Explained",
+      "category": "Diet Education",
+      "tags": ["plant-based", "vegan", "vegetarian", "flexitarian", "nutrition"],
+      "description": "Understand the spectrum of plant-based eating (vegan, vegetarian, flexitarian) and key nutrients to monitor like B12, iron, and calcium."
+    },
+    {
+      "id": "gluten-free-diets",
+      "title": "Understanding Gluten-Free Diets",
+      "category": "Diet Education",
+      "tags": ["gluten-free", "celiac disease", "nutrition", "diet"],
+      "description": "Learn what gluten is, who needs a gluten-free diet (celiac, sensitivity), and key aspects like reading labels and focusing on naturally GF foods."
+    },
+    {
+      "id": "intermittent-fasting-basics",
+      "title": "Intermittent Fasting: A Beginner's Guide",
+      "category": "Diet Education",
+      "tags": ["intermittent fasting", "IF", "weight loss", "metabolism"],
+      "description": "Explore common intermittent fasting methods (16/8, 5:2), potential benefits like weight loss and insulin sensitivity, and important considerations."
+    },
+    {
+      "id": "low-carb-vs-keto",
+      "title": "Low-Carb Diets vs. Keto: What's the Difference?",
+      "category": "Diet Education",
+      "tags": ["low-carb", "keto", "diet comparison", "nutrition"],
+      "description": "Clarify the distinctions between general low-carb diets and the stricter ketogenic diet regarding carb limits, fat/protein intake, and primary goals."
+    },
+    {
+      "id": "healthy-fats-importance",
+      "title": "Healthy Fats: Why You Need Them",
+      "category": "Nutrition Fundamentals",
+      "tags": ["healthy fats", "omega-3", "monounsaturated", "nutrition", "macronutrients"],
+      "description": "Debunk fat myths and understand the importance of MUFAs and PUFAs (Omega-3s) for energy, vitamin absorption, heart health, and brain function."
+    },
+    {
+      "id": "simple-vs-complex-carbs",
+      "title": "Understanding Carbohydrates: Simple vs. Complex",
+      "category": "Nutrition Fundamentals",
+      "tags": ["carbohydrates", "simple carbs", "complex carbs", "nutrition", "energy"],
+      "description": "Learn the difference between simple (quick energy, low nutrients) and complex carbs (sustained energy, fiber-rich) and their impact on blood sugar."
+    },
+    {
+      "id": "micronutrients-overview",
+      "title": "Micronutrients: Vitamins and Minerals Explained",
+      "category": "Nutrition Fundamentals",
+      "tags": ["vitamins", "minerals", "micronutrients", "nutrition", "health"],
+      "description": "An overview of essential fat-soluble and water-soluble vitamins and macro/trace minerals, their functions, and common food sources."
+    },
+    {
+      "id": "portion-control-guide",
+      "title": "Portion Control: A Practical Guide",
+      "category": "Nutrition Fundamentals",
+      "tags": ["portion control", "weight management", "healthy eating", "mindfulness"],
+      "description": "Practical tips for managing portion sizes using smaller plates, measuring tools, visual cues (hand method), and the plate method."
+    },
+    {
+      "id": "sugar-impact",
+      "title": "The Impact of Sugar on Health",
+      "category": "Nutrition Fundamentals",
+      "tags": ["sugar", "added sugar", "health risks", "nutrition", "diet"],
+      "description": "Understand the difference between natural and added sugars, the health risks of excess consumption, and tips for reducing sugar intake."
+    },
+    {
+      "id": "stress-management",
+      "title": "Stress Management Techniques for Better Health",
+      "category": "Wellness",
+      "tags": ["stress", "wellness", "mental health", "relaxation", "mindfulness"],
+      "description": "Learn effective techniques to manage chronic stress, including mindfulness, deep breathing, exercise, sleep, and time management."
+    },
+    {
+      "id": "sleep-importance",
+      "title": "The Importance of Sleep for Overall Health",
+      "category": "Wellness",
+      "tags": ["sleep", "wellness", "health", "mental health", "rest"],
+      "description": "Understand why sleep is crucial for physical restoration, brain function, immunity, mood, and metabolic health, plus tips for better sleep."
+    },
+    {
+      "id": "exercise-benefits",
+      "title": "Benefits of Regular Exercise",
+      "category": "Wellness",
+      "tags": ["exercise", "fitness", "health", "wellness", "mental health"],
+      "description": "Explore the numerous physical (weight, heart, bone health) and mental (stress, mood, cognition) benefits of regular physical activity."
+    },
+    {
+      "id": "mindful-eating",
+      "title": "Mindful Eating Practices",
+      "category": "Wellness",
+      "tags": ["mindful eating", "wellness", "nutrition", "mental health", "habits"],
+      "description": "Cultivate a healthier relationship with food by slowing down, engaging senses, eliminating distractions, listening to your body, and appreciating food."
+    },
+    {
+      "id": "balanced-workout",
+      "title": "Creating a Balanced Workout Routine",
+      "category": "Wellness",
+      "tags": ["exercise", "fitness", "workout routine", "cardio", "strength training"],
+      "description": "Design a well-rounded exercise program including cardio, strength training, flexibility, and rest, with a sample weekly structure."
     }
   ]
 } 

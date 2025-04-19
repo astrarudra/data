@@ -1,0 +1,159 @@
+{
+  "id": "vegetable-ishtu",
+  "title": "Vegetable Ishtu (South Indian Stew)",
+  "description": "A mild, fragrant, and coconut milk-based vegetable stew from Kerala, South India.",
+  "ingredients": [
+    {
+      "foodId": 0,
+      "name": "mixed vegetables",
+      "quantity": 2,
+      "unit": "cups",
+      "preparation": "cut into 1-inch pieces (e.g., potatoes, carrots, green beans, peas)",
+      "foodIds": [262, 273, 265, 255]
+    },
+    {
+      "foodId": 271,
+      "name": "onion",
+      "quantity": 1,
+      "unit": "medium",
+      "preparation": "sliced"
+    },
+    {
+      "foodId": 79,
+      "name": "green chilies",
+      "quantity": 2,
+      "unit": "whole",
+      "preparation": "slit lengthwise"
+    },
+    {
+      "foodId": 219,
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "inch piece",
+      "preparation": "julienned or crushed"
+    },
+    {
+      "foodId": 206,
+      "name": "garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "preparation": "sliced or crushed"
+    },
+    {
+      "foodId": 225,
+      "name": "cinnamon stick",
+      "quantity": 0.5,
+      "unit": "inch piece"
+    },
+    {
+      "foodId": 222,
+      "name": "cloves",
+      "quantity": 2,
+      "unit": "whole"
+    },
+    {
+      "foodId": 211,
+      "name": "green cardamom pods",
+      "quantity": 2,
+      "unit": "pods",
+      "preparation": "slightly crushed"
+    },
+    {
+      "foodId": 212,
+      "name": "black peppercorns",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "optional": true
+    },
+    {
+      "foodId": 70,
+      "name": "curry leaves",
+      "quantity": 1,
+      "unit": "sprig"
+    },
+    {
+      "foodId": 132,
+      "name": "coconut oil",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "foodId": 4,
+      "name": "thin coconut milk",
+      "quantity": 1,
+      "unit": "cup",
+      "notes": "second extract or diluted canned"
+    },
+    {
+      "foodId": 4,
+      "name": "thick coconut milk",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "first extract or canned full-fat"
+    },
+    {
+      "foodId": 236,
+      "name": "salt",
+      "quantity": 0,
+      "unit": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Heat coconut oil in a pot or pan over medium heat."
+    },
+    {
+      "step": 2,
+      "description": "Add cinnamon stick, cloves, cardamom pods, and black peppercorns (if using). Sauté for 30 seconds until fragrant."
+    },
+    {
+      "step": 3,
+      "description": "Add sliced onions, green chilies, ginger, garlic, and curry leaves. Sauté until onions turn translucent."
+    },
+    {
+      "step": 4,
+      "description": "Add the mixed vegetables and sauté for 2-3 minutes."
+    },
+    {
+      "step": 5,
+      "description": "Pour in the thin coconut milk and add salt. Bring to a gentle boil."
+    },
+    {
+      "step": 6,
+      "description": "Cover the pot, reduce the heat to low, and simmer for 10-15 minutes, or until the vegetables are cooked through and tender."
+    },
+    {
+      "step": 7,
+      "description": "Once vegetables are cooked, stir in the thick coconut milk."
+    },
+    {
+      "step": 8,
+      "description": "Gently heat through for 1-2 minutes on low heat. Do not boil after adding thick coconut milk, as it may curdle."
+    },
+    {
+      "step": 9,
+      "description": "Check salt and adjust if needed."
+    },
+    {
+      "step": 10,
+      "description": "Turn off the heat. You can drizzle a little more coconut oil on top if desired."
+    },
+    {
+      "step": 11,
+      "description": "Serve hot with appam, idiyappam, roti, or bread."
+    }
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 18
+  },
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 3,
+  "rating": 8,
+  "dietType": "vegan",
+  "mealType": "dinner"
+} 
