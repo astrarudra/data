@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Developer Bookmarklets - Your Browser Toolkit</title>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #e0e0e0;
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 25%, #16213e 50%, #0f3460 75%, #0a0a0a 100%);
+    min-height: 100vh;
+    background-attachment: fixed;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+     .header h1 {
+     font-size: 3rem;
+     font-weight: 700;
+     background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe);
+     background-size: 400% 400%;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-clip: text;
+     animation: gradientShift 4s ease-in-out infinite;
+     margin-bottom: 1rem;
+   }
+
+  @keyframes gradientShift {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+  }
+
+  .subtitle {
+    font-size: 1.2rem;
+    color: #b0b0b0;
+    margin-bottom: 1rem;
+  }
+
+  .intro {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  }
+
+  .intro h2 {
+    color: #4ecdc4;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .intro-steps {
+    list-style: none;
+    counter-reset: step-counter;
+  }
+
+  .intro-steps li {
+    counter-increment: step-counter;
+    margin-bottom: 1rem;
+    padding-left: 3rem;
+    position: relative;
+  }
+
+     .intro-steps li::before {
+     content: counter(step-counter);
+     position: absolute;
+     left: 0;
+     top: 0;
+     background: linear-gradient(45deg, #374151, #4b5563);
+     color: white;
+     width: 2rem;
+     height: 2rem;
+     border-radius: 50%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     font-weight: bold;
+     font-size: 0.9rem;
+   }
+
+  .bookmarklets-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .bookmarklet-card {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+    transition: all 0.3s ease;
+  }
+
+  .bookmarklet-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+    border-color: rgba(255, 255, 255, 0.25);
+  }
+
+  .bookmarklet-title {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .bookmarklet-description {
+    color: #c0c0c0;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+  }
+
+  .bookmarklet-usage {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border-left: 4px solid #4ecdc4;
+  }
+
+  .bookmarklet-usage h4 {
+    color: #4ecdc4;
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+  }
+
+  .bookmarklet-usage ul {
+    list-style: none;
+  }
+
+  .bookmarklet-usage li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+  }
+
+  .bookmarklet-usage li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #4ecdc4;
+    font-weight: bold;
+  }
+
+     .bookmarklet-button {
+     display: block;
+     width: 100%;
+     padding: 12px 24px;
+     background: linear-gradient(45deg, #1f2937, #374151);
+     color: white;
+     text-decoration: none;
+     border-radius: 25px;
+     font-weight: 600;
+     transition: all 0.3s ease;
+     box-shadow: 0 4px 15px rgba(31, 41, 55, 0.3);
+     cursor: grab;
+     border: 2px solid transparent;
+     text-align: center;
+   }
+
+     .bookmarklet-button:hover {
+     transform: translateY(-2px);
+     box-shadow: 0 8px 25px rgba(31, 41, 55, 0.5);
+     border-color: rgba(255, 255, 255, 0.3);
+   }
+
+  .bookmarklet-button:active {
+    transform: translateY(0);
+    cursor: grabbing;
+  }
+
+  .drag-instruction {
+    background: rgba(255, 235, 59, 0.1);
+    border: 1px solid rgba(255, 235, 59, 0.3);
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+    color: #ffeb3b;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .warning {
+    background: rgba(255, 152, 0, 0.1);
+    border: 1px solid rgba(255, 152, 0, 0.3);
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 1rem;
+    color: #ff9800;
+    font-size: 0.9rem;
+  }
+
+  .footer {
+    text-align: center;
+    margin-top: 3rem;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .footer h3 {
+    color: #4ecdc4;
+    margin-bottom: 1rem;
+  }
+
+  .tip {
+    background: rgba(76, 175, 80, 0.1);
+    border: 1px solid rgba(76, 175, 80, 0.3);
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem 0;
+    color: #4caf50;
+  }
+
+  .tip strong {
+    color: #66bb6a;
+  }
+
+     .how-it-works {
+     background: rgba(255, 255, 255, 0.05);
+     backdrop-filter: blur(10px);
+     border: 1px solid rgba(255, 255, 255, 0.1);
+     border-radius: 15px;
+     padding: 2rem;
+     margin-bottom: 3rem;
+     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+   }
+
+   .how-it-works h2 {
+     color: #4ecdc4;
+     margin-bottom: 1rem;
+     font-size: 1.8rem;
+     text-align: center;
+   }
+
+   .tech-grid {
+     display: grid;
+     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+     gap: 1.5rem;
+     margin: 2rem 0;
+   }
+
+   .tech-card {
+     background: rgba(0, 0, 0, 0.3);
+     border-radius: 12px;
+     padding: 1.5rem;
+     border-left: 4px solid #45b7d1;
+     transition: all 0.3s ease;
+   }
+
+   .tech-card:hover {
+     transform: translateY(-3px);
+     box-shadow: 0 8px 25px rgba(69, 183, 209, 0.2);
+   }
+
+   .tech-card h4 {
+     color: #45b7d1;
+     margin-bottom: 1rem;
+     font-size: 1.2rem;
+   }
+
+   .code-review-section {
+     background: rgba(255, 193, 7, 0.1);
+     border: 1px solid rgba(255, 193, 7, 0.3);
+     border-radius: 12px;
+     padding: 2rem;
+     margin-top: 2rem;
+   }
+
+   .code-review-section h3 {
+     color: #ffc107;
+     margin-bottom: 1rem;
+   }
+
+   .review-steps {
+     list-style: none;
+     counter-reset: review-counter;
+     margin: 1.5rem 0;
+   }
+
+   .review-steps li {
+     counter-increment: review-counter;
+     margin-bottom: 1rem;
+     padding-left: 3rem;
+     position: relative;
+   }
+
+   .review-steps li::before {
+     content: counter(review-counter);
+     position: absolute;
+     left: 0;
+     top: 0;
+     background: linear-gradient(45deg, #ffc107, #ff9800);
+     color: white;
+     width: 2rem;
+     height: 2rem;
+     border-radius: 50%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     font-weight: bold;
+     font-size: 0.9rem;
+   }
+
+   .trust-note {
+     background: rgba(33, 150, 243, 0.1);
+     border: 1px solid rgba(33, 150, 243, 0.3);
+     border-radius: 8px;
+     padding: 1rem;
+     margin-top: 1.5rem;
+     color: #2196f3;
+   }
+
+   .astrarudra-branding {
+     background: rgba(255, 255, 255, 0.08);
+     backdrop-filter: blur(15px);
+     border: 1px solid rgba(255, 255, 255, 0.15);
+     border-radius: 20px;
+     padding: 2rem;
+     margin: 2rem 0;
+     text-align: center;
+     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+   }
+
+   .brand-logo {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 1rem;
+     margin-bottom: 1rem;
+   }
+
+   .brand-name {
+     font-size: 2.2rem;
+     font-weight: 700;
+     background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #4facfe, #00f2fe);
+     background-size: 400% 400%;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-clip: text;
+     animation: gradientShift 4s ease-in-out infinite;
+   }
+
+   .brand-tagline {
+     color: #b0b0b0;
+     font-size: 1.1rem;
+     font-style: italic;
+     margin-bottom: 1.5rem;
+   }
+
+   .brand-links {
+     margin: 1.5rem 0;
+   }
+
+   .github-link {
+     display: inline-flex;
+     align-items: center;
+     gap: 0.5rem;
+     padding: 12px 24px;
+     background: linear-gradient(45deg, #333, #24292e);
+     color: white;
+     text-decoration: none;
+     border-radius: 25px;
+     font-weight: 600;
+     transition: all 0.3s ease;
+     box-shadow: 0 4px 15px rgba(36, 41, 46, 0.3);
+     border: 2px solid transparent;
+   }
+
+   .github-link:hover {
+     transform: translateY(-2px);
+     box-shadow: 0 8px 25px rgba(36, 41, 46, 0.5);
+     border-color: rgba(255, 255, 255, 0.3);
+     background: linear-gradient(45deg, #24292e, #0366d6);
+   }
+
+   .github-icon {
+     font-size: 1.2rem;
+   }
+
+   .brand-description {
+     color: #c0c0c0;
+     font-size: 0.95rem;
+     margin-top: 1rem;
+   }
+
+   @media (max-width: 768px) {
+     .container {
+       padding: 1rem;
+     }
+     
+     .header h1 {
+       font-size: 2.5rem;
+     }
+     
+     .bookmarklets-grid {
+       grid-template-columns: 1fr;
+     }
+     
+     .bookmarklet-card {
+       padding: 1.5rem;
+     }
+
+     .tech-grid {
+       grid-template-columns: 1fr;
+     }
+
+           .brand-logo {
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+
+      .brand-name {
+        font-size: 1.8rem;
+      }
+   }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🔧 Developer Bookmarklets</h1>
+      <p class="subtitle">Powerful browser tools at your fingertips</p>
+    </div>
+
+    <div class="intro">
+      <h2>🚀 How to Use These Bookmarklets</h2>
+      <p>Bookmarklets are mini JavaScript programs that run in your browser. They're incredibly useful for automating common developer tasks!</p>
+      <ol class="intro-steps">
+        <li><strong>Drag each button below</strong> to your browser's bookmark bar (the toolbar below your address bar)</li>
+        <li><strong>Navigate to any webpage</strong> where you want to use the tool</li>
+        <li><strong>Click the bookmarklet</strong> from your bookmark bar to run it</li>
+        <li><strong>Enjoy the magic!</strong> Each tool will perform its specific function instantly</li>
+      </ol>
+      <div class="tip">
+        <strong>💡 Pro Tip:</strong> If you don't see your bookmark bar, press <code>Ctrl+Shift+B</code> (Windows/Linux) or <code>Cmd+Shift+B</code> (Mac) to show it!
+      </div>
+    </div>
+
+    <div class="bookmarklets-grid">
+      <div class="bookmarklet-card">
+        <h3 class="bookmarklet-title">📋 Token Copy</h3>
+        <p class="bookmarklet-description">
+          Instantly copy authentication tokens or any value stored in localStorage to your clipboard. Perfect for developers working with JWT tokens, API keys, or session data.
+        </p>
+        <div class="bookmarklet-usage">
+          <h4>How to use:</h4>
+          <ul>
+            <li>Navigate to any website that stores a "token" in localStorage</li>
+            <li>Click this bookmarklet from your bookmark bar</li>
+            <li>The token value will be automatically copied to your clipboard</li>
+            <li>You'll see a confirmation alert with the copied value</li>
+          </ul>
+        </div>
+        <a href="javascript:(function(){var k='token',v=localStorage.getItem(k),t=document.createElement('textarea');t.value=v,document.body.appendChild(t),t.select(),document.execCommand('copy'),document.body.removeChild(t),alert('Value copied to clipboard: '+v)})();" class="bookmarklet-button">📋 Token Copy</a>
+        <div class="drag-instruction">
+          👆 Drag this button to your bookmark bar
+        </div>
+      </div>
+
+      <div class="bookmarklet-card">
+        <h3 class="bookmarklet-title">📥 Token Paste</h3>
+        <p class="bookmarklet-description">
+          Paste any value from your clipboard directly into localStorage under the "token" key. Great for quickly setting authentication tokens across different environments.
+        </p>
+        <div class="bookmarklet-usage">
+          <h4>How to use:</h4>
+          <ul>
+            <li>Copy any token or value to your clipboard first</li>
+            <li>Navigate to the website where you want to set the token</li>
+            <li>Click this bookmarklet from your bookmark bar</li>
+            <li>The clipboard content will be stored in localStorage as "token"</li>
+          </ul>
+        </div>
+        <a href="javascript:(function(){var keyToPaste=&quot;token&quot;;var value=navigator.clipboard.readText().then(function(clipText){localStorage.setItem(keyToPaste,clipText);alert('Value successfully pasted into localStorage key &quot;'+keyToPaste+'&quot;.');}).catch(function(error){console.error('Failed to read clipboard contents: ', error);alert('Failed to read clipboard contents.');});})();" class="bookmarklet-button">📥 Token Paste</a>
+        <div class="drag-instruction">
+          👆 Drag this button to your bookmark bar
+        </div>
+        <div class="warning">
+          <strong>⚠️ Note:</strong> This requires clipboard access permission in your browser.
+        </div>
+      </div>
+
+      <div class="bookmarklet-card">
+        <h3 class="bookmarklet-title">☁️ AWS Credentials Extractor</h3>
+        <p class="bookmarklet-description">
+          Extracts AWS credentials from form fields on AWS Console pages and formats them for easy copying. Automatically finds Access Key ID, Secret Access Key, and Session Token fields.
+        </p>
+        <div class="bookmarklet-usage">
+          <h4>How to use:</h4>
+          <ul>
+            <li>Navigate to an AWS credentials page (like AWS Academy or temporary credentials)</li>
+            <li>Make sure the page has filled credential fields</li>
+            <li>Click this bookmarklet from your bookmark bar</li>
+            <li>It will extract and format the credentials automatically</li>
+            <li>The formatted credentials will be copied to your clipboard</li>
+          </ul>
+        </div>
+        <a href="javascript:(function()%7Bvar AWSStr%3DJSON.stringify(%7BAWS_ACCESS_KEY_ID%3Adocument.getElementById(&quot;accessKeyId&quot;).value%2CAWS_SECRET_ACCESS_KEY%3Adocument.getElementById(&quot;secretAccessKey&quot;).value%2CAWS_SESSION_TOKEN%3Adocument.getElementById(&quot;sessionToken&quot;).value%7D)%3BAWSStr%3D(AWSStr.substring(1%2CAWSStr.length-1)%2B%27%2C%27).replaceAll(%27&quot;%2C%27%2C%27&quot;%2C%5Cn%27)%3Bdocument.getElementsByClassName(&quot;pane&quot;)%5B0%5D.innerHTML%3D&quot;&lt;div&gt;&lt;h3&gt;Option Solar: Custom From Bookmarklet &lt;span style%3D%27font-size%3A20px%3B%27&gt;😀&lt;/span&gt;&lt;/h3&gt;&lt;br/&gt;&lt;textarea class%3D%27code-section%27 id%3D%27tocopy%27 style%3D%27width%3A 642px%3B height%3A 62px%3B%27&gt;&quot;%2BAWSStr%2B&quot;&lt;/textarea&gt;&lt;a class%3D%27copy-value%27 id%3D%27copyButton%27&gt;Copy&lt;/a&gt;&lt;/div&gt;&quot%3Bvar el%3Ddocument.getElementById(&quot;copyButton&quot;)%3Bel.onclick%3Dfunction()%7Bnavigator.clipboard.writeText(document.getElementById(&quot;tocopy&quot;).value)%3B%7D%3Bel.click()%3B%7D)()%3B" class="bookmarklet-button">☁️ AWS Copy</a>
+        <div class="drag-instruction">
+          👆 Drag this button to your bookmark bar
+        </div>
+        <div class="warning">
+          <strong>⚠️ Note:</strong> This works specifically with AWS Console pages that have standard credential field IDs.
+        </div>
+      </div>
+    </div>
+
+    <div class="how-it-works">
+      <h2>🔍 How Bookmarklets Work</h2>
+      <p>Understanding the magic behind these mini JavaScript applications:</p>
+      
+      <div class="tech-grid">
+        <div class="tech-card">
+          <h4>📝 What are Bookmarklets?</h4>
+          <p>Bookmarklets are bookmarks that contain JavaScript code instead of a URL. When clicked, they execute JavaScript on the current page, allowing you to manipulate the DOM, access localStorage, interact with APIs, and automate repetitive tasks.</p>
+        </div>
+        
+        <div class="tech-card">
+          <h4>⚡ How They Execute</h4>
+          <p>When you click a bookmarklet, the browser runs the JavaScript code in the context of the current page. This means they have access to all the same resources as the webpage itself - localStorage, sessionStorage, cookies, and the DOM.</p>
+        </div>
+        
+        <div class="tech-card">
+          <h4>🔒 Security Considerations</h4>
+          <p>Since bookmarklets run with the same permissions as the current webpage, they can potentially access sensitive data. Always review the code before using bookmarklets from unknown sources.</p>
+        </div>
+      </div>
+      
+      <div class="code-review-section">
+        <h3>🔎 Want to Review the Code?</h3>
+        <p>Don't trust blindly! Here's how to inspect each bookmarklet before using:</p>
+        <ol class="review-steps">
+          <li>Right-click on any bookmarklet button above</li>
+          <li>Select "Copy link address" or "Copy link"</li>
+          <li>Paste it into a text editor to see the JavaScript code</li>
+          <li>The code starts with <code>javascript:</code> followed by the actual function</li>
+        </ol>
+        <div class="trust-note">
+          <p><strong>🤝 Don't trust AstraRudra?</strong> That's totally fine! Security-conscious developers should always review code before execution. The source code for these bookmarklets is transparent and can be inspected by anyone.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <h3>🛡️ Security & Privacy</h3>
+      <p>These bookmarklets run entirely in your browser and don't send any data to external servers. Your tokens and credentials remain private and secure. Always review the code before using any bookmarklet from unknown sources.</p>
+      
+      <div class="tip">
+        <strong>🎯 Perfect for:</strong> Web developers, DevOps engineers, cloud architects, and anyone working with web applications that use localStorage or AWS credentials.
+      </div>
+      
+             <div class="astrarudra-branding">
+         <div class="brand-logo">
+           <span class="brand-name">AstraRudra</span>
+         </div>
+        <p class="brand-tagline">Focusing on Innovation & Creative Solutions</p>
+        <div class="brand-links">
+          <a href="https://github.com/astrarudra" target="_blank" rel="noopener noreferrer" class="github-link">
+            <span class="github-icon">⚡</span>
+            <span>GitHub @astrarudra</span>
+          </a>
+        </div>
+        <p class="brand-description">
+          Sr. Software Engineer • Open Source Enthusiast • Passionate Developer
+        </p>
+      </div>
+      
+      <p style="margin-top: 2rem; color: #888; font-size: 0.9rem;">
+        💻 Made with ❤️ by AstraRudra
+      </p>
+    </div>
+  </div>
+</body>
+</html>
