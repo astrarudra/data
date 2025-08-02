@@ -1,5 +1,95 @@
 [
   {
+    "id": "BAGS/1.webp",
+    "category": "BAGS",
+    "title": "Parrot Jute Bag",
+    "description": "A vibrant jute bag with a colorful parrot on a branch. A tropical and exotic accessory.",
+    "tags": ["jute bag", "parrot", "tropical", "exotic", "fashion"],
+    "image_path": "BAGS/1.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/2.webp",
+    "category": "BAGS",
+    "title": "Plain Jute Bag",
+    "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
+    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
+    "image_path": "BAGS/2.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/3.webp",
+    "category": "BAGS",
+    "title": "Natural Jute Bag",
+    "description": "A jute bag with a floral design and the text 'Natural Jute'. A stylish and eco-friendly accessory.",
+    "tags": ["jute bag", "natural", "floral", "eco-friendly", "fashion"],
+    "image_path": "BAGS/3.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/4.webp",
+    "category": "BAGS",
+    "title": "Plain Jute Bag",
+    "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
+    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
+    "image_path": "BAGS/4.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/5.webp",
+    "category": "BAGS",
+    "title": "Floral Jute Bag",
+    "description": "A jute bag with a beautiful and intricate floral print. A stylish and elegant accessory.",
+    "tags": ["jute bag", "floral", "elegant", "stylish", "fashion"],
+    "image_path": "BAGS/5.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/6.webp",
+    "category": "BAGS",
+    "title": "Plain Jute Bag",
+    "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
+    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
+    "image_path": "BAGS/6.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/7.webp",
+    "category": "BAGS",
+    "title": "Parrot Jute Bag",
+    "description": "A vibrant jute bag with a colorful parrot on a branch. A tropical and exotic accessory.",
+    "tags": ["jute bag", "parrot", "tropical", "exotic", "fashion"],
+    "image_path": "BAGS/7.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/8.webp",
+    "category": "BAGS",
+    "title": "Natural Jute Bag",
+    "description": "A jute bag with a floral design and the text 'Natural Jute'. A stylish and eco-friendly accessory.",
+    "tags": ["jute bag", "natural", "floral", "eco-friendly", "fashion"],
+    "image_path": "BAGS/8.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/9.webp",
+    "category": "BAGS",
+    "title": "Plain Jute Bag",
+    "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
+    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
+    "image_path": "BAGS/9.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/10.webp",
+    "category": "BAGS",
+    "title": "Floral Jute Bag",
+    "description": "A jute bag with a beautiful and intricate floral print. A stylish and elegant accessory.",
+    "tags": ["jute bag", "floral", "elegant", "stylish", "fashion"],
+    "image_path": "BAGS/10.webp",
+    "type": "ShoppingBag"
+  },
+  {
     "id": "BAGS/11.webp",
     "category": "BAGS",
     "title": "Red Floral Jute Bag",
@@ -13,7 +103,7 @@
     ],
     "image_path": "BAGS/11.webp",
     "type": "ShoppingBag"
-  }
+  },
   {
     "id": "BAGS/12.webp",
     "category": "BAGS",
