@@ -1,1051 +1,1907 @@
-
 [
   {
-    "id": "BAGS/40.webp",
+    "id": "BAGS/11.webp",
     "category": "BAGS",
-    "title": "I Love Summer Tote Bag",
-    "description": "A stylish tote bag with a summer-themed design featuring palm trees and a heart. Perfect for beach trips and casual outings.",
-    "tags": ["tote bag", "summer", "beach", "fashion", "canvas"],
-    "image_path": "BAGS/40.webp"
-  },
-  {
-    "id": "BAGS/42.webp",
-    "category": "BAGS",
-    "title": "Summer Love Tote Bag",
-    "description": "A charming tote bag with 'Summer Love' and a heart design. Ideal for a romantic summer getaway.",
-    "tags": ["tote bag", "summer", "love", "fashion", "canvas"],
-    "image_path": "BAGS/42.webp"
-  },
-  {
-    "id": "BAGS/41.webp",
-    "category": "BAGS",
-    "title": "Two-Tone Canvas Tote Bag",
-    "description": "A simple yet elegant two-tone canvas tote bag in green and blue. Versatile for everyday use.",
-    "tags": ["tote bag", "canvas", "two-tone", "minimalist", "fashion"],
-    "image_path": "BAGS/41.webp"
-  },
-  {
-    "id": "BAGS/45.webp",
-    "category": "BAGS",
-    "title": "Self Love Club Tote Bag",
-    "description": "A white tote bag with the empowering message 'Self Love Club'. A great reminder to practice self-care.",
-    "tags": ["tote bag", "self-love", "empowerment", "fashion", "canvas"],
-    "image_path": "BAGS/45.webp"
-  },
-  {
-    "id": "BAGS/46.webp",
-    "category": "BAGS",
-    "title": "Self Love Club Heart Tote Bag",
-    "description": "A white tote bag with a heart-shaped 'Self Love Club' design. Spread love and positivity with this stylish bag.",
-    "tags": ["tote bag", "self-love", "heart", "fashion", "canvas"],
-    "image_path": "BAGS/46.webp"
-  },
-  {
-    "id": "BAGS/44.webp",
-    "category": "BAGS",
-    "title": "Self Love Floral Tote Bag",
-    "description": "A beautiful white tote bag with a floral 'Self Love' design. Embrace nature and self-love with this artistic bag.",
-    "tags": ["tote bag", "self-love", "floral", "fashion", "canvas"],
-    "image_path": "BAGS/44.webp"
-  },
-  {
-    "id": "BAGS/43.webp",
-    "category": "BAGS",
-    "title": "Go Green Tote Bag",
-    "description": "A blue tote bag with the message 'Go Green'. Promote environmental consciousness with this eco-friendly bag.",
-    "tags": ["tote bag", "go green", "eco-friendly", "environment", "canvas"],
-    "image_path": "BAGS/43.webp"
-  },
-  {
-    "id": "BAGS/58.webp",
-    "category": "BAGS",
-    "title": "Striped Jute Bag",
-    "description": "A stylish jute bag with red and white stripes. Perfect for a chic and rustic look.",
-    "tags": ["jute bag", "striped", "fashion", "eco-friendly", "rustic"],
-    "image_path": "BAGS/58.webp"
-  },
-  {
-    "id": "BAGS/57.webp",
-    "category": "BAGS",
-    "title": "Jute Bag with Logo",
-    "description": "A classic jute bag with a 'LOGO' placeholder. Customizable for your brand or personal use.",
-    "tags": ["jute bag", "logo", "customizable", "eco-friendly", "burlap"],
-    "image_path": "BAGS/57.webp"
-  },
-  {
-    "id": "BAGS/62.webp",
-    "category": "BAGS",
-    "title": "Summer Love Watermelon Tote Bag",
-    "description": "A cute tote bag with two watermelon slices in love. A fun and playful accessory for the summer.",
-    "tags": ["tote bag", "summer", "watermelon", "love", "cute"],
-    "image_path": "BAGS/62.webp"
-  },
-  {
-    "id": "BAGS/61.webp",
-    "category": "BAGS",
-    "title": "Hello Summer Tote Bag",
-    "description": "A black tote bag with a colorful 'Hello Summer' design. Welcome the sunny season with this cheerful bag.",
-    "tags": ["tote bag", "hello summer", "summer", "fashion", "canvas"],
-    "image_path": "BAGS/61.webp"
-  },
-  {
-    "id": "BAGS/59.webp",
-    "category": "BAGS",
-    "title": "Tote Bag",
-    "description": "A simple black tote bag with 'TOTE BAG' printed on it. A classic and versatile accessory.",
-    "tags": ["tote bag", "black", "classic", "minimalist", "canvas"],
-    "image_path": "BAGS/59.webp"
-  },
-  {
-    "id": "BAGS/60.webp",
-    "category": "BAGS",
-    "title": "Hello Summer Watermelon Tote Bag",
-    "description": "A black tote bag with a 'Hello Summer' and watermelon design. A refreshing and stylish bag for the summer.",
-    "tags": ["tote bag", "hello summer", "watermelon", "summer", "fashion"],
-    "image_path": "BAGS/60.webp"
-  },
-  {
-    "id": "BAGS/49.webp",
-    "category": "BAGS",
-    "title": "Jungle Summer Tote Bag",
-    "description": "A unique tote bag with a jungle and 'SUMMER' design. Explore your wild side with this adventurous bag.",
-    "tags": ["tote bag", "jungle", "summer", "adventurous", "fashion"],
-    "image_path": "BAGS/49.webp"
-  },
-  {
-    "id": "BAGS/50.webp",
-    "category": "BAGS",
-    "title": "Red Heart Jute Bag",
-    "description": "A charming jute bag with a large red heart. A lovely gift for someone special.",
-    "tags": ["jute bag", "heart", "love", "gift", "eco-friendly"],
-    "image_path": "BAGS/50.webp"
-  },
-  {
-    "id": "BAGS/52.webp",
-    "category": "BAGS",
-    "title": "Parrot Jute Bag",
-    "description": "A vibrant jute bag with a colorful parrot and floral design. A tropical and exotic accessory.",
-    "tags": ["jute bag", "parrot", "tropical", "floral", "fashion"],
-    "image_path": "BAGS/52.webp"
-  },
-  {
-    "id": "BAGS/51.webp",
-    "category": "BAGS",
-    "title": "Colorful Tote Bags",
-    "description": "A set of six colorful tote bags in various pastel shades. Perfect for color-coordinating your outfits.",
-    "tags": ["tote bag", "colorful", "pastel", "fashion", "set"],
-    "image_path": "BAGS/51.webp"
-  },
-  {
-    "id": "BAGS/55.webp",
-    "category": "BAGS",
-    "title": "I am a Jute bag Tote",
-    "description": "A natural jute tote bag with the message 'I am a Jute bag'. A simple and eco-friendly statement piece.",
-    "tags": ["jute bag", "tote", "eco-friendly", "natural", "statement"],
-    "image_path": "BAGS/55.webp"
-  },
-  {
-    "id": "BAGS/56.webp",
-    "category": "BAGS",
-    "title": "Jute and Canvas Tote Bag",
-    "description": "A stylish tote bag made from a combination of jute and canvas. A perfect blend of rustic and modern.",
-    "tags": ["jute bag", "canvas", "tote", "rustic", "modern"],
-    "image_path": "BAGS/56.webp"
-  },
-  {
-    "id": "BAGS/54.webp",
-    "category": "BAGS",
-    "title": "Canvas Bag Set",
-    "description": "A set of four canvas bags in different colors with 'CANVAS BAG' printed on them. A practical and versatile set for all your needs.",
-    "tags": ["canvas bag", "set", "colorful", "practical", "versatile"],
-    "image_path": "BAGS/54.webp"
-  },
-  {
-    "id": "BAGS/53.webp",
-    "category": "BAGS",
-    "title": "Tribal Print Pouches",
-    "description": "A set of two pouches with a vibrant and colorful tribal print. Perfect for storing your essentials in style.",
-    "tags": ["pouch", "tribal print", "colorful", "fashion", "accessory"],
-    "image_path": "BAGS/53.webp"
-  },
-  {
-    "id": "BAGS/48.webp",
-    "category": "BAGS",
-    "title": "Be Kind Tote Bag",
-    "description": "A tote bag with a floral wreath and the message 'Be Kind'. A beautiful reminder to spread kindness.",
-    "tags": ["tote bag", "be kind", "kindness", "floral", "inspirational"],
-    "image_path": "BAGS/48.webp"
-  },
-  {
-    "id": "BAGS/47.webp",
-    "category": "BAGS",
-    "title": "Paisley Jute Wine Bag",
-    "description": "A jute wine bag with a traditional paisley print. A stylish and eco-friendly way to carry your wine.",
-    "tags": ["jute bag", "wine bag", "paisley", "eco-friendly", "gift"],
-    "image_path": "BAGS/47.webp"
-  },
-  {
-    "id": "handicraft.webp",
-    "category": "imagesNew",
-    "title": "Handicraft Plate",
-    "description": "A beautifully handcrafted decorative plate with intricate carvings of musicians. A stunning piece of art to adorn your walls.",
-    "tags": ["handicraft", "plate", "decorative", "art", "traditional"],
-    "image_path": "handicraft.webp"
-  },
-  {
-    "id": "WINE/1.webp",
-    "category": "WINE",
-    "title": "Jute Wine Bag with Window",
-    "description": "A jute wine bag with a see-through window to showcase the wine bottle. A perfect gift for wine lovers.",
-    "tags": ["jute bag", "wine bag", "gift", "wine lover", "eco-friendly"],
-    "image_path": "WINE/1.webp"
-  },
-  {
-    "id": "WINE/3.webp",
-    "category": "WINE",
-    "title": "Yoga Pose Jute Wine Bag",
-    "description": "A unique jute wine bag with colorful yoga poses printed on it. A fun and quirky gift for yoga enthusiasts.",
-    "tags": ["jute bag", "wine bag", "yoga", "quirky", "gift"],
-    "image_path": "WINE/3.webp"
-  },
-  {
-    "id": "WINE/2.webp",
-    "category": "WINE",
-    "title": "Bear Hoodie",
-    "description": "A cute and cozy bear hoodie for kids. Perfect for keeping your little ones warm and stylish.",
-    "tags": ["hoodie", "bear", "kids fashion", "cute", "cozy"],
-    "image_path": "WINE/2.webp"
-  },
-  {
-    "id": "WINE/4.webp",
-    "category": "WINE",
-    "title": "Handcrafted Jute Bag",
-    "description": "A beautifully handcrafted jute bag with intricate details. A perfect blend of tradition and style.",
-    "tags": ["jute bag", "handcrafted", "traditional", "stylish", "eco-friendly"],
-    "image_path": "WINE/4.webp"
-  },
-  {
-    "id": "garment.webp",
-    "category": "imagesNew",
-    "title": "Bear Hoodie",
-    "description": "A cute and cozy bear hoodie for kids. Perfect for keeping your little ones warm and stylish.",
-    "tags": ["hoodie", "bear", "kids fashion", "cute", "cozy"],
-    "image_path": "garment.webp"
-  },
-  {
-    "id": "jutebag.webp",
-    "category": "imagesNew",
-    "title": "Handcrafted Jute Bag",
-    "description": "A beautifully handcrafted jute bag with intricate details. A perfect blend of tradition and style.",
-    "tags": ["jute bag", "handcrafted", "traditional", "stylish", "eco-friendly"],
-    "image_path": "jutebag.webp"
-  },
-  {
-    "id": "HAND/46.webp",
-    "category": "HAND",
-    "title": "Crochet Coin Purses",
-    "description": "A collection of colorful crochet coin purses with cute embellishments. Perfect for keeping your coins and small items organized.",
-    "tags": ["crochet", "coin purse", "handmade", "colorful", "cute"],
-    "image_path": "HAND/46.webp"
-  },
-  {
-    "id": "HAND/52.webp",
-    "category": "HAND",
-    "title": "Crochet Tulips",
-    "description": "A beautiful bouquet of handmade crochet tulips in various colors. A long-lasting and charming gift for any occasion.",
-    "tags": ["crochet", "tulips", "flowers", "handmade", "gift"],
-    "image_path": "HAND/52.webp"
-  },
-  {
-    "id": "HAND/1.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquet",
-    "description": "A lovely bouquet of crochet sunflowers wrapped in burlap. A rustic and cheerful gift for your loved ones.",
-    "tags": ["crochet", "sunflower", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/1.webp"
-  },
-  {
-    "id": "HAND/53.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower",
-    "description": "A single crochet sunflower with a green stem. A simple yet beautiful handmade flower.",
-    "tags": ["crochet", "sunflower", "handmade", "flower", "decoration"],
-    "image_path": "HAND/53.webp"
-  },
-  {
-    "id": "HAND/47.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower",
-    "description": "A single crochet sunflower with a green stem. A simple yet beautiful handmade flower.",
-    "tags": ["crochet", "sunflower", "handmade", "flower", "decoration"],
-    "image_path": "HAND/47.webp"
-  },
-  {
-    "id": "HAND/51.webp",
-    "category": "HAND",
-    "title": "Crochet Flower Mirror",
-    "description": "A beautiful mirror framed with colorful crochet flowers. A unique and artistic piece for your home decor.",
-    "tags": ["crochet", "flower", "mirror", "handmade", "home decor"],
-    "image_path": "HAND/51.webp"
-  },
-  {
-    "id": "HAND/3.webp",
-    "category": "HAND",
-    "title": "Crochet Flower Mirror on Stand",
-    "description": "A beautiful mirror framed with colorful crochet flowers on a wooden stand. A charming and decorative accessory for your vanity.",
-    "tags": ["crochet", "flower", "mirror", "handmade", "home decor"],
-    "image_path": "HAND/3.webp"
-  },
-  {
-    "id": "HAND/45.webp",
-    "category": "HAND",
-    "title": "Crochet Rose",
-    "description": "A single red crochet rose with a green stem. A timeless and romantic handmade gift.",
-    "tags": ["crochet", "rose", "handmade", "flower", "romantic"],
-    "image_path": "HAND/45.webp"
-  },
-  {
-    "id": "HAND/44.webp",
-    "category": "HAND",
-    "title": "Crochet Flower Shadow Box",
-    "description": "A beautiful arrangement of crochet flowers in a wooden shadow box. A unique and artistic way to display handmade flowers.",
-    "tags": ["crochet", "flower", "shadow box", "handmade", "art"],
-    "image_path": "HAND/44.webp"
-  },
-  {
-    "id": "HAND/50.webp",
-    "category": "HAND",
-    "title": "Crochet Flower Shadow Box",
-    "description": "A beautiful arrangement of crochet flowers in a wooden shadow box. A unique and artistic way to display handmade flowers.",
-    "tags": ["crochet", "flower", "shadow box", "handmade", "art"],
-    "image_path": "HAND/50.webp"
-  },
-  {
-    "id": "HAND/2.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquet in Vase",
-    "description": "A stunning bouquet of crochet sunflowers in a glass vase. A cheerful and long-lasting floral arrangement.",
-    "tags": ["crochet", "sunflower", "bouquet", "vase", "handmade"],
-    "image_path": "HAND/2.webp"
-  },
-  {
-    "id": "HAND/6.webp",
-    "category": "HAND",
-    "title": "Crochet Rose Shadow Box",
-    "description": "A beautiful arrangement of crochet roses in a wooden shadow box. A romantic and elegant piece of art.",
-    "tags": ["crochet", "rose", "shadow box", "handmade", "art"],
-    "image_path": "HAND/6.webp"
-  },
-  {
-    "id": "HAND/54.webp",
-    "category": "HAND",
-    "title": "Crochet Rose Shadow Box",
-    "description": "A beautiful arrangement of crochet roses in a wooden shadow box. A romantic and elegant piece of art.",
-    "tags": ["crochet", "rose", "shadow box", "handmade", "art"],
-    "image_path": "HAND/54.webp"
-  },
-  {
-    "id": "HAND/40.webp",
-    "category": "HAND",
-    "title": "Crochet Bee",
-    "description": "A cute and chubby crochet bee. A fun and playful handmade toy.",
-    "tags": ["crochet", "bee", "toy", "handmade", "cute"],
-    "image_path": "HAND/40.webp"
-  },
-  {
-    "id": "HAND/68.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquets",
-    "description": "A collection of individually wrapped crochet sunflower bouquets. Perfect for party favors or small gifts.",
-    "tags": ["crochet", "sunflower", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/68.webp"
-  },
-  {
-    "id": "HAND/69.webp",
-    "category": "HAND",
-    "title": "Crochet Roses in Vase",
-    "description": "A beautiful arrangement of pink crochet roses in a white vase. A delicate and elegant home decor piece.",
-    "tags": ["crochet", "rose", "vase", "handmade", "home decor"],
-    "image_path": "HAND/69.webp"
-  },
-  {
-    "id": "HAND/41.webp",
-    "category": "HAND",
-    "title": "Colorful Crochet Roses",
-    "description": "A vibrant bouquet of crochet roses in various colors. A cheerful and eye-catching floral arrangement.",
-    "tags": ["crochet", "rose", "colorful", "bouquet", "handmade"],
-    "image_path": "HAND/41.webp"
-  },
-  {
-    "id": "HAND/7.webp",
-    "category": "HAND",
-    "title": "Handmade Crochet Sunflower",
-    "description": "A beautiful handmade crochet sunflower with detailed petals and a green leaf. A perfect decorative piece.",
-    "tags": ["crochet", "sunflower", "handmade", "premium yarn", "leaf"],
-    "image_path": "HAND/7.webp"
-  },
-  {
-    "id": "HAND/55.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquet",
-    "description": "A lovely bouquet of two crochet sunflowers wrapped in burlap. A rustic and charming gift.",
-    "tags": ["crochet", "sunflower", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/55.webp"
-  },
-  {
-    "id": "HAND/43.webp",
-    "category": "HAND",
-    "title": "Crochet Roses with Pearls",
-    "description": "A delicate arrangement of three red crochet roses with a string of pearls. A romantic and elegant composition.",
-    "tags": ["crochet", "rose", "pearls", "handmade", "romantic"],
-    "image_path": "HAND/43.webp"
-  },
-  {
-    "id": "HAND/57.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquets",
-    "description": "A collection of individually wrapped crochet sunflower bouquets. Perfect for party favors or small gifts.",
-    "tags": ["crochet", "sunflower", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/57.webp"
-  },
-  {
-    "id": "HAND/5.webp",
-    "category": "HAND",
-    "title": "Crochet Roses",
-    "description": "Two long-stemmed red crochet roses. A simple and elegant handmade gift.",
-    "tags": ["crochet", "rose", "handmade", "flower", "romantic"],
-    "image_path": "HAND/5.webp"
-  },
-  {
-    "id": "HAND/56.webp",
-    "category": "HAND",
-    "title": "Crochet Tulip Bouquets",
-    "description": "Two individually wrapped crochet tulip bouquets in pink and purple. A sweet and charming gift.",
-    "tags": ["crochet", "tulip", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/56.webp"
-  },
-  {
-    "id": "HAND/4.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Purse",
-    "description": "A cute and stylish crochet purse in the shape of a sunflower. A fun and unique accessory.",
-    "tags": ["crochet", "sunflower", "purse", "handmade", "fashion"],
-    "image_path": "HAND/4.webp"
-  },
-  {
-    "id": "HAND/42.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Purse",
-    "description": "A cute and stylish crochet purse in the shape of a sunflower. A fun and unique accessory.",
-    "tags": ["crochet", "sunflower", "purse", "handmade", "fashion"],
-    "image_path": "HAND/42.webp"
-  },
-  {
-    "id": "HAND/19.webp",
-    "category": "HAND",
-    "title": "Crochet Tulips",
-    "description": "A beautiful bouquet of handmade crochet tulips in various colors. A long-lasting and charming gift for any occasion.",
-    "tags": ["crochet", "tulips", "flowers", "handmade", "gift"],
-    "image_path": "HAND/19.webp"
-  },
-  {
-    "id": "HAND/25.webp",
-    "category": "HAND",
-    "title": "Crochet Bee",
-    "description": "A cute and chubby crochet bee. A fun and playful handmade toy.",
-    "tags": ["crochet", "bee", "toy", "handmade", "cute"],
-    "image_path": "HAND/25.webp"
-  },
-  {
-    "id": "HAND/31.webp",
-    "category": "HAND",
-    "title": "Colorful Crochet Tulips",
-    "description": "A vibrant bouquet of crochet tulips in various colors. A cheerful and eye-catching floral arrangement.",
-    "tags": ["crochet", "tulip", "colorful", "bouquet", "handmade"],
-    "image_path": "HAND/31.webp"
-  },
-  {
-    "id": "HAND/30.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bag",
-    "description": "A stylish crochet bag with a sunflower design. A chic and trendy accessory for any occasion.",
-    "tags": ["crochet", "sunflower", "bag", "handmade", "fashion"],
-    "image_path": "HAND/30.webp"
-  },
-  {
-    "id": "HAND/24.webp",
-    "category": "HAND",
-    "title": "Crochet Roses",
-    "description": "A beautiful bouquet of pink crochet roses. A delicate and romantic handmade gift.",
-    "tags": ["crochet", "rose", "handmade", "flower", "romantic"],
-    "image_path": "HAND/24.webp"
-  },
-  {
-    "id": "HAND/18.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflowers",
-    "description": "Two crochet sunflowers with green leaves. A simple and cheerful handmade decoration.",
-    "tags": ["crochet", "sunflower", "handmade", "flower", "decoration"],
-    "image_path": "HAND/18.webp"
-  },
-  {
-    "id": "HAND/32.webp",
-    "category": "HAND",
-    "title": "White Crochet Tulips",
-    "description": "A beautiful bouquet of white crochet tulips wrapped in burlap. An elegant and timeless gift.",
-    "tags": ["crochet", "tulip", "white", "bouquet", "handmade"],
-    "image_path": "HAND/32.webp"
-  },
-  {
-    "id": "HAND/26.webp",
-    "category": "HAND",
-    "title": "Pink and Purple Crochet Tulips",
-    "description": "A lovely bouquet of pink and purple crochet tulips with a candle. A romantic and cozy gift set.",
-    "tags": ["crochet", "tulip", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/26.webp"
-  },
-  {
-    "id": "HAND/27.webp",
-    "category": "HAND",
-    "title": "Crochet Rose",
-    "description": "A single red crochet rose with a long stem. A classic and elegant handmade flower.",
-    "tags": ["crochet", "rose", "handmade", "flower", "romantic"],
-    "image_path": "HAND/27.webp"
-  },
-  {
-    "id": "HAND/33.webp",
-    "category": "HAND",
-    "title": "Crochet Flower Arrangement",
-    "description": "A beautiful arrangement of red and white crochet flowers in a vase. A striking and elegant home decor piece.",
-    "tags": ["crochet", "flower", "arrangement", "vase", "handmade"],
-    "image_path": "HAND/33.webp"
-  },
-  {
-    "id": "HAND/37.webp",
-    "category": "HAND",
-    "title": "Crochet Strawberry Bag",
-    "description": "A cute and sweet crochet bag with a strawberry and bow design. A fun and playful accessory.",
-    "tags": ["crochet", "strawberry", "bag", "handmade", "cute"],
-    "image_path": "HAND/37.webp"
-  },
-  {
-    "id": "HAND/23.webp",
-    "category": "HAND",
-    "title": "Yarn Magic Crochet Pouch",
-    "description": "A lavender crochet pouch with a sunflower design and 'Yarn Magic' tag. A magical and charming accessory.",
-    "tags": ["crochet", "pouch", "sunflower", "yarn magic", "handmade"],
-    "image_path": "HAND/23.webp"
-  },
-  {
-    "id": "HAND/22.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Pouch",
-    "description": "A cute crochet pouch with a sunflower design. A sunny and cheerful accessory.",
-    "tags": ["crochet", "pouch", "sunflower", "handmade", "accessory"],
-    "image_path": "HAND/22.webp"
-  },
-  {
-    "id": "HAND/36.webp",
-    "category": "HAND",
-    "title": "Crochet Frog Couple",
-    "description": "A pair of adorable crochet frogs in love. A cute and quirky gift for a special someone.",
-    "tags": ["crochet", "frog", "couple", "handmade", "cute"],
-    "image_path": "HAND/36.webp"
-  },
-  {
-    "id": "HAND/20.webp",
-    "category": "HAND",
-    "title": "Crochet Bunny",
-    "description": "A cute and cuddly crochet bunny with a pink scarf. A perfect handmade toy for children.",
-    "tags": ["crochet", "bunny", "toy", "handmade", "cute"],
-    "image_path": "HAND/20.webp"
-  },
-  {
-    "id": "HAND/34.webp",
-    "category": "HAND",
-    "title": "Crochet Tulips on Mirror",
-    "description": "Two white crochet tulips placed on a pearl-framed mirror. An elegant and artistic composition.",
-    "tags": ["crochet", "tulip", "mirror", "pearl", "handmade"],
-    "image_path": "HAND/34.webp"
-  },
-  {
-    "id": "HAND/35.webp",
-    "category": "HAND",
-    "title": "Crochet Daisy Bag",
-    "description": "A charming crochet bag in the shape of a daisy. A fresh and lovely accessory.",
-    "tags": ["crochet", "daisy", "bag", "handmade", "fashion"],
-    "image_path": "HAND/35.webp"
-  },
-  {
-    "id": "HAND/21.webp",
-    "category": "HAND",
-    "title": "Crochet Daisy Bag",
-    "description": "A charming crochet bag in the shape of a daisy. A fresh and lovely accessory.",
-    "tags": ["crochet", "daisy", "bag", "handmade", "fashion"],
-    "image_path": "HAND/21.webp"
-  },
-  {
-    "id": "HAND/38.webp",
-    "category": "HAND",
-    "title": "Crochet Daisy Bag",
-    "description": "A charming crochet bag in the shape of a sunflower. A fresh and lovely accessory.",
-    "tags": ["crochet", "daisy", "bag", "handmade", "fashion"],
-    "image_path": "HAND/38.webp"
-  },
-  {
-    "id": "HAND/10.webp",
-    "category": "HAND",
-    "title": "Crochet Rose Bouquet",
-    "description": "A beautiful bouquet of red crochet roses. A classic and romantic handmade gift.",
-    "tags": ["crochet", "rose", "bouquet", "handmade", "romantic"],
-    "image_path": "HAND/10.webp"
-  },
-  {
-    "id": "HAND/11.webp",
-    "category": "HAND",
-    "title": "Crochet Tulip Bouquet",
-    "description": "A lovely bouquet of yellow and purple crochet tulips wrapped in burlap. A cheerful and rustic gift.",
-    "tags": ["crochet", "tulip", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/11.webp"
-  },
-  {
-    "id": "HAND/39.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflowers",
-    "description": "A beautiful arrangement of three crochet sunflowers. A sunny and cheerful decorative piece.",
-    "tags": ["crochet", "sunflower", "handmade", "flower", "decoration"],
-    "image_path": "HAND/39.webp"
-  },
-  {
-    "id": "HAND/13.webp",
-    "category": "HAND",
-    "title": "Crochet Frog",
-    "description": "A cute and quirky crochet frog with big eyes. A fun and playful handmade toy.",
-    "tags": ["crochet", "frog", "toy", "handmade", "cute"],
-    "image_path": "HAND/13.webp"
-  },
-  {
-    "id": "HAND/12.webp",
-    "category": "HAND",
-    "title": "Crochet Bunny",
-    "description": "A cute and cuddly crochet bunny with a pink scarf. A perfect handmade toy for children.",
-    "tags": ["crochet", "bunny", "toy", "handmade", "cute"],
-    "image_path": "HAND/12.webp"
-  },
-  {
-    "id": "HAND/16.webp",
-    "category": "HAND",
-    "title": "Crochet Bunny",
-    "description": "A cute and cuddly crochet bunny with a pink scarf. A perfect handmade toy for children.",
-    "tags": ["crochet", "bunny", "toy", "handmade", "cute"],
-    "image_path": "HAND/16.webp"
-  },
-  {
-    "id": "HAND/17.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower",
-    "description": "A single crochet sunflower with a green stem. A simple yet beautiful handmade flower.",
-    "tags": ["crochet", "sunflower", "handmade", "flower", "decoration"],
-    "image_path": "HAND/17.webp"
-  },
-  {
-    "id": "HAND/15.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquet",
-    "description": "A lovely bouquet of a single crochet sunflower wrapped in burlap. A rustic and charming gift.",
-    "tags": ["crochet", "sunflower", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/15.webp"
-  },
-  {
-    "id": "HAND/29.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bag",
-    "description": "A stylish crochet bag with a sunflower design, modeled by a person. A chic and trendy accessory for any occasion.",
-    "tags": ["crochet", "sunflower", "bag", "handmade", "fashion"],
-    "image_path": "HAND/29.webp"
-  },
-  {
-    "id": "HAND/28.webp",
-    "category": "HAND",
-    "title": "Crochet Strawberry and Sunflower Bags",
-    "description": "A collection of white crochet bags with strawberry and sunflower designs. A sweet and summery accessory set.",
-    "tags": ["crochet", "strawberry", "sunflower", "bag", "handmade"],
-    "image_path": "HAND/28.webp"
-  },
-  {
-    "id": "HAND/14.webp",
-    "category": "HAND",
-    "title": "Crochet Fried Egg Bag",
-    "description": "A quirky and fun crochet bag in the shape of a fried egg. A unique and playful accessory.",
-    "tags": ["crochet", "fried egg", "bag", "handmade", "quirky"],
-    "image_path": "HAND/14.webp"
-  },
-  {
-    "id": "HAND/9.webp",
-    "category": "HAND",
-    "title": "Crochet Roses",
-    "description": "A beautiful bouquet of pink crochet roses. A delicate and romantic handmade gift.",
-    "tags": ["crochet", "rose", "handmade", "flower", "romantic"],
-    "image_path": "HAND/9.webp"
-  },
-  {
-    "id": "HAND/67.webp",
-    "category": "HAND",
-    "title": "Crochet Rose",
-    "description": "A single pink and red crochet rose. A beautiful and romantic handmade flower.",
-    "tags": ["crochet", "rose", "handmade", "flower", "romantic"],
-    "image_path": "HAND/67.webp"
-  },
-  {
-    "id": "HAND/66.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bag",
-    "description": "A stylish crochet bag with a large sunflower design. A chic and trendy accessory for any occasion.",
-    "tags": ["crochet", "sunflower", "bag", "handmade", "fashion"],
-    "image_path": "HAND/66.webp"
-  },
-  {
-    "id": "HAND/8.webp",
-    "category": "HAND",
-    "title": "Colorful Crochet Tulips",
-    "description": "A vibrant bouquet of crochet tulips in various colors. A cheerful and eye-catching floral arrangement.",
-    "tags": ["crochet", "tulip", "colorful", "bouquet", "handmade"],
-    "image_path": "HAND/8.webp"
-  },
-  {
-    "id": "HAND/58.webp",
-    "category": "HAND",
-    "title": "Colorful Crochet Roses",
-    "description": "A beautiful collection of colorful crochet roses. A vibrant and cheerful assortment of handmade flowers.",
-    "tags": ["crochet", "rose", "colorful", "handmade", "flower"],
-    "image_path": "HAND/58.webp"
-  },
-  {
-    "id": "HAND/70.webp",
-    "category": "HAND",
-    "title": "Crochet Flower Mirror",
-    "description": "A beautiful mirror framed with red, pink, and white crochet flowers. A unique and artistic piece for your home decor.",
-    "tags": ["crochet", "flower", "mirror", "handmade", "home decor"],
-    "image_path": "HAND/70.webp"
-  },
-  {
-    "id": "HAND/64.webp",
-    "category": "HAND",
-    "title": "Crochet Flower Mirror",
-    "description": "A beautiful mirror framed with red, pink, and white crochet flowers. A unique and artistic piece for your home decor.",
-    "tags": ["crochet", "flower", "mirror", "handmade", "home decor"],
-    "image_path": "HAND/64.webp"
-  },
-  {
-    "id": "HAND/65.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Shadow Box",
-    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
-    "tags": ["crochet", "sunflower", "shadow box", "handmade", "art"],
-    "image_path": "HAND/65.webp"
-  },
-  {
-    "id": "HAND/71.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Shadow Box",
-    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
-    "tags": ["crochet", "sunflower", "shadow box", "handmade", "art"],
-    "image_path": "HAND/71.webp"
-  },
-  {
-    "id": "HAND/59.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Shadow Box",
-    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
-    "tags": ["crochet", "sunflower", "shadow box", "handmade", "art"],
-    "image_path": "HAND/59.webp"
-  },
-  {
-    "id": "HAND/61.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Shadow Box",
-    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
-    "tags": ["crochet", "sunflower", "shadow box", "handmade", "art"],
-    "image_path": "HAND/61.webp"
-  },
-  {
-    "id": "HAND/49.webp",
-    "category": "HAND",
-    "title": "Crochet Evil Eye",
-    "description": "A handmade crochet evil eye charm. A traditional symbol of protection.",
-    "tags": ["crochet", "evil eye", "charm", "handmade", "protection"],
-    "image_path": "HAND/49.webp"
-  },
-  {
-    "id": "HAND/48.webp",
-    "category": "HAND",
-    "title": "Crochet Roses",
-    "description": "Two beautiful pink and red crochet roses. A romantic and delicate handmade gift.",
-    "tags": ["crochet", "rose", "handmade", "flower", "romantic"],
-    "image_path": "HAND/48.webp"
-  },
-  {
-    "id": "HAND/60.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquet",
-    "description": "A lovely bouquet of a single crochet sunflower wrapped in burlap. A rustic and charming gift.",
-    "tags": ["crochet", "sunflower", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/60.webp"
-  },
-  {
-    "id": "HAND/62.webp",
-    "category": "HAND",
-    "title": "Crochet Sunflower Bouquet",
-    "description": "A large and beautiful bouquet of crochet sunflowers wrapped in burlap. A cheerful and impressive gift.",
-    "tags": ["crochet", "sunflower", "bouquet", "handmade", "gift"],
-    "image_path": "HAND/62.webp"
-  },
-  {
-    "id": "HAND/63.webp",
-    "category": "HAND",
-    "title": "Crochet Evil Eye",
-    "description": "A handmade crochet evil eye charm. A traditional symbol of protection.",
-    "tags": ["crochet", "evil eye", "charm", "handmade", "protection"],
-    "image_path": "HAND/63.webp"
-  },
-  {
-    "id": "BAGS/39.webp",
-    "category": "BAGS",
-    "title": "London Themed Tote Bag",
-    "description": "A tote bag with a vintage London theme, featuring a double-decker bus and the Union Jack. A perfect souvenir for London lovers.",
-    "tags": ["tote bag", "london", "vintage", "souvenir", "fashion"],
-    "image_path": "BAGS/39.webp"
-  },
-  {
-    "id": "BAGS/38.webp",
-    "category": "BAGS",
-    "title": "Castle Themed Tote Bag",
-    "description": "A tote bag with a picturesque castle and harbor scene. A beautiful and artistic accessory.",
-    "tags": ["tote bag", "castle", "harbor", "artistic", "fashion"],
-    "image_path": "BAGS/38.webp"
-  },
-  {
-    "id": "BAGS/37.webp",
-    "category": "BAGS",
-    "title": "Cityscape Tote Bag",
-    "description": "A tote bag with a vibrant cityscape and harbor print. A stylish and cosmopolitan accessory.",
-    "tags": ["tote bag", "cityscape", "harbor", "fashion", "cosmopolitan"],
-    "image_path": "BAGS/37.webp"
-  },
-  {
-    "id": "BAGS/36.webp",
-    "category": "BAGS",
-    "title": "Santorini Themed Tote Bag",
-    "description": "A tote bag with a beautiful print of the iconic blue-domed churches of Santorini, Greece. A perfect accessory for a Mediterranean vibe.",
-    "tags": ["tote bag", "santorini", "greece", "mediterranean", "fashion"],
-    "image_path": "BAGS/36.webp"
-  },
-  {
-    "id": "BAGS/35.webp",
-    "category": "BAGS",
-    "title": "Santorini Themed Tote Bag",
-    "description": "A tote bag with a beautiful print of the iconic blue-domed churches of Santorini, Greece. A perfect accessory for a Mediterranean vibe.",
-    "tags": ["tote bag", "santorini", "greece", "mediterranean", "fashion"],
-    "image_path": "BAGS/35.webp"
-  },
-  {
-    "id": "BAGS/34.webp",
-    "category": "BAGS",
-    "title": "I Love London Tote Bag",
-    "description": "A tote bag with a patriotic 'I Love London' design. Show your love for the city with this stylish bag.",
-    "tags": ["tote bag", "london", "patriotic", "fashion", "souvenir"],
-    "image_path": "BAGS/34.webp"
-  },
-  {
-    "id": "BAGS/33.webp",
-    "category": "BAGS",
-    "title": "Paris Themed Tote Bag",
-    "description": "A tote bag with a stylized print of the Eiffel Tower in Paris, France. A chic and artistic accessory.",
-    "tags": ["tote bag", "paris", "eiffel tower", "artistic", "fashion"],
-    "image_path": "BAGS/33.webp"
-  },
-  {
-    "id": "BAGS/32.webp",
-    "category": "BAGS",
-    "title": "Santorini Themed Tote Bag",
-    "description": "A tote bag with a beautiful print of the iconic blue-domed churches of Santorini, Greece. A perfect accessory for a Mediterranean vibe.",
-    "tags": ["tote bag", "santorini", "greece", "mediterranean", "fashion"],
-    "image_path": "BAGS/32.webp"
-  },
-  {
-    "id": "BAGS/31.webp",
-    "category": "BAGS",
-    "title": "Plain Blue Tote Bag",
-    "description": "A simple and classic plain blue tote bag. A versatile accessory for any occasion.",
-    "tags": ["tote bag", "blue", "plain", "classic", "versatile"],
-    "image_path": "BAGS/31.webp"
-  },
-  {
-    "id": "BAGS/30.webp",
-    "category": "BAGS",
-    "title": "Cute Cat Jute Bag",
-    "description": "A small jute bag with a cute cartoon cat print. A charming and adorable accessory.",
-    "tags": ["jute bag", "cat", "cute", "cartoon", "adorable"],
-    "image_path": "BAGS/30.webp"
-  },
-  {
-    "id": "BAGS/29.webp",
-    "category": "BAGS",
-    "title": "Cool Cats Jute Bag",
-    "description": "A small jute bag with a print of three cool cats wearing sunglasses. A fun and trendy accessory.",
-    "tags": ["jute bag", "cat", "cool", "sunglasses", "trendy"],
-    "image_path": "BAGS/29.webp"
-  },
-  {
-    "id": "BAGS/28.webp",
-    "category": "BAGS",
-    "title": "Elephant Family Jute Bag",
-    "description": "A small jute bag with a colorful print of an elephant family. A beautiful and artistic accessory.",
-    "tags": ["jute bag", "elephant", "family", "artistic", "colorful"],
-    "image_path": "BAGS/28.webp"
-  },
-  {
-    "id": "BAGS/27.webp",
-    "category": "BAGS",
-    "title": "Tiger Cub Jute Bag",
-    "description": "A small jute bag with a cute print of a tiger cub in the jungle. A wild and adorable accessory.",
-    "tags": ["jute bag", "tiger", "cub", "jungle", "adorable"],
-    "image_path": "BAGS/27.webp"
-  },
-  {
-    "id": "BAGS/26.webp",
-    "category": "BAGS",
-    "title": "Paisley Jute Wine Bag",
-    "description": "A jute wine bag with a traditional paisley print. A stylish and eco-friendly way to carry your wine.",
-    "tags": ["jute bag", "wine bag", "paisley", "eco-friendly", "gift"],
-    "image_path": "BAGS/26.webp"
-  },
-  {
-    "id": "BAGS/25.webp",
-    "category": "BAGS",
-    "title": "Plain Tote Bag",
-    "description": "A simple and classic plain tote bag. A versatile accessory for any occasion.",
-    "tags": ["tote bag", "plain", "classic", "versatile", "canvas"],
-    "image_path": "BAGS/25.webp"
-  },
-  {
-    "id": "BAGS/24.webp",
-    "category": "BAGS",
-    "title": "Plain Green Tote Bag",
-    "description": "A simple and classic plain green tote bag. A versatile accessory for any occasion.",
-    "tags": ["tote bag", "green", "plain", "classic", "versatile"],
-    "image_path": "BAGS/24.webp"
-  },
-  {
-    "id": "BAGS/23.webp",
-    "category": "BAGS",
-    "title": "Paris Themed Tote Bag",
-    "description": "A tote bag with a vibrant print of the Eiffel Tower in Paris, France. A stylish and cosmopolitan accessory.",
-    "tags": ["tote bag", "paris", "eiffel tower", "fashion", "cosmopolitan"],
-    "image_path": "BAGS/23.webp"
-  },
-  {
-    "id": "BAGS/22.webp",
-    "category": "BAGS",
-    "title": "Plain White Tote Bag",
-    "description": "A simple and classic plain white tote bag. A versatile accessory for any occasion.",
-    "tags": ["tote bag", "white", "plain", "classic", "versatile"],
-    "image_path": "BAGS/22.webp"
-  },
-  {
-    "id": "BAGS/21.webp",
-    "category": "BAGS",
-    "title": "Paris Themed Tote Bag",
-    "description": "A tote bag with a vibrant print of the Eiffel Tower in Paris, France. A stylish and cosmopolitan accessory.",
-    "tags": ["tote bag", "paris", "eiffel tower", "fashion", "cosmopolitan"],
-    "image_path": "BAGS/21.webp"
-  },
-  {
-    "id": "BAGS/20.webp",
-    "category": "BAGS",
-    "title": "Butterfly Jute Bag",
-    "description": "A small jute bag with a beautiful print of a butterfly on a flower. A delicate and charming accessory.",
-    "tags": ["jute bag", "butterfly", "flower", "delicate", "charming"],
-    "image_path": "BAGS/20.webp"
-  },
-  {
-    "id": "BAGS/19.webp",
-    "category": "BAGS",
-    "title": "Plain Jute Bag",
-    "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
-    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
-    "image_path": "BAGS/19.webp"
-  },
-  {
-    "id": "BAGS/18.webp",
-    "category": "BAGS",
-    "title": "Happy Australia Day Jute Bag",
-    "description": "A jute bag with a 'Happy Australia Day' print featuring a koala and the Australian flag. A patriotic and festive accessory.",
-    "tags": ["jute bag", "australia day", "koala", "patriotic", "festive"],
-    "image_path": "BAGS/18.webp"
-  },
-  {
-    "id": "BAGS/17.webp",
-    "category": "BAGS",
-    "title": "Plain Jute Bag",
-    "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
-    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
-    "image_path": "BAGS/17.webp"
-  },
-  {
-    "id": "BAGS/16.webp",
-    "category": "BAGS",
-    "title": "Mermaid Jute Bag",
-    "description": "A small jute bag with a beautiful print of a mermaid. A magical and enchanting accessory.",
-    "tags": ["jute bag", "mermaid", "magical", "enchanting", "fantasy"],
-    "image_path": "BAGS/16.webp"
-  },
-  {
-    "id": "BAGS/15.webp",
-    "category": "BAGS",
-    "title": "Dad Loves Me Jute Bag",
-    "description": "A small jute bag with a colorful 'DAD LOVES ME' print. A sweet and heartwarming gift for a dad.",
-    "tags": ["jute bag", "dad", "love", "gift", "heartwarming"],
-    "image_path": "BAGS/15.webp"
-  },
-  {
-    "id": "BAGS/14.webp",
+    "title": "Red Floral Jute Bag",
+    "description": "A jute bag with a vibrant red floral print. A bold and beautiful accessory.",
+    "tags": [
+      "jute bag",
+      "floral",
+      "red",
+      "bold",
+      "fashion"
+    ],
+    "image_path": "BAGS/11.webp",
+    "type": "ShoppingBag"
+  }
+  {
+    "id": "BAGS/12.webp",
     "category": "BAGS",
     "title": "Floral Jute Bag",
     "description": "A jute bag with a beautiful and intricate floral print. A stylish and elegant accessory.",
-    "tags": ["jute bag", "floral", "elegant", "stylish", "fashion"],
-    "image_path": "BAGS/14.webp"
+    "tags": [
+      "jute bag",
+      "floral",
+      "elegant",
+      "stylish",
+      "fashion"
+    ],
+    "image_path": "BAGS/12.webp",
+    "type": "ShoppingBag"
   },
   {
     "id": "BAGS/13.webp",
     "category": "BAGS",
     "title": "Plain Jute Bag",
     "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
-    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
-    "image_path": "BAGS/13.webp"
+    "tags": [
+      "jute bag",
+      "plain",
+      "classic",
+      "versatile",
+      "eco-friendly"
+    ],
+    "image_path": "BAGS/13.webp",
+    "type": "ShoppingBag"
   },
   {
-    "id": "BAGS/12.webp",
+    "id": "BAGS/14.webp",
     "category": "BAGS",
     "title": "Floral Jute Bag",
     "description": "A jute bag with a beautiful and intricate floral print. A stylish and elegant accessory.",
-    "tags": ["jute bag", "floral", "elegant", "stylish", "fashion"],
-    "image_path": "BAGS/12.webp"
+    "tags": [
+      "jute bag",
+      "floral",
+      "elegant",
+      "stylish",
+      "fashion"
+    ],
+    "image_path": "BAGS/14.webp",
+    "type": "ShoppingBag"
   },
   {
-    "id": "BAGS/11.webp",
+    "id": "BAGS/15.webp",
     "category": "BAGS",
-    "title": "Red Floral Jute Bag",
-    "description": "A jute bag with a vibrant red floral print. A bold and beautiful accessory.",
-    "tags": ["jute bag", "floral", "red", "bold", "fashion"],
-    "image_path": "BAGS/11.webp"
+    "title": "Dad Loves Me Jute Bag",
+    "description": "A small jute bag with a colorful 'DAD LOVES ME' print. A sweet and heartwarming gift for a dad.",
+    "tags": [
+      "jute bag",
+      "dad",
+      "love",
+      "gift",
+      "heartwarming"
+    ],
+    "image_path": "BAGS/15.webp",
+    "type": "GiftBag"
   },
   {
-    "id": "BAGS/10.webp",
+    "id": "BAGS/16.webp",
+    "category": "BAGS",
+    "title": "Mermaid Jute Bag",
+    "description": "A small jute bag with a beautiful print of a mermaid. A magical and enchanting accessory.",
+    "tags": [
+      "jute bag",
+      "mermaid",
+      "magical",
+      "enchanting",
+      "fantasy"
+    ],
+    "image_path": "BAGS/16.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/17.webp",
     "category": "BAGS",
     "title": "Plain Jute Bag",
     "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
-    "tags": ["jute bag", "plain", "classic", "versatile", "eco-friendly"],
-    "image_path": "BAGS/10.webp"
+    "tags": [
+      "jute bag",
+      "plain",
+      "classic",
+      "versatile",
+      "eco-friendly"
+    ],
+    "image_path": "BAGS/17.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/18.webp",
+    "category": "BAGS",
+    "title": "Happy Australia Day Jute Bag",
+    "description": "A jute bag with a 'Happy Australia Day' print featuring a koala and the Australian flag. A patriotic and festive accessory.",
+    "tags": [
+      "jute bag",
+      "australia day",
+      "koala",
+      "patriotic",
+      "festive"
+    ],
+    "image_path": "BAGS/18.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/19.webp",
+    "category": "BAGS",
+    "title": "Plain Jute Bag",
+    "description": "A simple and classic plain jute bag. A versatile and eco-friendly accessory for any occasion.",
+    "tags": [
+      "jute bag",
+      "plain",
+      "classic",
+      "versatile",
+      "eco-friendly"
+    ],
+    "image_path": "BAGS/19.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/20.webp",
+    "category": "BAGS",
+    "title": "Butterfly Jute Bag",
+    "description": "A small jute bag with a beautiful print of a butterfly on a flower. A delicate and charming accessory.",
+    "tags": [
+      "jute bag",
+      "butterfly",
+      "flower",
+      "delicate",
+      "charming"
+    ],
+    "image_path": "BAGS/20.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/21.webp",
+    "category": "BAGS",
+    "title": "Paris Themed Tote Bag",
+    "description": "A tote bag with a vibrant print of the Eiffel Tower in Paris, France. A stylish and cosmopolitan accessory.",
+    "tags": [
+      "tote bag",
+      "paris",
+      "eiffel tower",
+      "fashion",
+      "cosmopolitan"
+    ],
+    "image_path": "BAGS/21.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/22.webp",
+    "category": "BAGS",
+    "title": "Plain White Tote Bag",
+    "description": "A simple and classic plain white tote bag. A versatile accessory for any occasion.",
+    "tags": [
+      "tote bag",
+      "white",
+      "plain",
+      "classic",
+      "versatile"
+    ],
+    "image_path": "BAGS/22.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/23.webp",
+    "category": "BAGS",
+    "title": "Paris Themed Tote Bag",
+    "description": "A tote bag with a vibrant print of the Eiffel Tower in Paris, France. A stylish and cosmopolitan accessory.",
+    "tags": [
+      "tote bag",
+      "paris",
+      "eiffel tower",
+      "fashion",
+      "cosmopolitan"
+    ],
+    "image_path": "BAGS/23.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/24.webp",
+    "category": "BAGS",
+    "title": "Plain Green Tote Bag",
+    "description": "A simple and classic plain green tote bag. A versatile accessory for any occasion.",
+    "tags": [
+      "tote bag",
+      "green",
+      "plain",
+      "classic",
+      "versatile"
+    ],
+    "image_path": "BAGS/24.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/25.webp",
+    "category": "BAGS",
+    "title": "Plain Tote Bag",
+    "description": "A simple and classic plain tote bag. A versatile accessory for any occasion.",
+    "tags": [
+      "tote bag",
+      "plain",
+      "classic",
+      "versatile",
+      "canvas"
+    ],
+    "image_path": "BAGS/25.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/26.webp",
+    "category": "BAGS",
+    "title": "Paisley Jute Wine Bag",
+    "description": "A jute wine bag with a traditional paisley print. A stylish and eco-friendly way to carry your wine.",
+    "tags": [
+      "jute bag",
+      "wine bag",
+      "paisley",
+      "eco-friendly",
+      "gift"
+    ],
+    "image_path": "BAGS/26.webp",
+    "type": "WineBag"
+  },
+  {
+    "id": "BAGS/27.webp",
+    "category": "BAGS",
+    "title": "Tiger Cub Jute Bag",
+    "description": "A small jute bag with a cute print of a tiger cub in the jungle. A wild and adorable accessory.",
+    "tags": [
+      "jute bag",
+      "tiger",
+      "cub",
+      "jungle",
+      "adorable"
+    ],
+    "image_path": "BAGS/27.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/28.webp",
+    "category": "BAGS",
+    "title": "Elephant Family Jute Bag",
+    "description": "A small jute bag with a colorful print of an elephant family. A beautiful and artistic accessory.",
+    "tags": [
+      "jute bag",
+      "elephant",
+      "family",
+      "artistic",
+      "colorful"
+    ],
+    "image_path": "BAGS/28.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/29.webp",
+    "category": "BAGS",
+    "title": "Cool Cats Jute Bag",
+    "description": "A small jute bag with a print of three cool cats wearing sunglasses. A fun and trendy accessory.",
+    "tags": [
+      "jute bag",
+      "cat",
+      "cool",
+      "sunglasses",
+      "trendy"
+    ],
+    "image_path": "BAGS/29.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/30.webp",
+    "category": "BAGS",
+    "title": "Cute Cat Jute Bag",
+    "description": "A small jute bag with a cute cartoon cat print. A charming and adorable accessory.",
+    "tags": [
+      "jute bag",
+      "cat",
+      "cute",
+      "cartoon",
+      "adorable"
+    ],
+    "image_path": "BAGS/30.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/31.webp",
+    "category": "BAGS",
+    "title": "Plain Blue Tote Bag",
+    "description": "A simple and classic plain blue tote bag. A versatile accessory for any occasion.",
+    "tags": [
+      "tote bag",
+      "blue",
+      "plain",
+      "classic",
+      "versatile"
+    ],
+    "image_path": "BAGS/31.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/32.webp",
+    "category": "BAGS",
+    "title": "Santorini Themed Tote Bag",
+    "description": "A tote bag with a beautiful print of the iconic blue-domed churches of Santorini, Greece. A perfect accessory for a Mediterranean vibe.",
+    "tags": [
+      "tote bag",
+      "santorini",
+      "greece",
+      "mediterranean",
+      "fashion"
+    ],
+    "image_path": "BAGS/32.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/33.webp",
+    "category": "BAGS",
+    "title": "Paris Themed Tote Bag",
+    "description": "A tote bag with a stylized print of the Eiffel Tower in Paris, France. A chic and artistic accessory.",
+    "tags": [
+      "tote bag",
+      "paris",
+      "eiffel tower",
+      "artistic",
+      "fashion"
+    ],
+    "image_path": "BAGS/33.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/34.webp",
+    "category": "BAGS",
+    "title": "I Love London Tote Bag",
+    "description": "A tote bag with a patriotic 'I Love London' design. Show your love for the city with this stylish bag.",
+    "tags": [
+      "tote bag",
+      "london",
+      "patriotic",
+      "fashion",
+      "souvenir"
+    ],
+    "image_path": "BAGS/34.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/35.webp",
+    "category": "BAGS",
+    "title": "Santorini Themed Tote Bag",
+    "description": "A tote bag with a beautiful print of the iconic blue-domed churches of Santorini, Greece. A perfect accessory for a Mediterranean vibe.",
+    "tags": [
+      "tote bag",
+      "santorini",
+      "greece",
+      "mediterranean",
+      "fashion"
+    ],
+    "image_path": "BAGS/35.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/36.webp",
+    "category": "BAGS",
+    "title": "Santorini Themed Tote Bag",
+    "description": "A tote bag with a beautiful print of the iconic blue-domed churches of Santorini, Greece. A perfect accessory for a Mediterranean vibe.",
+    "tags": [
+      "tote bag",
+      "santorini",
+      "greece",
+      "mediterranean",
+      "fashion"
+    ],
+    "image_path": "BAGS/36.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/37.webp",
+    "category": "BAGS",
+    "title": "Cityscape Tote Bag",
+    "description": "A tote bag with a vibrant cityscape and harbor print. A stylish and cosmopolitan accessory.",
+    "tags": [
+      "tote bag",
+      "cityscape",
+      "harbor",
+      "fashion",
+      "cosmopolitan"
+    ],
+    "image_path": "BAGS/37.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/38.webp",
+    "category": "BAGS",
+    "title": "Castle Themed Tote Bag",
+    "description": "A tote bag with a picturesque castle and harbor scene. A beautiful and artistic accessory.",
+    "tags": [
+      "tote bag",
+      "castle",
+      "harbor",
+      "artistic",
+      "fashion"
+    ],
+    "image_path": "BAGS/38.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/39.webp",
+    "category": "BAGS",
+    "title": "London Themed Tote Bag",
+    "description": "A tote bag with a vintage London theme, featuring a double-decker bus and the Union Jack. A perfect souvenir for London lovers.",
+    "tags": [
+      "tote bag",
+      "london",
+      "vintage",
+      "souvenir",
+      "fashion"
+    ],
+    "image_path": "BAGS/39.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/40.webp",
+    "category": "BAGS",
+    "title": "I Love Summer Tote Bag",
+    "description": "A stylish tote bag with a summer-themed design featuring palm trees and a heart. Perfect for beach trips and casual outings.",
+    "tags": [
+      "tote bag",
+      "summer",
+      "beach",
+      "fashion",
+      "canvas"
+    ],
+    "image_path": "BAGS/40.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/41.webp",
+    "category": "BAGS",
+    "title": "Two-Tone Canvas Tote Bag",
+    "description": "A simple yet elegant two-tone canvas tote bag in green and blue. Versatile for everyday use.",
+    "tags": [
+      "tote bag",
+      "canvas",
+      "two-tone",
+      "minimalist",
+      "fashion"
+    ],
+    "image_path": "BAGS/41.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/42.webp",
+    "category": "BAGS",
+    "title": "Summer Love Tote Bag",
+    "description": "A charming tote bag with 'Summer Love' and a heart design. Ideal for a romantic summer getaway.",
+    "tags": [
+      "tote bag",
+      "summer",
+      "love",
+      "fashion",
+      "canvas"
+    ],
+    "image_path": "BAGS/42.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/43.webp",
+    "category": "BAGS",
+    "title": "Go Green Tote Bag",
+    "description": "A blue tote bag with the message 'Go Green'. Promote environmental consciousness with this eco-friendly bag.",
+    "tags": [
+      "tote bag",
+      "go green",
+      "eco-friendly",
+      "environment",
+      "canvas"
+    ],
+    "image_path": "BAGS/43.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/44.webp",
+    "category": "BAGS",
+    "title": "Self Love Floral Tote Bag",
+    "description": "A beautiful white tote bag with a floral 'Self Love' design. Embrace nature and self-love with this artistic bag.",
+    "tags": [
+      "tote bag",
+      "self-love",
+      "floral",
+      "fashion",
+      "canvas"
+    ],
+    "image_path": "BAGS/44.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/45.webp",
+    "category": "BAGS",
+    "title": "Self Love Club Tote Bag",
+    "description": "A white tote bag with the empowering message 'Self Love Club'. A great reminder to practice self-care.",
+    "tags": [
+      "tote bag",
+      "self-love",
+      "empowerment",
+      "fashion",
+      "canvas"
+    ],
+    "image_path": "BAGS/45.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/46.webp",
+    "category": "BAGS",
+    "title": "Self Love Club Heart Tote Bag",
+    "description": "A white tote bag with a heart-shaped 'Self Love Club' design. Spread love and positivity with this stylish bag.",
+    "tags": [
+      "tote bag",
+      "self-love",
+      "heart",
+      "fashion",
+      "canvas"
+    ],
+    "image_path": "BAGS/46.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/47.webp",
+    "category": "BAGS",
+    "title": "Paisley Jute Wine Bag",
+    "description": "A jute wine bag with a traditional paisley print. A stylish and eco-friendly way to carry your wine.",
+    "tags": [
+      "jute bag",
+      "wine bag",
+      "paisley",
+      "eco-friendly",
+      "gift"
+    ],
+    "image_path": "BAGS/47.webp",
+    "type": "WineBag"
+  },
+  {
+    "id": "BAGS/48.webp",
+    "category": "BAGS",
+    "title": "Be Kind Tote Bag",
+    "description": "A tote bag with a floral wreath and the message 'Be Kind'. A beautiful reminder to spread kindness.",
+    "tags": [
+      "tote bag",
+      "be kind",
+      "kindness",
+      "floral",
+      "inspirational"
+    ],
+    "image_path": "BAGS/48.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/49.webp",
+    "category": "BAGS",
+    "title": "Jungle Summer Tote Bag",
+    "description": "A unique tote bag with a jungle and 'SUMMER' design. Explore your wild side with this adventurous bag.",
+    "tags": [
+      "tote bag",
+      "jungle",
+      "summer",
+      "adventurous",
+      "fashion"
+    ],
+    "image_path": "BAGS/49.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/50.webp",
+    "category": "BAGS",
+    "title": "Red Heart Jute Bag",
+    "description": "A charming jute bag with a large red heart. A lovely gift for someone special.",
+    "tags": [
+      "jute bag",
+      "heart",
+      "love",
+      "gift",
+      "eco-friendly"
+    ],
+    "image_path": "BAGS/50.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/51.webp",
+    "category": "BAGS",
+    "title": "Colorful Tote Bags",
+    "description": "A set of six colorful tote bags in various pastel shades. Perfect for color-coordinating your outfits.",
+    "tags": [
+      "tote bag",
+      "colorful",
+      "pastel",
+      "fashion",
+      "set"
+    ],
+    "image_path": "BAGS/51.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/52.webp",
+    "category": "BAGS",
+    "title": "Parrot Jute Bag",
+    "description": "A vibrant jute bag with a colorful parrot and floral design. A tropical and exotic accessory.",
+    "tags": [
+      "jute bag",
+      "parrot",
+      "tropical",
+      "floral",
+      "fashion"
+    ],
+    "image_path": "BAGS/52.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/53.webp",
+    "category": "BAGS",
+    "title": "Tribal Print Pouches",
+    "description": "A set of two pouches with a vibrant and colorful tribal print. Perfect for storing your essentials in style.",
+    "tags": [
+      "pouch",
+      "tribal print",
+      "colorful",
+      "fashion",
+      "accessory"
+    ],
+    "image_path": "BAGS/53.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/54.webp",
+    "category": "BAGS",
+    "title": "Canvas Bag Set",
+    "description": "A set of four canvas bags in different colors with 'CANVAS BAG' printed on them. A practical and versatile set for all your needs.",
+    "tags": [
+      "canvas bag",
+      "set",
+      "colorful",
+      "practical",
+      "versatile"
+    ],
+    "image_path": "BAGS/54.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/55.webp",
+    "category": "BAGS",
+    "title": "I am a Jute bag Tote",
+    "description": "A natural jute tote bag with the message 'I am a Jute bag'. A simple and eco-friendly statement piece.",
+    "tags": [
+      "jute bag",
+      "tote",
+      "eco-friendly",
+      "natural",
+      "statement"
+    ],
+    "image_path": "BAGS/55.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/56.webp",
+    "category": "BAGS",
+    "title": "Jute and Canvas Tote Bag",
+    "description": "A stylish tote bag made from a combination of jute and canvas. A perfect blend of rustic and modern.",
+    "tags": [
+      "jute bag",
+      "canvas",
+      "tote",
+      "rustic",
+      "modern"
+    ],
+    "image_path": "BAGS/56.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/57.webp",
+    "category": "BAGS",
+    "title": "Jute Bag with Logo",
+    "description": "A classic jute bag with a 'LOGO' placeholder. Customizable for your brand or personal use.",
+    "tags": [
+      "jute bag",
+      "logo",
+      "customizable",
+      "eco-friendly",
+      "burlap"
+    ],
+    "image_path": "BAGS/57.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/58.webp",
+    "category": "BAGS",
+    "title": "Striped Jute Bag",
+    "description": "A stylish jute bag with red and white stripes. Perfect for a chic and rustic look.",
+    "tags": [
+      "jute bag",
+      "striped",
+      "fashion",
+      "eco-friendly",
+      "rustic"
+    ],
+    "image_path": "BAGS/58.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/59.webp",
+    "category": "BAGS",
+    "title": "Tote Bag",
+    "description": "A simple black tote bag with 'TOTE BAG' printed on it. A classic and versatile accessory.",
+    "tags": [
+      "tote bag",
+      "black",
+      "classic",
+      "minimalist",
+      "canvas"
+    ],
+    "image_path": "BAGS/59.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "BAGS/60.webp",
+    "category": "BAGS",
+    "title": "Hello Summer Watermelon Tote Bag",
+    "description": "A black tote bag with a 'Hello Summer' and watermelon design. A refreshing and stylish bag for the summer.",
+    "tags": [
+      "tote bag",
+      "hello summer",
+      "watermelon",
+      "summer",
+      "fashion"
+    ],
+    "image_path": "BAGS/60.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/61.webp",
+    "category": "BAGS",
+    "title": "Hello Summer Tote Bag",
+    "description": "A black tote bag with a colorful 'Hello Summer' design. Welcome the sunny season with this cheerful bag.",
+    "tags": [
+      "tote bag",
+      "hello summer",
+      "summer",
+      "fashion",
+      "canvas"
+    ],
+    "image_path": "BAGS/61.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "BAGS/62.webp",
+    "category": "BAGS",
+    "title": "Summer Love Watermelon Tote Bag",
+    "description": "A cute tote bag with two watermelon slices in love. A fun and playful accessory for the summer.",
+    "tags": [
+      "tote bag",
+      "summer",
+      "watermelon",
+      "love",
+      "cute"
+    ],
+    "image_path": "BAGS/62.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/1.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquet",
+    "description": "A lovely bouquet of crochet sunflowers wrapped in burlap. A rustic and cheerful gift for your loved ones.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/1.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/2.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquet in Vase",
+    "description": "A stunning bouquet of crochet sunflowers in a glass vase. A cheerful and long-lasting floral arrangement.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "vase",
+      "handmade"
+    ],
+    "image_path": "HAND/2.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/3.webp",
+    "category": "HAND",
+    "title": "Crochet Flower Mirror on Stand",
+    "description": "A beautiful mirror framed with colorful crochet flowers on a wooden stand. A charming and decorative accessory for your vanity.",
+    "tags": [
+      "crochet",
+      "flower",
+      "mirror",
+      "handmade",
+      "home decor"
+    ],
+    "image_path": "HAND/3.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/4.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Purse",
+    "description": "A cute and stylish crochet purse in the shape of a sunflower. A fun and unique accessory.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "purse",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/4.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/5.webp",
+    "category": "HAND",
+    "title": "Crochet Roses",
+    "description": "Two long-stemmed red crochet roses. A simple and elegant handmade gift.",
+    "tags": [
+      "crochet",
+      "rose",
+      "handmade",
+      "flower",
+      "romantic"
+    ],
+    "image_path": "HAND/5.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/6.webp",
+    "category": "HAND",
+    "title": "Crochet Rose Shadow Box",
+    "description": "A beautiful arrangement of crochet roses in a wooden shadow box. A romantic and elegant piece of art.",
+    "tags": [
+      "crochet",
+      "rose",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/6.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/7.webp",
+    "category": "HAND",
+    "title": "Handmade Crochet Sunflower",
+    "description": "A beautiful handmade crochet sunflower with detailed petals and a green leaf. A perfect decorative piece.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "handmade",
+      "premium yarn",
+      "leaf"
+    ],
+    "image_path": "HAND/7.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/8.webp",
+    "category": "HAND",
+    "title": "Colorful Crochet Tulips",
+    "description": "A vibrant bouquet of crochet tulips in various colors. A cheerful and eye-catching floral arrangement.",
+    "tags": [
+      "crochet",
+      "tulip",
+      "colorful",
+      "bouquet",
+      "handmade"
+    ],
+    "image_path": "HAND/8.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/9.webp",
+    "category": "HAND",
+    "title": "Crochet Roses",
+    "description": "A beautiful bouquet of pink crochet roses. A delicate and romantic handmade gift.",
+    "tags": [
+      "crochet",
+      "rose",
+      "handmade",
+      "flower",
+      "romantic"
+    ],
+    "image_path": "HAND/9.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/10.webp",
+    "category": "HAND",
+    "title": "Crochet Rose Bouquet",
+    "description": "A beautiful bouquet of red crochet roses. A classic and romantic handmade gift.",
+    "tags": [
+      "crochet",
+      "rose",
+      "bouquet",
+      "handmade",
+      "romantic"
+    ],
+    "image_path": "HAND/10.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/11.webp",
+    "category": "HAND",
+    "title": "Crochet Tulip Bouquet",
+    "description": "A lovely bouquet of yellow and purple crochet tulips wrapped in burlap. A cheerful and rustic gift.",
+    "tags": [
+      "crochet",
+      "tulip",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/11.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/12.webp",
+    "category": "HAND",
+    "title": "Crochet Bunny",
+    "description": "A cute and cuddly crochet bunny with a pink scarf. A perfect handmade toy for children.",
+    "tags": [
+      "crochet",
+      "bunny",
+      "toy",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/12.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/13.webp",
+    "category": "HAND",
+    "title": "Crochet Frog",
+    "description": "A cute and quirky crochet frog with big eyes. A fun and playful handmade toy.",
+    "tags": [
+      "crochet",
+      "frog",
+      "toy",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/13.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/14.webp",
+    "category": "HAND",
+    "title": "Crochet Fried Egg Bag",
+    "description": "A quirky and fun crochet bag in the shape of a fried egg. A unique and playful accessory.",
+    "tags": [
+      "crochet",
+      "fried egg",
+      "bag",
+      "handmade",
+      "quirky"
+    ],
+    "image_path": "HAND/14.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "HAND/15.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquet",
+    "description": "A lovely bouquet of a single crochet sunflower wrapped in burlap. A rustic and charming gift.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/15.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/16.webp",
+    "category": "HAND",
+    "title": "Crochet Bunny",
+    "description": "A cute and cuddly crochet bunny with a pink scarf. A perfect handmade toy for children.",
+    "tags": [
+      "crochet",
+      "bunny",
+      "toy",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/16.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/17.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower",
+    "description": "A single crochet sunflower with a green stem. A simple yet beautiful handmade flower.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "handmade",
+      "flower",
+      "decoration"
+    ],
+    "image_path": "HAND/17.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/18.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflowers",
+    "description": "Two crochet sunflowers with green leaves. A simple and cheerful handmade decoration.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "handmade",
+      "flower",
+      "decoration"
+    ],
+    "image_path": "HAND/18.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/19.webp",
+    "category": "HAND",
+    "title": "Crochet Tulips",
+    "description": "A beautiful bouquet of handmade crochet tulips in various colors. A long-lasting and charming gift for any occasion.",
+    "tags": [
+      "crochet",
+      "tulips",
+      "flowers",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/19.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/20.webp",
+    "category": "HAND",
+    "title": "Crochet Bunny",
+    "description": "A cute and cuddly crochet bunny with a pink scarf. A perfect handmade toy for children.",
+    "tags": [
+      "crochet",
+      "bunny",
+      "toy",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/20.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/21.webp",
+    "category": "HAND",
+    "title": "Crochet Daisy Bag",
+    "description": "A charming crochet bag in the shape of a daisy. A fresh and lovely accessory.",
+    "tags": [
+      "crochet",
+      "daisy",
+      "bag",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/21.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/22.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Pouch",
+    "description": "A cute crochet pouch with a sunflower design. A sunny and cheerful accessory.",
+    "tags": [
+      "crochet",
+      "pouch",
+      "sunflower",
+      "handmade",
+      "accessory"
+    ],
+    "image_path": "HAND/22.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/23.webp",
+    "category": "HAND",
+    "title": "Yarn Magic Crochet Pouch",
+    "description": "A lavender crochet pouch with a sunflower design and 'Yarn Magic' tag. A magical and charming accessory.",
+    "tags": [
+      "crochet",
+      "pouch",
+      "sunflower",
+      "yarn magic",
+      "handmade"
+    ],
+    "image_path": "HAND/23.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "HAND/24.webp",
+    "category": "HAND",
+    "title": "Crochet Roses",
+    "description": "A beautiful bouquet of pink crochet roses. A delicate and romantic handmade gift.",
+    "tags": [
+      "crochet",
+      "rose",
+      "handmade",
+      "flower",
+      "romantic"
+    ],
+    "image_path": "HAND/24.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/25.webp",
+    "category": "HAND",
+    "title": "Crochet Bee",
+    "description": "A cute and chubby crochet bee. A fun and playful handmade toy.",
+    "tags": [
+      "crochet",
+      "bee",
+      "toy",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/25.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/26.webp",
+    "category": "HAND",
+    "title": "Pink and Purple Crochet Tulips",
+    "description": "A lovely bouquet of pink and purple crochet tulips with a candle. A romantic and cozy gift set.",
+    "tags": [
+      "crochet",
+      "tulip",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/26.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/27.webp",
+    "category": "HAND",
+    "title": "Crochet Rose",
+    "description": "A single red crochet rose with a long stem. A classic and elegant handmade flower.",
+    "tags": [
+      "crochet",
+      "rose",
+      "handmade",
+      "flower",
+      "romantic"
+    ],
+    "image_path": "HAND/27.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/28.webp",
+    "category": "HAND",
+    "title": "Crochet Strawberry and Sunflower Bags",
+    "description": "A collection of white crochet bags with strawberry and sunflower designs. A sweet and summery accessory set.",
+    "tags": [
+      "crochet",
+      "strawberry",
+      "sunflower",
+      "bag",
+      "handmade"
+    ],
+    "image_path": "HAND/28.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/29.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bag",
+    "description": "A stylish crochet bag with a sunflower design, modeled by a person. A chic and trendy accessory for any occasion.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bag",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/29.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/30.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bag",
+    "description": "A stylish crochet bag with a sunflower design. A chic and trendy accessory for any occasion.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bag",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/30.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/31.webp",
+    "category": "HAND",
+    "title": "Colorful Crochet Tulips",
+    "description": "A vibrant bouquet of crochet tulips in various colors. A cheerful and eye-catching floral arrangement.",
+    "tags": [
+      "crochet",
+      "tulip",
+      "colorful",
+      "bouquet",
+      "handmade"
+    ],
+    "image_path": "HAND/31.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/32.webp",
+    "category": "HAND",
+    "title": "White Crochet Tulips",
+    "description": "A beautiful bouquet of white crochet tulips wrapped in burlap. An elegant and timeless gift.",
+    "tags": [
+      "crochet",
+      "tulip",
+      "white",
+      "bouquet",
+      "handmade"
+    ],
+    "image_path": "HAND/32.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/33.webp",
+    "category": "HAND",
+    "title": "Crochet Flower Arrangement",
+    "description": "A beautiful arrangement of red and white crochet flowers in a vase. A striking and elegant home decor piece.",
+    "tags": [
+      "crochet",
+      "flower",
+      "arrangement",
+      "vase",
+      "handmade"
+    ],
+    "image_path": "HAND/33.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/34.webp",
+    "category": "HAND",
+    "title": "Crochet Tulips on Mirror",
+    "description": "Two white crochet tulips placed on a pearl-framed mirror. An elegant and artistic composition.",
+    "tags": [
+      "crochet",
+      "tulip",
+      "mirror",
+      "pearl",
+      "handmade"
+    ],
+    "image_path": "HAND/34.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/35.webp",
+    "category": "HAND",
+    "title": "Crochet Daisy Bag",
+    "description": "A charming crochet bag in the shape of a daisy. A fresh and lovely accessory.",
+    "tags": [
+      "crochet",
+      "daisy",
+      "bag",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/35.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/36.webp",
+    "category": "HAND",
+    "title": "Crochet Frog Couple",
+    "description": "A pair of adorable crochet frogs in love. A cute and quirky gift for a special someone.",
+    "tags": [
+      "crochet",
+      "frog",
+      "couple",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/36.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/37.webp",
+    "category": "HAND",
+    "title": "Crochet Strawberry Bag",
+    "description": "A cute and sweet crochet bag with a strawberry and bow design. A fun and playful accessory.",
+    "tags": [
+      "crochet",
+      "strawberry",
+      "bag",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/37.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/38.webp",
+    "category": "HAND",
+    "title": "Crochet Daisy Bag",
+    "description": "A charming crochet bag in the shape of a sunflower. A fresh and lovely accessory.",
+    "tags": [
+      "crochet",
+      "daisy",
+      "bag",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/38.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/39.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflowers",
+    "description": "A beautiful arrangement of three crochet sunflowers. A sunny and cheerful decorative piece.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "handmade",
+      "flower",
+      "decoration"
+    ],
+    "image_path": "HAND/39.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/40.webp",
+    "category": "HAND",
+    "title": "Crochet Bee",
+    "description": "A cute and chubby crochet bee. A fun and playful handmade toy.",
+    "tags": [
+      "crochet",
+      "bee",
+      "toy",
+      "handmade",
+      "cute"
+    ],
+    "image_path": "HAND/40.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/41.webp",
+    "category": "HAND",
+    "title": "Colorful Crochet Roses",
+    "description": "A vibrant bouquet of crochet roses in various colors. A cheerful and eye-catching floral arrangement.",
+    "tags": [
+      "crochet",
+      "rose",
+      "colorful",
+      "bouquet",
+      "handmade"
+    ],
+    "image_path": "HAND/41.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/42.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Purse",
+    "description": "A cute and stylish crochet purse in the shape of a sunflower. A fun and unique accessory.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "purse",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/42.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/43.webp",
+    "category": "HAND",
+    "title": "Crochet Roses with Pearls",
+    "description": "A delicate arrangement of three red crochet roses with a string of pearls. A romantic and elegant composition.",
+    "tags": [
+      "crochet",
+      "rose",
+      "pearls",
+      "handmade",
+      "romantic"
+    ],
+    "image_path": "HAND/43.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/44.webp",
+    "category": "HAND",
+    "title": "Crochet Flower Shadow Box",
+    "description": "A beautiful arrangement of crochet flowers in a wooden shadow box. A unique and artistic way to display handmade flowers.",
+    "tags": [
+      "crochet",
+      "flower",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/44.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/45.webp",
+    "category": "HAND",
+    "title": "Crochet Rose",
+    "description": "A single red crochet rose with a green stem. A timeless and romantic handmade gift.",
+    "tags": [
+      "crochet",
+      "rose",
+      "handmade",
+      "flower",
+      "romantic"
+    ],
+    "image_path": "HAND/45.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/46.webp",
+    "category": "HAND",
+    "title": "Crochet Coin Purses",
+    "description": "A collection of colorful crochet coin purses with cute embellishments. Perfect for keeping your coins and small items organized.",
+    "tags": [
+      "crochet",
+      "coin purse",
+      "handmade",
+      "colorful",
+      "cute"
+    ],
+    "image_path": "HAND/46.webp",
+    "type": "ShoppingBag"
+  },
+  {
+    "id": "HAND/47.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower",
+    "description": "A single crochet sunflower with a green stem. A simple yet beautiful handmade flower.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "handmade",
+      "flower",
+      "decoration"
+    ],
+    "image_path": "HAND/47.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/48.webp",
+    "category": "HAND",
+    "title": "Crochet Roses",
+    "description": "Two beautiful pink and red crochet roses. A romantic and delicate handmade gift.",
+    "tags": [
+      "crochet",
+      "rose",
+      "handmade",
+      "flower",
+      "romantic"
+    ],
+    "image_path": "HAND/48.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/49.webp",
+    "category": "HAND",
+    "title": "Crochet Evil Eye",
+    "description": "A handmade crochet evil eye charm. A traditional symbol of protection.",
+    "tags": [
+      "crochet",
+      "evil eye",
+      "charm",
+      "handmade",
+      "protection"
+    ],
+    "image_path": "HAND/49.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/50.webp",
+    "category": "HAND",
+    "title": "Crochet Flower Shadow Box",
+    "description": "A beautiful arrangement of crochet flowers in a wooden shadow box. A unique and artistic way to display handmade flowers.",
+    "tags": [
+      "crochet",
+      "flower",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/50.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/51.webp",
+    "category": "HAND",
+    "title": "Crochet Flower Mirror",
+    "description": "A beautiful mirror framed with colorful crochet flowers. A unique and artistic piece for your home decor.",
+    "tags": [
+      "crochet",
+      "flower",
+      "mirror",
+      "handmade",
+      "home decor"
+    ],
+    "image_path": "HAND/51.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/52.webp",
+    "category": "HAND",
+    "title": "Crochet Tulips",
+    "description": "A beautiful bouquet of handmade crochet tulips in various colors. A long-lasting and charming gift for any occasion.",
+    "tags": [
+      "crochet",
+      "tulips",
+      "flowers",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/52.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/53.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower",
+    "description": "A single crochet sunflower with a green stem. A simple yet beautiful handmade flower.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "handmade",
+      "flower",
+      "decoration"
+    ],
+    "image_path": "HAND/53.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/54.webp",
+    "category": "HAND",
+    "title": "Crochet Rose Shadow Box",
+    "description": "A beautiful arrangement of crochet roses in a wooden shadow box. A romantic and elegant piece of art.",
+    "tags": [
+      "crochet",
+      "rose",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/54.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/55.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquet",
+    "description": "A lovely bouquet of two crochet sunflowers wrapped in burlap. A rustic and charming gift.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/55.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/56.webp",
+    "category": "HAND",
+    "title": "Crochet Tulip Bouquets",
+    "description": "Two individually wrapped crochet tulip bouquets in pink and purple. A sweet and charming gift.",
+    "tags": [
+      "crochet",
+      "tulip",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/56.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/57.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquets",
+    "description": "A collection of individually wrapped crochet sunflower bouquets. Perfect for party favors or small gifts.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/57.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/58.webp",
+    "category": "HAND",
+    "title": "Colorful Crochet Roses",
+    "description": "A beautiful collection of colorful crochet roses. A vibrant and cheerful assortment of handmade flowers.",
+    "tags": [
+      "crochet",
+      "rose",
+      "colorful",
+      "handmade",
+      "flower"
+    ],
+    "image_path": "HAND/58.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/59.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Shadow Box",
+    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/59.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/60.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquet",
+    "description": "A lovely bouquet of a single crochet sunflower wrapped in burlap. A rustic and charming gift.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/60.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/61.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Shadow Box",
+    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/61.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/62.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquet",
+    "description": "A large and beautiful bouquet of crochet sunflowers wrapped in burlap. A cheerful and impressive gift.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/62.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/63.webp",
+    "category": "HAND",
+    "title": "Crochet Evil Eye",
+    "description": "A handmade crochet evil eye charm. A traditional symbol of protection.",
+    "tags": [
+      "crochet",
+      "evil eye",
+      "charm",
+      "handmade",
+      "protection"
+    ],
+    "image_path": "HAND/63.webp",
+    "type": "GiftItems"
+  },
+  {
+    "id": "HAND/64.webp",
+    "category": "HAND",
+    "title": "Crochet Flower Mirror",
+    "description": "A beautiful mirror framed with red, pink, and white crochet flowers. A unique and artistic piece for your home decor.",
+    "tags": [
+      "crochet",
+      "flower",
+      "mirror",
+      "handmade",
+      "home decor"
+    ],
+    "image_path": "HAND/64.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/65.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Shadow Box",
+    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/65.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/66.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bag",
+    "description": "A stylish crochet bag with a large sunflower design. A chic and trendy accessory for any occasion.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bag",
+      "handmade",
+      "fashion"
+    ],
+    "image_path": "HAND/66.webp",
+    "type": "GiftBag"
+  },
+  {
+    "id": "HAND/67.webp",
+    "category": "HAND",
+    "title": "Crochet Rose",
+    "description": "A single pink and red crochet rose. A beautiful and romantic handmade flower.",
+    "tags": [
+      "crochet",
+      "rose",
+      "handmade",
+      "flower",
+      "romantic"
+    ],
+    "image_path": "HAND/67.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/68.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Bouquets",
+    "description": "A collection of individually wrapped crochet sunflower bouquets. Perfect for party favors or small gifts.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "bouquet",
+      "handmade",
+      "gift"
+    ],
+    "image_path": "HAND/68.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/69.webp",
+    "category": "HAND",
+    "title": "Crochet Roses in Vase",
+    "description": "A beautiful arrangement of pink crochet roses in a white vase. A delicate and elegant home decor piece.",
+    "tags": [
+      "crochet",
+      "rose",
+      "vase",
+      "handmade",
+      "home decor"
+    ],
+    "image_path": "HAND/69.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/70.webp",
+    "category": "HAND",
+    "title": "Crochet Flower Mirror",
+    "description": "A beautiful mirror framed with red, pink, and white crochet flowers. A unique and artistic piece for your home decor.",
+    "tags": [
+      "crochet",
+      "flower",
+      "mirror",
+      "handmade",
+      "home decor"
+    ],
+    "image_path": "HAND/70.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "HAND/71.webp",
+    "category": "HAND",
+    "title": "Crochet Sunflower Shadow Box",
+    "description": "A beautiful crochet sunflower in a wooden shadow box. A unique and artistic way to display a handmade flower.",
+    "tags": [
+      "crochet",
+      "sunflower",
+      "shadow box",
+      "handmade",
+      "art"
+    ],
+    "image_path": "HAND/71.webp",
+    "type": "HomeDecor"
+  },
+  {
+    "id": "WINE/1.webp",
+    "category": "WINE",
+    "title": "Jute Wine Bag with Window",
+    "description": "A jute wine bag with a see-through window to showcase the wine bottle. A perfect gift for wine lovers.",
+    "tags": [
+      "jute bag",
+      "wine bag",
+      "gift",
+      "wine lover",
+      "eco-friendly"
+    ],
+    "image_path": "WINE/1.webp",
+    "type": "WineBag"
+  },
+  {
+    "id": "WINE/2.webp",
+    "category": "WINE",
+    "title": "Bear Hoodie",
+    "description": "A cute and cozy bear hoodie for kids. Perfect for keeping your little ones warm and stylish.",
+    "tags": [
+      "hoodie",
+      "bear",
+      "kids fashion",
+      "cute",
+      "cozy"
+    ],
+    "image_path": "WINE/2.webp",
+    "type": "ModernApparel"
+  },
+  {
+    "id": "WINE/3.webp",
+    "category": "WINE",
+    "title": "Yoga Pose Jute Wine Bag",
+    "description": "A unique jute wine bag with colorful yoga poses printed on it. A fun and quirky gift for yoga enthusiasts.",
+    "tags": [
+      "jute bag",
+      "wine bag",
+      "yoga",
+      "quirky",
+      "gift"
+    ],
+    "image_path": "WINE/3.webp",
+    "type": "WineBag"
+  },
+  {
+    "id": "WINE/4.webp",
+    "category": "WINE",
+    "title": "Handcrafted Jute Bag",
+    "description": "A beautifully handcrafted jute bag with intricate details. A perfect blend of tradition and style.",
+    "tags": [
+      "jute bag",
+      "handcrafted",
+      "traditional",
+      "stylish",
+      "eco-friendly"
+    ],
+    "image_path": "WINE/4.webp",
+    "type": "ShoppingBag"
   }
 ]
